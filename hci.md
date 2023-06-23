@@ -24,9 +24,25 @@ The report focuses on the analysis of user experience and experience perspective
 ## 1.2. Research Questions
 
 1. Name and domain of the product.
+	- **Name:** The ZIIIRO watch's
+
+	- **Domain:**
+		<p> ZIIIRO's products are primarily intended for personal use as stylish and innovative timepieces. 
+		These watches are designed to appeal to individuals who appreciate unique designs, minimalistic aesthetics, and unconventional ways of displaying time. 
+		While their primary function is timekeeping, these watches also serve as fashion accessories, conversation starters, and collector's items for enthusiasts interested in distinctive and limited edition timepieces.</p>
+
 2. What is the target audience of the product?
+	<p>The product is targeted towards individuals who appreciate unique and minimalist timepieces. The ZIIIRO watch's unconventional display and emphasis on graphical design suggest an appeal to users who value aesthetics and enjoy owning distinctive accessories. It is likely to attract individuals who are interested in fashion, design, innovative timepieces devices....</p>
+
 3. Some core use cases of the product (describe in detail the context of each use case such as where, when, situations of users (sitting, standing, lying, running, etc.), methods of user interaction with the product via its interface).
-4. Analysis of benefits and drawbacks of the product’s interface based on the fundamental HCI concepts.
+
+	#### **a. Everyday Timekeeping**: 
+	<p>Users can wear the Lunar watch in their day-to-day activities, such as during work, social events, or casual outings. The watch's design allows users to tell time by observing the changing pattern on the watch face. Interacting with the product involves glancing at the watch to discern the current time based on the positions of the colored semi-circles on the metal discs.</p>
+	
+	#### **b. Fashion and Style Statement**: 
+	<p>The Lunar watch can be worn as a fashion accessory to complement various outfits and personal styles. Its unique design and color variations make it an eye-catching piece that can enhance the wearer's overall appearance. Users can express their individuality and showcase their fashion sense by incorporating the Lunar watch into their outfits.</p>
+
+4. Analysis of benefits and drawbacks of the product's interface based on the fundamental HCI concepts.
 5. Different types of users who might use this application, possible contexts where difficulties and hinderances might occur with the given interfaces and interactions that the products current provide.
 
 # 2. PUBG Mobile
