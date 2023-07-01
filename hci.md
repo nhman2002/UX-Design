@@ -26,7 +26,7 @@ ZIIIRO was founded by two individuals, Robert and Derick, who shared a passion f
 1. Name and domain of the product.
    - **Name:** The ZIIIRO watch's
    - **Domain:**
-     This product is primarily intended for personal use as a stylish and innovative timepiece. The ZIIIRO watches are designed to appeal to individuals who appreciate unique designs, minimalistic aesthetics, and unconventional ways of displaying time. The watches are not only functional for timekeeping but also serve as fashion accessories, conversation starters, and collector's items for enthusiasts interested in distinctive and limited edition timepieces. The ZIIIRO watches are known for their bold and colorful designs that allow users to mix and match colors that pop. They offer a range of unique everyday watches with a focus on simplicity and sleekness, keeping the design minimal and stylish [1].
+     This product is primarily intended for personal use as a stylish and innovative timepiece. The ZIIIRO watches are designed to appeal to individuals who appreciate unique designs, minimalistic aesthetics, and unconventional ways of displaying time. The watches are not only functional for timekeeping but also serve as fashion accessories, conversation starters, and collector's items for enthusiasts interested in distinctive and limited edition timepieces. The ZIIIRO watches are known for their bold and colorful designs that allow users to mix and match colors that pop. They offer a range of unique everyday watches with a focus on simplicity and sleekness, keeping the design minimal and stylish.
 
 2. What is the target audience of the product?
    <p>The ZIIIRO watch is specifically designed to captivate the attention of individuals who have a discerning taste for unique and minimalist timepieces, as well as a deep appreciation for aesthetics. The watch stands out from conventional designs with its unconventional display and emphasis on graphical design, offering a truly distinctive and eye-catching appearance.
@@ -50,32 +50,31 @@ ZIIIRO was founded by two individuals, Robert and Derick, who shared a passion f
 		- **Interaction:** The watch's interface serves as a captivating centerpiece, drawing attention with its distinctive and eye-catching design. Users have the freedom to mix and match colors, choosing from a range of options, to create personalized combinations that perfectly complement their outfits. The ZIIIRO watch becomes an integral part of their fashion ensemble, adding a touch of creativity and individuality. Its seamless integration with their style allows users to showcase their fashion-forward mindset and appreciation for unique accessories.
 
 	<p>In all of these use cases, the ZIIIRO watch offers a seamless and intuitive user experience. The unconventional display and emphasis on graphical design allow users to interact with the watch effortlessly, relying on visual cues rather than traditional timekeeping elements. This makes it suitable for various contexts and user situations, enhancing both functionality and style.</p>
+![Alt text](https://www.ziiiro.com/wp-content/uploads/2023/03/XS-celeste-rose-pink-side-247x296.jpg "a title") 
 
 4. Analysis of benefits and drawbacks of the product's interface based on the fundamental HCI concepts.
+- **Benefits**:
+  - **Simplicity**: The ZIIIRO watch's interface embraces simplicity by utilizing a minimalistic design approach. It eliminates complex buttons, dials, and markings commonly found on traditional watches, resulting in a clean and sleek appearance. This simplicity enhances the user experience by reducing cognitive load and making it easy to read and interpret the time.
+    _Use case_: Busy professionals who are constantly on the go can benefit from the ZIIIRO watch's simplicity. Its minimalist design allows them to quickly glance at the time without being distracted by unnecessary details. Whether they are in a meeting, attending an event, or managing their schedule, the simplicity of the watch's interface helps them prioritize their time and stay focused.
 
-**Benefits**:
+  - **Visual Clarity**: The watch employs a combination of colors, shapes, and patterns to represent the time. This visual clarity allows users to quickly understand the current time at a glance. By removing unnecessary elements, the ZIIIRO watch provides a focused and unambiguous display.
+    _Use case_: In a diverse professional setting, the ZIIIRO watch's visual clarity proves valuable. Professionals such as engineers, designers, and architects can easily glance at the watch during meetings without being distracted by unnecessary details. This allows them to maintain focus, adhere to schedules, and seamlessly transition between tasks. The minimalist design adds sophistication to their attire, making it a subtle fashion statement.
 
-- **Simplicity**: The ZIIIRO watch's interface embraces simplicity by utilizing a minimalistic design approach. It eliminates complex buttons, dials, and markings commonly found on traditional watches, resulting in a clean and sleek appearance. This simplicity enhances the user experience by reducing cognitive load and making it easy to read and interpret the time.
-  _Use case_: Busy professionals who are constantly on the go can benefit from the ZIIIRO watch's simplicity. Its minimalist design allows them to quickly glance at the time without being distracted by unnecessary details. Whether they are in a meeting, attending an event, or managing their schedule, the simplicity of the watch's interface helps them prioritize their time and stay focused.
-
-- **Visual Clarity**: The watch employs a combination of colors, shapes, and patterns to represent the time. This visual clarity allows users to quickly understand the current time at a glance. By removing unnecessary elements, the ZIIIRO watch provides a focused and unambiguous display.
-  _Use case_: In a diverse professional setting, the ZIIIRO watch's visual clarity proves valuable. Professionals such as engineers, designers, and architects can easily glance at the watch during meetings without being distracted by unnecessary details. This allows them to maintain focus, adhere to schedules, and seamlessly transition between tasks. The minimalist design adds sophistication to their attire, making it a subtle fashion statement.
-
-- **Aesthetic Appeal**: The unique design of the ZIIIRO watch's interface appeals to users who appreciate unconventional and modern aesthetics. The watch serves as a fashion statement and conversation starter, appealing to those who value style and individuality.
+  - **Aesthetic Appeal**: The unique design of the ZIIIRO watch's interface appeals to users who appreciate unconventional and modern aesthetics. The watch serves as a fashion statement and conversation starter, appealing to those who value style and individuality.
   _Use case_: Fashion-forward individuals who seek to express their individuality through accessories can benefit from the ZIIIRO watch's aesthetic appeal. Whether they are attending parties, social events, or simply want to stand out in their day-to-day activities, the watch serves as a conversation starter and complements their personal style choices.
 
-**Drawbacks**:
+- **Drawbacks**:
 
-- **Learning Curve**: Due to its unconventional interface, users may initially find it challenging to understand how to read the time on the ZIIIRO watch. It deviates from the traditional watch face format, requiring users to learn a new time-telling method. This learning curve can be a drawback for users who prefer familiarity and ease of use.
-  _Use case_: Elderly users who are accustomed to traditional watch designs and may have difficulty adapting to new technologies could find the learning curve of the ZIIIRO watch challenging. Its unconventional interface might cause confusion and frustration for individuals who are used to reading time in a more traditional manner.
+  - **Learning Curve**: Due to its unconventional interface, users may initially find it challenging to understand how to read the time on the ZIIIRO watch. It deviates from the traditional watch face format, requiring users to learn a new time-telling method. This learning curve can be a drawback for users who prefer familiarity and ease of use.
+    _Use case_: Elderly users who are accustomed to traditional watch designs and may have difficulty adapting to new technologies could find the learning curve of the ZIIIRO watch challenging. Its unconventional interface might cause confusion and frustration for individuals who are used to reading time in a more traditional manner.
 
-- **Precision and Accuracy**: The abstract representation of time on the ZIIIRO watch sacrifices precise timekeeping. The absence of minute and second markers makes it difficult to determine time with high accuracy. While the watch may suffice for general timekeeping, it may not be suitable for situations that require precise timing.
-  _Use case_: Sports and fitness enthusiasts who require precise timing for activities such as interval training, timing laps, or monitoring rest periods may find the abstract time representation of the ZIIIRO watch insufficient. The lack of minute and second markers makes it difficult to track time precisely, potentially impacting their performance or training routines
+  - **Precision and Accuracy**: The abstract representation of time on the ZIIIRO watch sacrifices precise timekeeping. The absence of minute and second markers makes it difficult to determine time with high accuracy. While the watch may suffice for general timekeeping, it may not be suitable for situations that require precise timing.
+    _Use case_: Sports and fitness enthusiasts who require precise timing for activities such as interval training, timing laps, or monitoring rest periods may find the abstract time representation of the ZIIIRO watch insufficient. The lack of minute and second markers makes it difficult to track time precisely, potentially impacting their performance or training routines
 
-- **Limited Functionality**: The ZIIIRO watch's interface focuses solely on displaying the time. It lacks additional features commonly found in modern watches, such as date display, alarms, or timers. Users who require these functionalities may find the ZIIIRO watch limited in its capabilities.
-  _Use case_: Travelers who rely on watches to not only tell time but also track multiple time zones or use alarms to manage their schedules may find the limited functionality of the ZIIIRO watch inconvenient. The absence of additional features like date display, world time, or alarms may hinder their ability to efficiently manage their travel plans or stay organized in different time zones.
+  - **Limited Functionality**: The ZIIIRO watch's interface focuses solely on displaying the time. It lacks additional features commonly found in modern watches, such as date display, alarms, or timers. Users who require these functionalities may find the ZIIIRO watch limited in its capabilities.
+    _Use case_: Travelers who rely on watches to not only tell time but also track multiple time zones or use alarms to manage their schedules may find the limited functionality of the ZIIIRO watch inconvenient. The absence of additional features like date display, world time, or alarms may hinder their ability to efficiently manage their travel plans or stay organized in different time zones.
 
-- **Accessibility**: The abstract representation of time on the ZIIIRO watch may pose challenges for individuals with visual impairments or certain cognitive disabilities. The lack of clear, standardized time indicators can hinder accessibility for a portion of the user population.
+  - **Accessibility**: The abstract representation of time on the ZIIIRO watch may pose challenges for individuals with visual impairments or certain cognitive disabilities. The lack of clear, standardized time indicators can hinder accessibility for a portion of the user population.
   _Use case_: Visually impaired users who heavily rely on tactile or audible feedback to interact with devices may find the abstract time representation of the ZIIIRO watch inaccessible. The lack of clear indicators or tactile markings makes it difficult for these users to independently read and interpret the time, potentially excluding them from using the watch effectively.
 
 5. Different types of users who might use this application, possible contexts where difficulties and hinderances might occur with the given interfaces and interactions that the products current provide.
@@ -217,12 +216,11 @@ Elements such as Animation Fluidity, Network Performance, Movement Responsivenes
 
 There are 2 kinds of inventory management: **Home screen inventory management** and **In-game inventory management**
 
-<!-- Viet lai cai nay -->
 
-- **In-game inventory management:** Players can perform actions such as swapping items between their inventory and the ground, dropping items from their inventory, or picking up items from the ground. PUBG Mobile typically offers options to sort and filter the inventory based on different criteria such as item type, rarity, and quantity. This helps players quickly find and manage specific items. By selecting an item in the inventory, players can access additional information about that item, such as its stats, attachments compatibility, and any customization options available.
+- `Home screen inventory management`, there are 5 categories which include: Character skin, Weapons skin, Vehicle skin, ... Players can perform actions such as swapping items between their inventory and the equip slot. PUBG Mobile typically offers options to sort and filter the inventory based on different criteria such as item type, rarity, and quantity. This helps players quickly find and manage specific items. By selecting an item in the inventory, players can access additional information about that item, such as its stats, attachments compatibility, and any customization options available.
 
-- **In-game inventory management**, there are only 2 categories which include: Weapons and Equipment, Character items (cosmetics items). 
-In the Weapons and Equipment section, you can see what type of weapon you are using and its Equipment, you can also see the ammunition and other Healing and Boost Items. In the Character items section you can see what type of item your character is wearing, you can switch those with others players only when you can find their position in case of they have been eliminated. Players can perform actions like swapping items between their inventory and the ground, dropping items from their inventory, or picking up items from the ground. There are also Sorting and Filtering section for the Players. By selecting an item in the inventory, players can access additional information about that item, including its stats, attachments compatibility, and any customization options available.
+- `In-game inventory management`, there are only 2 categories which include: Weapons and Equipment, Character items (cosmetics items). In the Weapons and Equipment section, you can see what type of weapon you are using and its Equipment, you can also see the ammunition and other Healing and Boost Items. The character items section shows the items the player's character is wearing, and they can only switch these items with items found on eliminated players' positions. Players can perform actions like swapping items between their inventory and the ground, dropping items from their inventory, or picking up items from the ground. There are also Sorting and Filtering section for the Players. By selecting an item in the inventory, players can access additional information about that item, including its stats, attachments compatibility, and any customization options available.
+
 
 ![pubg-inventory](images/image-pubg-2.png)
 
@@ -230,10 +228,6 @@ In the Weapons and Equipment section, you can see what type of weapon you are us
 
 The drawback lies in the space in which the user interacts with the game, and server connection speed will depend on many factors such as network speed, which device to use to play the game.
 
-<!-- **Customization:**
-
-PUBG Mobile offers many customizable options for the Players to choose such as settings, controls, and gameplay preferences.
-There are some pre-installed mode on the controller customize section but you can also customize it yourself. [Display Modes](##display-modes) and [Audio Modes](##audio-modes). Loadout and Gear Customization will be accessible when you play the game, this mean you can change & switch the weapons you are using or the cosmetics items you're wearing. -->
 
 **Overloaded Interaction Space:**
 
@@ -261,30 +255,9 @@ The game developers strive to optimize the UI to ensure quick and accurate respo
 
 To enhance the responsiveness of the game UI, it is recommended to play on a device with sufficient processing power and memory, have a stable and fast internet connection, and close any unnecessary background applications that may consume system resources.
 
-<!-- **Streamlined Interface:**
+It's important to note that different devices and individual configurations may experience varying levels of UI responsiveness. It's always a good idea to keep your device updated with the latest software updates and optimizations provided by the game developers to ensure the best possible performance.
 
-The PUBG Mobile UI strives to be streamlined and intuitive, focusing on essential gameplay elements and information. However, certain aspects can be further optimized to enhance the user experience.
 
--	**Solution:** Continued UI Optimization and Performance Enhancements
-The developers should continually assess the UI layout and refine it to minimize clutter and maximize visibility. By incorporating user feedback, they can identify areas for improvement and implement changes to make the interface more intuitive and efficient. Additionally, ongoing performance optimization efforts should target graphics settings, frame rate optimization, network optimization, device compatibility, resource management, and regular updates to ensure smooth gameplay and minimize lag or frame rate issues. -->
-
-<!-- **Performance Optimization:**
-
-Performance optimization is a crucial aspect of any mobile game, including PUBG MOBILE. The developers of PUBG MOBILE continually work to optimize the game's performance to ensure smooth gameplay and reduce lag or frame rate issues. Here are some common performance optimization techniques used in mobile games:
-
-- Graphics Settings: PUBG MOBILE allows players to adjust their graphics settings to match the capabilities of their device. Lowering the graphics quality and disabling features like shadows and anti-aliasing can improve performance on lower-end devices.
-
-- Frame Rate Optimization: The game strives to maintain a stable frame rate by optimizing rendering techniques and reducing unnecessary graphical effects. A higher frame rate provides smoother gameplay and a more responsive user interface.
-
-- Network Optimization: PUBG MOBILE employs network optimization techniques to minimize latency and ensure a stable online gaming experience. This includes efficient data transfer protocols and server optimizations.
-
-- Device Compatibility: The game developers optimize PUBG MOBILE for a wide range of mobile devices, ensuring compatibility and performance across various hardware configurations.
-
-- Regular Updates: Performance optimization is an ongoing process, and the developers release regular updates to address performance issues, fix bugs, and introduce optimizations for better gameplay.
-
-- Resource Management: PUBG MOBILE optimizes the usage of device resources such as CPU, GPU, and memory to minimize system load and improve performance.
-
-- Background Processes: It is recommended to close any unnecessary background processes or applications running on your device while playing PUBG MOBILE. This frees up system resources and can improve performance. -->
 
 ### 2.5.3. Memorability
 
@@ -292,12 +265,14 @@ Memorability in usability refers to how easily users can remember how to interac
 
 - **Consistent Design Patterns:** PUBG MOBILE follows consistent design patterns throughout the user interface. This means that similar actions and interactions are represented in a uniform way across different screens and menus. For example, the placement of buttons, icons, and menu structures remain consistent, making it easier for users to remember how to navigate and interact within the game.
 - **Intuitive Controls:** The game utilizes intuitive controls that align with common gaming conventions. This helps players familiarize themselves with the controls quickly and easily. For example, movement controls, shooting mechanics, and other actions are designed to be intuitive and aligned with industry-standard gaming practices.
-<!-- - **Onboarding and Tutorials:** PUBG MOBILE provides an onboarding process and tutorials to guide new players through the basics of the game. These tutorials help users understand the core mechanics, controls, and objectives, allowing them to retain this knowledge and apply it during gameplay. -->
-- **Help and Support:** The game offers in-game help and support features, including tooltips, prompts, and contextual information. These resources can aid players in refreshing their memory on specific features or mechanics when needed.
+
+
+
 - **Personalized Settings:** PUBG MOBILE allows users to customize their settings, including controls, sensitivity, and UI elements. By giving players the ability to tailor the game experience to their preferences, it increases memorability as they can configure the game to match their individual playstyle and needs.
 - **Visual Cues and Feedback:** PUBG MOBILE incorporates visual cues and feedback to reinforce actions and provide information to the player. This can include highlighting interactive elements, displaying status indicators, and providing visual and audio feedback when actions are performed successfully. These cues help users remember the effects of their actions and understand the outcome of their interactions.
 - **Iconography:** PUBG MOBILE utilizes clear and recognizable icons throughout its user interface. Consistent and well-designed icons help users remember the meaning and functionality associated with specific actions or features. Familiar and easily understood icons contribute to the memorability of the interface.
-<!-- - **Navigation Structure:** The game employs a hierarchical and logical navigation structure. Menus and screens are organized in a way that reflects a natural flow of interactions. Intuitive and well-structured navigation aids users in remembering where to find specific features or options within the game. -->
+
+
 - **Visual Hierarchy:** PUBG MOBILE applies visual hierarchy to highlight important elements and information. By using size, color, contrast, and spacing effectively, the interface guides users' attention to key elements, making them more memorable and easier to locate and interact with in the future.
 
 By focusing on consistent design patterns, intuitive controls, helpful onboarding, personalized settings, visual cues, and feedback, PUBG MOBILE aims to enhance the memorability of the user interface. This, in turn, improves the overall user experience by reducing the cognitive load on players and enabling them to quickly recall how to interact with the game even after periods of inactivity.
@@ -320,12 +295,10 @@ For example, there are three main situations that need direction control: the la
 - Placing critical buttons, such as the fire button or grenade throw button, too close together, resulting in accidental taps or erroneous actions.
 - Buttons placed in non-intuitive locations, making it difficult for users to locate or access them quickly, leading to delays and errors in gameplay.
 
+
 ![pubg-btn-layout](images/pubg-btn-layout.png)
 
-<!-- **Overwhelming Information:**
-
-- Presenting a large amount of information on-screen simultaneously, without proper organization or prioritization, making it difficult for users to focus on relevant details and leading to errors or overlooked information.
-- Displaying complex statistics or data without clear visual representations or explanations, hindering users' ability to interpret and utilize the information effectively. -->
+<
 
 
 ### 2.5.5. Satisfaction
