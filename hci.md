@@ -3,14 +3,7 @@ date: "2023-23-06"
 title: "HCI: Analysis of the User Experience"
 ---
 
-# 1. Introduction
-
-Welcome to the world of ZIIIRO Watches, where boldness meets minimalism and everyday timekeeping becomes an art form. ZIIIRO is a renowned brand known for its unique and fashionable timepieces that effortlessly blend style and functionality. With their sleek designs and eye-catching colors, ZIIIRO watches are the perfect accessories to complement your outfit and make a bold statement.
-
-ZIIIRO was founded by two individuals, Robert and Derick, who shared a passion for creating timepieces that challenge traditional norms. Their journey began on the internet, where Robert, based in Germany, showcased his watch designs, catching the attention of Derick from Hong Kong. With their shared vision of minimalism and a desire to create something extraordinary, ZIIIRO was born.
-
-## 1.1. Aim and Objectives
-
+# 1. Aim and Objectives
 The aim of this report is to evaluate and analyse the user experience of two products:
 
 1. [Ziiiro Watch](https://www.ziiiro.com/)
@@ -23,12 +16,16 @@ The report focuses on the analysis of user experience and experience perspective
 - Interaction metaphor
 - Usability
 
+
+## 1.1. Introduction
+Welcome to the world of ZIIIRO Watches, where boldness meets minimalism and everyday timekeeping becomes an art form. ZIIIRO is a renowned brand known for its unique and fashionable timepieces that effortlessly blend style and functionality. With their sleek designs and eye-catching colors, ZIIIRO watches are the perfect accessories to complement your outfit and make a bold statement.
+
+ZIIIRO was founded by two individuals, Robert and Derick, who shared a passion for creating timepieces that challenge traditional norms. Their journey began on the internet, where Robert, based in Germany, showcased his watch designs, catching the attention of Derick from Hong Kong. With their shared vision of minimalism and a desire to create something extraordinary, ZIIIRO was born.
+
 ## 1.2. Research Questions
-
 1. Name and domain of the product.
-
-   - Name: The ZIIIRO watch's
-   - Domain:
+   - **Name:** The ZIIIRO watch's
+   - **Domain:**
      This product is primarily intended for personal use as a stylish and innovative timepiece. The ZIIIRO watches are designed to appeal to individuals who appreciate unique designs, minimalistic aesthetics, and unconventional ways of displaying time. The watches are not only functional for timekeeping but also serve as fashion accessories, conversation starters, and collector's items for enthusiasts interested in distinctive and limited edition timepieces. The ZIIIRO watches are known for their bold and colorful designs that allow users to mix and match colors that pop. They offer a range of unique everyday watches with a focus on simplicity and sleekness, keeping the design minimal and stylish [1].
 
 2. What is the target audience of the product?
@@ -45,22 +42,12 @@ The report focuses on the analysis of user experience and experience perspective
 	- **Everyday Timekeeping:**
 		- **Context:** This use case encompasses the daily routine of users, whether at home, work, or during leisure activities.
 		- **User Situations:** Users can be in a variety of positions such as sitting, standing, or walking, and engaged in various tasks or activities.
-		- **Interaction:** Users interact with the watch by glancing at its unconventional display, which may feature moving gradients, rotating discs, or other graphical elements. The watch's interface provides a visual representation of the time, allowing users to effortlessly read the hours and minutes. The absence of traditional hands and markings does not hinder its readability, as the design focuses on simplicity and minimalism.
+		- **Interaction:** Users interact with the ZIIIRO watch by simply glancing at its unconventional display, which may feature moving gradients, rotating discs, or other graphical elements. The watch's interface provides a visually striking representation of the time, allowing users to effortlessly read the hours and minutes. The absence of traditional hands and markings does not hinder its readability; instead, the design focuses on simplicity and minimalism. The watch's interface serves as a constant visual reminder of the time, ensuring that users can stay on schedule and manage their tasks efficiently. Whether sitting at a desk, running on a treadmill, or engaging in any other activity, users can quickly glance at the watch to stay informed without the need for distracting or intrusive notifications. It seamlessly integrates into their daily lives, providing a unique and intuitive timekeeping experience.
 		
 	- **Fashion and Style:**
 		- **Context:** This use case revolves around users who appreciate the ZIIIRO watch as a fashionable accessory, allowing them to express their personal style and make a statement.
 		- **User Situations:** Users can wear the watch while attending social events, parties, or gatherings, or as part of their daily attire to enhance their overall look.
-		- **Interaction:** The watch's interface serves as a visual centerpiece, drawing attention with its unique and eye-catching design. Users can mix and match colors, choosing from a range of options, to create personalized combinations that complement their outfits. The watch becomes an integral part of their fashion ensemble, adding a touch of creativity and individuality.
-
-	- **Conversations and Social Interactions:**
-		- **Context:** In social relations, the ZIIIRO watch can spark conversations and become a topic of interest, allowing users to share their appreciation for its unconventional design.
-		- **User Situations:** Users can wear the watch during meetings, gatherings, or casual conversations, where others may notice and inquire about its distinctive appearance.
-		- **Interaction:** When engaging in conversations, users can showcase the watch, emphasizing its minimalist and artistic qualities. The watch becomes a conversation starter, enabling users to share their enthusiasm for fashion, design, and innovative timepiece devices.
-	
-	- **Personal Time Management:**
-		- **Context:** The ZIIIRO watch can assist users in managing their time effectively and staying aware of the passing hours in various situations.
-		- **User Situations:** Users can wear the watch while working, studying, exercising, or engaging in any activity that requires them to track time.
-		- **Interaction:** The watch's interface provides a constant visual reminder of the time, ensuring that users can stay on schedule and manage their tasks efficiently. Whether sitting at a desk, running on a treadmill, or engaged in any other activity, users can quickly glance at the watch to stay informed without the need for distracting or intrusive notifications.
+		- **Interaction:** The watch's interface serves as a captivating centerpiece, drawing attention with its distinctive and eye-catching design. Users have the freedom to mix and match colors, choosing from a range of options, to create personalized combinations that perfectly complement their outfits. The ZIIIRO watch becomes an integral part of their fashion ensemble, adding a touch of creativity and individuality. Its seamless integration with their style allows users to showcase their fashion-forward mindset and appreciation for unique accessories.
 
 	<p>In all of these use cases, the ZIIIRO watch offers a seamless and intuitive user experience. The unconventional display and emphasis on graphical design allow users to interact with the watch effortlessly, relying on visual cues rather than traditional timekeeping elements. This makes it suitable for various contexts and user situations, enhancing both functionality and style.</p>
 
