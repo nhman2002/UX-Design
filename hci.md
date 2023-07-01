@@ -118,13 +118,11 @@ PUBG Mobile leverages players' perceptual abilities, including visual and audito
 
 ### 2.3.2. Cognition
 
-PUBG Mobile requires various cognitive abilities, such as attention, memory, decision-making, and problem-solving. Players need to pay attention to their surroundings, remember locations of resources and opponents, make strategic decisions on movement and engagement, and solve problems in dynamic and unpredictable situations. The game challenges cognitive abilities by presenting players with complex scenarios that require quick thinking and adapting to changing circumstances.
+Minimize the user’s memory load by making objects, actions, and options visible. The user should not have to remember information from one part of the dialogue to another. Instructions for use of the system should be visible or easily retrievable whenever appropriate.
 
-Moreover, PUBG Mobile requires players to utilize their fine motor skills for precise control of aiming, shooting, and maneuvering. Players must coordinate finger movements on touchscreens to perform actions like aiming, firing, switching weapons, and operating various UI elements. The game also challenges players' hand-eye coordination, as they need to align their visual perception with precise finger movements. Swift and accurate motor responses are crucial for success in combat situations.
+The weapons and bullets have different types in the PUBG mobile and players feel difficult to figure out what they need at that time. The highlighted stuff is an automatic reminder for players to recognize the weapon they have and what bullets they should pick up.
 
-### 2.3.3. Multitasking
-
-PUBG Mobile places demands on players' multitasking abilities as they simultaneously process visual and auditory information, make strategic decisions, communicate with teammates, and perform motor actions. Players must manage multiple objectives and tasks simultaneously, such as monitoring the environment, maintaining situational awareness, communicating with teammates, and executing combat tactics. The game requires players to effectively allocate their attention and prioritize tasks in a dynamic and fast-paced setting.
+![pubg-image-1](images/pubg-cognition.png)
 
 ## 2.4. User Mental Model
 
@@ -133,6 +131,8 @@ PUBG Mobile places demands on players' multitasking abilities as they simultaneo
 PUBG Mobile incorporates real-world references to enhance the user experience and facilitate learning. The game draws inspiration from real-world military tactics, weapons, and equipment. This allows players to leverage their existing knowledge and understanding of these concepts to improve their performance in the game. For example, players can apply real-world knowledge of weapon characteristics, such as recoil and bullet drop, to improve their aim and accuracy in PUBG Mobile.
 
 PUBG Mobile also incorporates real-world references in its user interface. For example, the inventory system is designed to mimic a backpack, allowing players to organize and manage their items in a way that is familiar and intuitive. Similarly, the map interface resembles a paper map, providing a recognizable and intuitive way to navigate the game world.
+
+![image-pubg-2](images/pubg-realworld.png)
 
 ### 2.4.2. Familiarity with Battle Royale Genre and Gaming Conventions
 
@@ -145,7 +145,6 @@ PUBG Mobile follows common gaming conventions to enhance the user experience and
 ## 2.5. Usability
 
 ### 2.5.1. Learnability
-
 
 Learnability plays a crucial role in the overall usability of a system, and PUBG Mobile incorporates several features to ensure that new players can quickly grasp the game mechanics and navigate the interface. Here is a more detailed analysis of learnability in PUBG Mobile:
 
@@ -160,6 +159,8 @@ Learnability plays a crucial role in the overall usability of a system, and PUBG
 **Practice Modes:** In addition to the tutorial, PUBG Mobile offers practice modes where players can engage in non-competitive matches or training sessions. These modes allow users to hone their skills, experiment with different weapons and strategies, and gain familiarity with the game's mechanics in a controlled environment. Practice modes contribute to the iterative learning process, enabling players to refine their abilities gradually.
 
 **Visual Cues and Feedback:** PUBG Mobile utilizes visual cues and feedback to assist players in understanding the consequences of their actions. For example, when players take damage, the visual representation of health bars or character animations conveys the impact. Similarly, when players successfully eliminate opponents, visual and auditory cues provide feedback and reinforce the understanding of the game's objectives.
+
+![pubg-image-2](images/pubg-cues.jpg)
 
 **Progression System:** PUBG Mobile incorporates a progression system that rewards players with experience points, achievements, and unlockable content as they play. This incentivizes continued engagement and provides a sense of accomplishment and progression. The progression system acts as an additional motivator for players to invest time and effort in learning and improving their skills.
 
@@ -177,6 +178,8 @@ PUBG Mobile presents a few challenges that may hinder the learning process for n
 
 **Language Barriers:** PUBG Mobile is played by a global audience, and language barriers can pose challenges for players who are not fluent in the game's default language. In some cases, translations may not be accurate or may be incomplete, leading to confusion and difficulty in understanding instructions and tooltips.
 
+![pubg-image-3](images/Language2.png)
+
 **Time Investment:** PUBG Mobile is a complex game that requires a significant time investment to become proficient. Some players may find it difficult to dedicate the necessary time to learn and improve their skills, which can impede their progress and enjoyment of the game.
 
 **Lack of Adaptive Learning:** PUBG Mobile currently does not have a sophisticated adaptive learning system that tailors the learning experience to individual players' needs. While the tutorial and practice modes provide a general foundation, the game does not adapt its guidance based on players' specific strengths, weaknesses, or preferred learning styles.
@@ -185,7 +188,9 @@ PUBG Mobile presents a few challenges that may hinder the learning process for n
 
 #### Good Points
 
-**Navigation Speed:**: Players can quickly navigate through menus, settings, and in-game interfaces to access various features and options (such as where to start the match, friend list, shops, battle pass, ...). Everything is scattered around the edge of the screen to give your in-game character the highlight.
+**Navigation Speed:**: Players can quickly navigate through menus, settings, and in-game interfaces to access various features and options (such as where to start the match, friend list, shops, battle pass, ...). Everything is scattered around the edge of the screen to give your in-game character the highlight. Also,  there is always an Exit button on the top right to undo action and exit the dialogue.
+
+![pubg-image-4](images/pubg-navigation.png)
 
 **Action Execution:** Action execution refers to the speed and responsiveness with which players can perform in-game actions in PUBG Mobile. It encompasses tasks such as shooting, looting, interacting with objects, and navigating the game world. To evaluate action execution in PUBG Mobile, you can consider the following aspects:
 
@@ -210,21 +215,25 @@ Elements such as Animation Fluidity, Network Performance, Movement Responsivenes
 
 **Inventory Management:**
 
-There are 2 kinds of inventory management: `Home screen inventory management & In-game inventory management`
+There are 2 kinds of inventory management: **Home screen inventory management** and **In-game inventory management**
 
-- `Home screen inventory management`, there are 5 categories which include: Character skin, Weapons skin, Vehicle skin, ... Players can perform actions such as swapping items between their inventory and the ground, dropping items from their inventory, or picking up items from the ground. PUBG Mobile typically offers options to sort and filter the inventory based on different criteria such as item type, rarity, and quantity. This helps players quickly find and manage specific items. By selecting an item in the inventory, players can access additional information about that item, such as its stats, attachments compatibility, and any customization options available.
+<!-- Viet lai cai nay -->
 
-- `In-game inventory management`, there are only 2 categories which include: Weapons and Equipment, Character items (cosmetics items). 
+- **In-game inventory management:** Players can perform actions such as swapping items between their inventory and the ground, dropping items from their inventory, or picking up items from the ground. PUBG Mobile typically offers options to sort and filter the inventory based on different criteria such as item type, rarity, and quantity. This helps players quickly find and manage specific items. By selecting an item in the inventory, players can access additional information about that item, such as its stats, attachments compatibility, and any customization options available.
+
+- **In-game inventory management**, there are only 2 categories which include: Weapons and Equipment, Character items (cosmetics items). 
 In the Weapons and Equipment section, you can see what type of weapon you are using and its Equipment, you can also see the ammunition and other Healing and Boost Items. In the Character items section you can see what type of item your character is wearing, you can switch those with others players only when you can find their position in case of they have been eliminated. Players can perform actions like swapping items between their inventory and the ground, dropping items from their inventory, or picking up items from the ground. There are also Sorting and Filtering section for the Players. By selecting an item in the inventory, players can access additional information about that item, including its stats, attachments compatibility, and any customization options available.
+
+![pubg-inventory](images/image-pubg-2.png)
 
 #### Drawbacks and Hindrances
 
 The drawback lies in the space in which the user interacts with the game, and server connection speed will depend on many factors such as network speed, which device to use to play the game.
 
-**Customization:**
+<!-- **Customization:**
 
 PUBG Mobile offers many customizable options for the Players to choose such as settings, controls, and gameplay preferences.
-There are some pre-installed mode on the controller customize section but you can also customize it yourself. [Display Modes](##display-modes) and [Audio Modes](##audio-modes). Loadout and Gear Customization will be accessible when you play the game, this mean you can change & switch the weapons you are using or the cosmetics items you're wearing.
+There are some pre-installed mode on the controller customize section but you can also customize it yourself. [Display Modes](##display-modes) and [Audio Modes](##audio-modes). Loadout and Gear Customization will be accessible when you play the game, this mean you can change & switch the weapons you are using or the cosmetics items you're wearing. -->
 
 **Overloaded Interaction Space:**
 
@@ -232,19 +241,19 @@ One of the main drawbacks is the crowded interaction space in PUBG Mobile. While
 -	**Solution:** Customizable Controller Interface
 To enhance the user experience, a potential solution is to provide users with the ability to customize their controller interface. By allowing users to personalize the placement and number of buttons according to their preferences and gameplay style, the interaction space can be optimized. However, it should be noted that customization may result in the transfer of the problem to other aspects, as reducing buttons may limit certain movements or actions.
 
+![pubg-fingers](images/pubg-fingers.jpg)
+
 
 **Minimization of Redundant Steps:**
 
 Reducing redundant steps in the user interface (UI) is crucial for enhancing the user experience. PUBG Mobile incorporates several strategies to streamline gameplay and minimize unnecessary actions. Quick access menus, contextual controls, auto pick-up and loot, inventory management features, simplified vehicle controls, and customizable UI options all contribute to reducing redundancy.
+
 -	**Solution:** Continuous Improvement and Refinement
 To further minimize redundant steps, PUBG Mobile developers should continue to analyze user feedback and conduct usability testing. This iterative process can help identify areas where additional streamlining and simplification can be achieved. By prioritizing user input and focusing on efficiency, the developers can enhance the overall user experience.
 
+**Load-time and Matchmaking:**
 
-**Load Times and Matchmaking:**
-
-The time it takes to find a match in each map in PUBG MOBILE can vary depending on several factors, including the region, time of day, and the player’s rank. On average, it typically takes around 30 seconds to a few minutes to find a match in popular maps such as Erangel, Miramar, Sanhok, and Vikendi. However, less popular or newer maps may take longer to find a match.
-
-According to the players feedback, they are satisfied with amount of time to find a match.
+The time it takes to find a match in each map in PUBG MOBILE can vary depending on several factors, including the region, time of day, and the player’s rank. On average, it typically takes around 30 seconds to a few minutes to find a match in popular maps such as Erangel, Miramar, Sanhok, and Vikendi. However, less popular or newer maps may take longer to find a match. Additionally, the time it takes to find a match can vary depending on the player’s rank. Higher-ranked players may experience longer matchmaking times due to the smaller pool of players available at their skill level.
 
 **Responsiveness to Feedback:**
 
@@ -252,16 +261,15 @@ The game developers strive to optimize the UI to ensure quick and accurate respo
 
 To enhance the responsiveness of the game UI, it is recommended to play on a device with sufficient processing power and memory, have a stable and fast internet connection, and close any unnecessary background applications that may consume system resources.
 
-It's important to note that different devices and individual configurations may experience varying levels of UI responsiveness. It's always a good idea to keep your device updated with the latest software updates and optimizations provided by the game developers to ensure the best possible performance.
-
-**Streamlined Interface:**
+<!-- **Streamlined Interface:**
 
 The PUBG Mobile UI strives to be streamlined and intuitive, focusing on essential gameplay elements and information. However, certain aspects can be further optimized to enhance the user experience.
+
 -	**Solution:** Continued UI Optimization and Performance Enhancements
-The developers should continually assess the UI layout and refine it to minimize clutter and maximize visibility. By incorporating user feedback, they can identify areas for improvement and implement changes to make the interface more intuitive and efficient. Additionally, ongoing performance optimization efforts should target graphics settings, frame rate optimization, network optimization, device compatibility, resource management, and regular updates to ensure smooth gameplay and minimize lag or frame rate issues.
+The developers should continually assess the UI layout and refine it to minimize clutter and maximize visibility. By incorporating user feedback, they can identify areas for improvement and implement changes to make the interface more intuitive and efficient. Additionally, ongoing performance optimization efforts should target graphics settings, frame rate optimization, network optimization, device compatibility, resource management, and regular updates to ensure smooth gameplay and minimize lag or frame rate issues. -->
 
+<!-- **Performance Optimization:**
 
-**Performance Optimization:**
 Performance optimization is a crucial aspect of any mobile game, including PUBG MOBILE. The developers of PUBG MOBILE continually work to optimize the game's performance to ensure smooth gameplay and reduce lag or frame rate issues. Here are some common performance optimization techniques used in mobile games:
 
 - Graphics Settings: PUBG MOBILE allows players to adjust their graphics settings to match the capabilities of their device. Lowering the graphics quality and disabling features like shadows and anti-aliasing can improve performance on lower-end devices.
@@ -276,28 +284,20 @@ Performance optimization is a crucial aspect of any mobile game, including PUBG 
 
 - Resource Management: PUBG MOBILE optimizes the usage of device resources such as CPU, GPU, and memory to minimize system load and improve performance.
 
-- Background Processes: It is recommended to close any unnecessary background processes or applications running on your device while playing PUBG MOBILE. This frees up system resources and can improve performance.
+- Background Processes: It is recommended to close any unnecessary background processes or applications running on your device while playing PUBG MOBILE. This frees up system resources and can improve performance. -->
 
 ### 2.5.3. Memorability
 
 Memorability in usability refers to how easily users can remember how to interact with a system or user interface after a period of time. In the context of PUBG MOBILE, memorability plays a vital role in creating a positive user experience. Here are some aspects of memorability in the usability of PUBG MOBILE:
 
 - **Consistent Design Patterns:** PUBG MOBILE follows consistent design patterns throughout the user interface. This means that similar actions and interactions are represented in a uniform way across different screens and menus. For example, the placement of buttons, icons, and menu structures remain consistent, making it easier for users to remember how to navigate and interact within the game.
-
 - **Intuitive Controls:** The game utilizes intuitive controls that align with common gaming conventions. This helps players familiarize themselves with the controls quickly and easily. For example, movement controls, shooting mechanics, and other actions are designed to be intuitive and aligned with industry-standard gaming practices.
-
-- **Onboarding and Tutorials:** PUBG MOBILE provides an onboarding process and tutorials to guide new players through the basics of the game. These tutorials help users understand the core mechanics, controls, and objectives, allowing them to retain this knowledge and apply it during gameplay.
-
+<!-- - **Onboarding and Tutorials:** PUBG MOBILE provides an onboarding process and tutorials to guide new players through the basics of the game. These tutorials help users understand the core mechanics, controls, and objectives, allowing them to retain this knowledge and apply it during gameplay. -->
 - **Help and Support:** The game offers in-game help and support features, including tooltips, prompts, and contextual information. These resources can aid players in refreshing their memory on specific features or mechanics when needed.
-
 - **Personalized Settings:** PUBG MOBILE allows users to customize their settings, including controls, sensitivity, and UI elements. By giving players the ability to tailor the game experience to their preferences, it increases memorability as they can configure the game to match their individual playstyle and needs.
-
 - **Visual Cues and Feedback:** PUBG MOBILE incorporates visual cues and feedback to reinforce actions and provide information to the player. This can include highlighting interactive elements, displaying status indicators, and providing visual and audio feedback when actions are performed successfully. These cues help users remember the effects of their actions and understand the outcome of their interactions.
-
 - **Iconography:** PUBG MOBILE utilizes clear and recognizable icons throughout its user interface. Consistent and well-designed icons help users remember the meaning and functionality associated with specific actions or features. Familiar and easily understood icons contribute to the memorability of the interface.
-
-- **Navigation Structure:** The game employs a hierarchical and logical navigation structure. Menus and screens are organized in a way that reflects a natural flow of interactions. Intuitive and well-structured navigation aids users in remembering where to find specific features or options within the game.
-
+<!-- - **Navigation Structure:** The game employs a hierarchical and logical navigation structure. Menus and screens are organized in a way that reflects a natural flow of interactions. Intuitive and well-structured navigation aids users in remembering where to find specific features or options within the game. -->
 - **Visual Hierarchy:** PUBG MOBILE applies visual hierarchy to highlight important elements and information. By using size, color, contrast, and spacing effectively, the interface guides users' attention to key elements, making them more memorable and easier to locate and interact with in the future.
 
 By focusing on consistent design patterns, intuitive controls, helpful onboarding, personalized settings, visual cues, and feedback, PUBG MOBILE aims to enhance the memorability of the user interface. This, in turn, improves the overall user experience by reducing the cognitive load on players and enabling them to quickly recall how to interact with the game even after periods of inactivity.
@@ -311,15 +311,21 @@ Errors in usability refer to instances where users encounter difficulties or mak
 - Changing control schemes or button mappings without clear indication or explanation, causing confusion and errors in gameplay.
 - Variation in control sensitivity or responsiveness across different sections of the game, leading to inconsistent user experiences and potential errors.
 
+For example, there are three main situations that need direction control: the landing, the walking, and the driving page. Players can figure out the direction control button on the left (the rocker pad). Pubg mobile provided the rocker pad to control directions in landing, walking status. But the directional pad of driving is directional pads with horizontal and vertical pads on two sides. The direction control is inconsistent with those three main situations. Thus, players need more effort to learn how to perform in the driving situation. As for the opportunity to improve, Pubg mobile can also provide more customized options on control layout of status.
+
+![pubg-layout-change](images/pubg-btn-layout-2.png)
+
 **Poor Button Placement:**
 
 - Placing critical buttons, such as the fire button or grenade throw button, too close together, resulting in accidental taps or erroneous actions.
 - Buttons placed in non-intuitive locations, making it difficult for users to locate or access them quickly, leading to delays and errors in gameplay.
 
-**Overwhelming Information:**
+![pubg-btn-layout](images/pubg-btn-layout.png)
+
+<!-- **Overwhelming Information:**
 
 - Presenting a large amount of information on-screen simultaneously, without proper organization or prioritization, making it difficult for users to focus on relevant details and leading to errors or overlooked information.
-- Displaying complex statistics or data without clear visual representations or explanations, hindering users' ability to interpret and utilize the information effectively.
+- Displaying complex statistics or data without clear visual representations or explanations, hindering users' ability to interpret and utilize the information effectively. -->
 
 
 ### 2.5.5. Satisfaction
