@@ -249,12 +249,6 @@ To enhance the responsiveness of the game UI, it is recommended to play on a dev
 
 It's important to note that different devices and individual configurations may experience varying levels of UI responsiveness. It's always a good idea to keep your device updated with the latest software updates and optimizations provided by the game developers to ensure the best possible performance.
 
-**Streamlined Interface:**
-
-The PUBG Mobile UI strives to be streamlined and intuitive, focusing on essential gameplay elements and information. However, certain aspects can be further optimized to enhance the user experience.
--	**Solution:** Continued UI Optimization and Performance Enhancements
-The developers should continually assess the UI layout and refine it to minimize clutter and maximize visibility. By incorporating user feedback, they can identify areas for improvement and implement changes to make the interface more intuitive and efficient. Additionally, ongoing performance optimization efforts should target graphics settings, frame rate optimization, network optimization, device compatibility, resource management, and regular updates to ensure smooth gameplay and minimize lag or frame rate issues.
-
 
 **Performance Optimization:**
 Performance optimization is a crucial aspect of any mobile game, including PUBG MOBILE. The developers of PUBG MOBILE continually work to optimize the game's performance to ensure smooth gameplay and reduce lag or frame rate issues. Here are some common performance optimization techniques used in mobile games:
@@ -281,17 +275,11 @@ Memorability in usability refers to how easily users can remember how to interac
 
 - **Intuitive Controls:** The game utilizes intuitive controls that align with common gaming conventions. This helps players familiarize themselves with the controls quickly and easily. For example, movement controls, shooting mechanics, and other actions are designed to be intuitive and aligned with industry-standard gaming practices.
 
-- **Onboarding and Tutorials:** PUBG MOBILE provides an onboarding process and tutorials to guide new players through the basics of the game. These tutorials help users understand the core mechanics, controls, and objectives, allowing them to retain this knowledge and apply it during gameplay.
-
-- **Help and Support:** The game offers in-game help and support features, including tooltips, prompts, and contextual information. These resources can aid players in refreshing their memory on specific features or mechanics when needed.
-
 - **Personalized Settings:** PUBG MOBILE allows users to customize their settings, including controls, sensitivity, and UI elements. By giving players the ability to tailor the game experience to their preferences, it increases memorability as they can configure the game to match their individual playstyle and needs.
 
 - **Visual Cues and Feedback:** PUBG MOBILE incorporates visual cues and feedback to reinforce actions and provide information to the player. This can include highlighting interactive elements, displaying status indicators, and providing visual and audio feedback when actions are performed successfully. These cues help users remember the effects of their actions and understand the outcome of their interactions.
 
 - **Iconography:** PUBG MOBILE utilizes clear and recognizable icons throughout its user interface. Consistent and well-designed icons help users remember the meaning and functionality associated with specific actions or features. Familiar and easily understood icons contribute to the memorability of the interface.
-
-- **Navigation Structure:** The game employs a hierarchical and logical navigation structure. Menus and screens are organized in a way that reflects a natural flow of interactions. Intuitive and well-structured navigation aids users in remembering where to find specific features or options within the game.
 
 - **Visual Hierarchy:** PUBG MOBILE applies visual hierarchy to highlight important elements and information. By using size, color, contrast, and spacing effectively, the interface guides users' attention to key elements, making them more memorable and easier to locate and interact with in the future.
 
