@@ -212,7 +212,7 @@ Elements such as Animation Fluidity, Network Performance, Movement Responsivenes
 
 There are 2 kinds of inventory management: `Home screen inventory management & In-game inventory management`
 
-- `Home screen inventory management`, there are 5 categories which include: Character skin, Weapons skin, Vehicle skin, ... Players can perform actions such as swapping items between their inventory and the ground, dropping items from their inventory, or picking up items from the ground. PUBG Mobile typically offers options to sort and filter the inventory based on different criteria such as item type, rarity, and quantity. This helps players quickly find and manage specific items. By selecting an item in the inventory, players can access additional information about that item, such as its stats, attachments compatibility, and any customization options available.
+- `Home screen inventory management`, there are 5 categories which include: Character skin, Weapons skin, Vehicle skin, ... Players can perform actions such as swapping items between their inventory and the equip slot. PUBG Mobile typically offers options to sort and filter the inventory based on different criteria such as item type, rarity, and quantity. This helps players quickly find and manage specific items. By selecting an item in the inventory, players can access additional information about that item, such as its stats, attachments compatibility, and any customization options available.
 
 - `In-game inventory management`, there are only 2 categories which include: Weapons and Equipment, Character items (cosmetics items). 
 In the Weapons and Equipment section, you can see what type of weapon you are using and its Equipment, you can also see the ammunition and other Healing and Boost Items. In the Character items section you can see what type of item your character is wearing, you can switch those with others players only when you can find their position in case of they have been eliminated. Players can perform actions like swapping items between their inventory and the ground, dropping items from their inventory, or picking up items from the ground. There are also Sorting and Filtering section for the Players. By selecting an item in the inventory, players can access additional information about that item, including its stats, attachments compatibility, and any customization options available.
@@ -220,11 +220,6 @@ In the Weapons and Equipment section, you can see what type of weapon you are us
 #### Drawbacks and Hindrances
 
 The drawback lies in the space in which the user interacts with the game, and server connection speed will depend on many factors such as network speed, which device to use to play the game.
-
-**Customization:**
-
-PUBG Mobile offers many customizable options for the Players to choose such as settings, controls, and gameplay preferences.
-There are some pre-installed mode on the controller customize section but you can also customize it yourself. [Display Modes](##display-modes) and [Audio Modes](##audio-modes). Loadout and Gear Customization will be accessible when you play the game, this mean you can change & switch the weapons you are using or the cosmetics items you're wearing.
 
 **Overloaded Interaction Space:**
 
