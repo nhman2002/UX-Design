@@ -298,7 +298,7 @@ For example, there are three main situations that need direction control: the la
 
 ![pubg-btn-layout](images/pubg-btn-layout.png)
 
-<
+
 
 
 ### 2.5.5. Satisfaction
