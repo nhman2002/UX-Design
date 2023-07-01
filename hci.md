@@ -4,19 +4,22 @@ title: "HCI: Analysis of the User Experience"
 ---
 
 # 1. Aim and Objectives
+
 The aim of this report is to evaluate and analyse the user experience of two products:
 
 1. [Ziiiro Watch](https://www.ziiiro.com/)
 2. [PUBG Mobile](https://www.pubgmobile.com/en-US/home.shtml)
 
-The report focuses on the analysis of user experience and experience perspectives based on the fundemental HCI concepts that we have learned in the HCI course, which includes:
+The report focuses on the analysis of user experience and experience perspectives based on the fundemental HCI concepts that have been covered in the HCI course, which includes:
 
 - Human capabilities
 - User mental model
 - Interaction metaphor
 - Usability
 
+
 # 1. ZIIIRO watch
+
 
 ## 1.1. Introduction
 
@@ -121,6 +124,20 @@ It was published by multiple publishers in different regions, including Krafton,
 
 PUBG Mobile is a game that is played by people of all ages. However, the game is rated 17+ by the ESRB, which means that the game is not suitable for children under the age of 17. The game is also rated 16+ by PEGI, which means that the game is not suitable for children under the age of 16.
 
+<!-- ## 2.3. Some core use cases of the product
+
+### 2.3.1. Use Case 1: Playing the game
+
+- Context: The user is playing the game on their mobile device.
+- User Situation: The user is sitting down and holding their mobile device in their hands.
+- Methods of Interaction: The user interacts with the game by using the touch screen on their mobile device. They can tap on the screen to move their character, shoot, and interact with objects in the game world. They can also use the device's gyroscope to aim and look around. 
+
+### 2.3.2. Use Case 2: Customizing the game settings
+
+- Context: The user is customizing the game settings on their mobile device.
+- User Situation: The user is sitting down and holding their mobile device in their hands.
+- Methods of Interaction: The user interacts with the game by using the touch screen on their mobile device. They can tap on the screen to select different options and adjust settings to best suit their preferences. -->
+
 ## 2.3. Analysis of UX in terms of Human Capabilities
 
 ### 2.3.1. Perception
@@ -129,7 +146,7 @@ PUBG Mobile leverages players' perceptual abilities, including visual and audito
 
 ### 2.3.2. Cognition
 
-Minimize the user’s memory load by making objects, actions, and options visible. The user should not have to remember information from one part of the dialogue to another. Instructions for use of the system should be visible or easily retrievable whenever appropriate.
+PUBG minimize the user’s memory load by making objects, actions, and options visible. The user should not have to remember information from one part of the dialogue to another. Instructions for use of the system should be visible or easily retrievable whenever appropriate.
 
 The weapons and bullets have different types in the PUBG mobile and players feel difficult to figure out what they need at that time. The highlighted stuff is an automatic reminder for players to recognize the weapon they have and what bullets they should pick up.
 
@@ -153,6 +170,8 @@ PUBG Mobile is a battle royale game, and many players are already familiar with 
 
 PUBG Mobile follows common gaming conventions to enhance the user experience and facilitate learning. For example, the game utilizes standard controls and button mappings that are familiar to most players. This allows players to leverage their existing knowledge of gaming conventions to quickly learn and adapt to PUBG Mobile.
 
+
+
 ## 2.5. Usability
 
 ### 2.5.1. Learnability
@@ -173,15 +192,9 @@ Learnability plays a crucial role in the overall usability of a system, and PUBG
 
 ![pubg-image-2](images/pubg-cues.jpg)
 
-**Progression System:** PUBG Mobile incorporates a progression system that rewards players with experience points, achievements, and unlockable content as they play. This incentivizes continued engagement and provides a sense of accomplishment and progression. The progression system acts as an additional motivator for players to invest time and effort in learning and improving their skills.
-
 **Community Support:** PUBG Mobile boasts a vibrant and active community of players who share tips, strategies, and tutorials through various online platforms. Players can access forums, social media groups, and video content created by the community to learn from experienced players, gain insights into advanced tactics, and discover new approaches to gameplay. The availability of community support enhances the overall learnability of the game.
 
-By incorporating these learnability features, PUBG Mobile ensures that new players can gradually become proficient in the game's mechanics and gain a deeper understanding of its nuances. The combination of tutorial modes, tooltips, interactive elements, practice modes, visual cues, feedback, progression systems, and community support contributes to a comprehensive and accessible learning experience in PUBG Mobile.
-
 #### Drawbacks and Hindrances
-
-PUBG Mobile presents a few challenges that may hinder the learning process for new players. Here are some of the challenges that may affect learnability in PUBG Mobile:
 
 **Complexity Overload:** PUBG Mobile offers a wide range of gameplay mechanics, features, and strategies, which can be overwhelming for new players. The complexity of the game may lead to a steep learning curve, making it challenging for beginners to grasp all the nuances quickly.
 
@@ -203,35 +216,12 @@ PUBG Mobile presents a few challenges that may hinder the learning process for n
 
 ![pubg-image-4](images/pubg-navigation.png)
 
-**Action Execution:** Action execution refers to the speed and responsiveness with which players can perform in-game actions in PUBG Mobile. It encompasses tasks such as shooting, looting, interacting with objects, and navigating the game world. To evaluate action execution in PUBG Mobile, you can consider the following aspects:
+**Effective Looting and Inventory Management:**
 
-`Responsiveness, Animation Fluidity, Shooting Mechanics, Looting and Interactions, Movement Responsiveness, Network Performance, Aim Assist, Feedback and Visual Cues.`
-
-Elements such as Animation Fluidity, Network Performance, Movement Responsiveness, Shooting Mechanics, Looting and Interactions are all built-in according to user needs and the device capability ,such as:
-
-**Display Modes:**
-
-- Standard
-- Smooth
-- Balanced
-- HD
-- HDR.
-
-**Audio Modes:**
-
-- Stereo
-- Mono
-- Surround
-- 3D Audio.
-
-**Inventory Management:**
-
-There are 2 kinds of inventory management: **Home screen inventory management** and **In-game inventory management**
+Players can easily perform actions such as swapping items between their inventory and the ground, dropping items from their inventory, or picking up items from the ground with the auto-pickup feature. Players just need to tap on the item they want to pick up and the item will be automatically added to their inventory. The auto-pickup feature can be customized to prioritize certain items over others, allowing players to quickly collect the items they need.
 
 
-- `Home screen inventory management`, there are 5 categories which include: Character skin, Weapons skin, Vehicle skin, ... Players can perform actions such as swapping items between their inventory and the equip slot. PUBG Mobile typically offers options to sort and filter the inventory based on different criteria such as item type, rarity, and quantity. This helps players quickly find and manage specific items. By selecting an item in the inventory, players can access additional information about that item, such as its stats, attachments compatibility, and any customization options available.
-
-- `In-game inventory management`, there are only 2 categories which include: Weapons and Equipment, Character items (cosmetics items). In the Weapons and Equipment section, you can see what type of weapon you are using and its Equipment, you can also see the ammunition and other Healing and Boost Items. The character items section shows the items the player's character is wearing, and they can only switch these items with items found on eliminated players' positions. Players can perform actions like swapping items between their inventory and the ground, dropping items from their inventory, or picking up items from the ground. There are also Sorting and Filtering section for the Players. By selecting an item in the inventory, players can access additional information about that item, including its stats, attachments compatibility, and any customization options available.
+PUBG Mobile typically offers options to sort and filter the inventory based on different criteria such as item type, rarity, and quantity. This helps players quickly find and manage specific items. By selecting an item in the inventory, players can access additional information about that item, such as its stats, attachments compatibility, and any customization options available.
 
 
 ![pubg-inventory](images/image-pubg-2.png)
@@ -244,31 +234,20 @@ The drawback lies in the space in which the user interacts with the game, and se
 **Overloaded Interaction Space:**
 
 One of the main drawbacks is the crowded interaction space in PUBG Mobile. While players typically use only 2-4 fingers to interact with the game, there are more than 20 buttons available for interaction. This overload of buttons can overwhelm users and impede their ability to perform actions swiftly and accurately.
+
 -	**Solution:** Customizable Controller Interface
 To enhance the user experience, a potential solution is to provide users with the ability to customize their controller interface. By allowing users to personalize the placement and number of buttons according to their preferences and gameplay style, the interaction space can be optimized. However, it should be noted that customization may result in the transfer of the problem to other aspects, as reducing buttons may limit certain movements or actions.
 
 ![pubg-fingers](images/pubg-fingers.jpg)
 
-
-**Minimization of Redundant Steps:**
-
-Reducing redundant steps in the user interface (UI) is crucial for enhancing the user experience. PUBG Mobile incorporates several strategies to streamline gameplay and minimize unnecessary actions. Quick access menus, contextual controls, auto pick-up and loot, inventory management features, simplified vehicle controls, and customizable UI options all contribute to reducing redundancy.
-
--	**Solution:** Continuous Improvement and Refinement
-To further minimize redundant steps, PUBG Mobile developers should continue to analyze user feedback and conduct usability testing. This iterative process can help identify areas where additional streamlining and simplification can be achieved. By prioritizing user input and focusing on efficiency, the developers can enhance the overall user experience.
-
 **Load-time and Matchmaking:**
 
 The time it takes to find a match in each map in PUBG MOBILE can vary depending on several factors, including the region, time of day, and the player’s rank. On average, it typically takes around 30 seconds to a few minutes to find a match in popular maps such as Erangel, Miramar, Sanhok, and Vikendi. However, less popular or newer maps may take longer to find a match. Additionally, the time it takes to find a match can vary depending on the player’s rank. Higher-ranked players may experience longer matchmaking times due to the smaller pool of players available at their skill level.
 
-**Responsiveness to Feedback:**
+**Lag and Frame Rate Issues:**
 
-The game developers strive to optimize the UI to ensure quick and accurate response to player inputs. However, the actual responsiveness can be influenced by factors such as device performance, network latency, and any background processes running on the device.
 
-To enhance the responsiveness of the game UI, it is recommended to play on a device with sufficient processing power and memory, have a stable and fast internet connection, and close any unnecessary background applications that may consume system resources.
-
-It's important to note that different devices and individual configurations may experience varying levels of UI responsiveness. It's always a good idea to keep your device updated with the latest software updates and optimizations provided by the game developers to ensure the best possible performance.
-
+Lag and frame rate issues can occur in PUBG MOBILE due to a variety of factors, including network connectivity, device performance, and graphics settings. These issues can negatively impact the user experience by causing delays in gameplay, making it difficult to aim accurately, or resulting in crashes or disconnections.
 
 
 ### 2.5.3. Memorability
@@ -276,14 +255,14 @@ It's important to note that different devices and individual configurations may 
 Memorability in usability refers to how easily users can remember how to interact with a system or user interface after a period of time. In the context of PUBG MOBILE, memorability plays a vital role in creating a positive user experience. Here are some aspects of memorability in the usability of PUBG MOBILE:
 
 - **Consistent Design Patterns:** PUBG MOBILE follows consistent design patterns throughout the user interface. This means that similar actions and interactions are represented in a uniform way across different screens and menus. For example, the placement of buttons, icons, and menu structures remain consistent, making it easier for users to remember how to navigate and interact within the game.
-- **Intuitive Controls:** The game utilizes intuitive controls that align with common gaming conventions. This helps players familiarize themselves with the controls quickly and easily. For example, movement controls, shooting mechanics, and other actions are designed to be intuitive and aligned with industry-standard gaming practices.
 
-
+- **Help and Support:** The game offers in-game help and support features, including tooltips, prompts, and contextual information. These resources can aid players in refreshing their memory on specific features or mechanics when needed.
 
 - **Personalized Settings:** PUBG MOBILE allows users to customize their settings, including controls, sensitivity, and UI elements. By giving players the ability to tailor the game experience to their preferences, it increases memorability as they can configure the game to match their individual playstyle and needs.
-- **Visual Cues and Feedback:** PUBG MOBILE incorporates visual cues and feedback to reinforce actions and provide information to the player. This can include highlighting interactive elements, displaying status indicators, and providing visual and audio feedback when actions are performed successfully. These cues help users remember the effects of their actions and understand the outcome of their interactions.
-- **Iconography:** PUBG MOBILE utilizes clear and recognizable icons throughout its user interface. Consistent and well-designed icons help users remember the meaning and functionality associated with specific actions or features. Familiar and easily understood icons contribute to the memorability of the interface.
 
+![pubg-settings](images/pubg-settings.png)
+
+- **Visual Cues and Feedback:** PUBG MOBILE incorporates visual cues and feedback to reinforce actions and provide information to the player. This can include highlighting interactive elements, displaying status indicators, and providing visual and audio feedback when actions are performed successfully. These cues help users remember the effects of their actions and understand the outcome of their interactions.
 
 - **Visual Hierarchy:** PUBG MOBILE applies visual hierarchy to highlight important elements and information. By using size, color, contrast, and spacing effectively, the interface guides users' attention to key elements, making them more memorable and easier to locate and interact with in the future.
 
@@ -323,12 +302,6 @@ Satisfaction in the context of usability refers to the overall level of enjoymen
 
 - Fairness and Balance: Players' satisfaction is influenced by the game's fairness and balance. This includes factors such as matchmaking systems that create balanced matches, anti-cheat measures to ensure a level playing field, and the absence of game-breaking exploits or unfair advantages.
 
-**Performance and Stability:**
-
-- Smooth Performance: Satisfaction is higher when PUBG MOBILE offers smooth performance without significant lag, frame rate drops, or crashes. Consistent performance allows players to fully enjoy the game without interruptions or frustrations.
-
-- Reliable Connectivity: A stable and reliable network connection is crucial for a satisfying experience. When players can connect to matches consistently, experience minimal latency, and avoid disconnections or server issues, their satisfaction is increased.
-
 **Visual and Audio Design:**
 
 - High-Quality Graphics: Well-designed and visually appealing graphics contribute to player satisfaction. Detailed environments, realistic character models, and special effects enhance the immersive experience and provide visual enjoyment.
@@ -352,19 +325,23 @@ Satisfaction in the context of usability refers to the overall level of enjoymen
 
 **Shooting and aiming:**
 
-- Interaction metaphor: Virtual firearms
+- Interaction metaphor: Familiar virtual firearms from other games.
 - Specifics:
     - On-screen controls mimic the actions of holding a weapon.
     - Players tap or hold buttons to aim and shoot.
     - Swiping or dragging gestures can simulate the movement of adjusting aim or firing.
 
+
+
 **Movement and navigation:**
 
-- Interaction metaphor: Physical movement
+- Interaction metaphor: Physical movement and navigation similar to that of other games, with up/down/left/right controls.
 - Specifics:
     - Virtual joystick allows players to control movement, mimicking walking or running.
     - Swipe gestures enable actions like turning or changing directions.
     - Buttons or gestures for crouching, jumping, or climbing simulate real-world movements.
+
+![pubg-movement-metaphor](images/pubg-movement-metaphor.jpg)
 
 **Inventory management:**
 
@@ -399,35 +376,19 @@ Satisfaction in the context of usability refers to the overall level of enjoymen
     - Drag and drop gestures can be used to move items between inventory slots or interact with them (e.g., combining items or using consumables).
     - Visual cues such as highlighting or tooltips provide feedback when interacting with items.
 
-**Vehicle controls:**
-
-- Interaction metaphor: Driving controls
-- Specifics:
-    - On-screen buttons or a virtual steering wheel can simulate the actions of driving a vehicle.
-    - Swipe gestures or tilt controls can be used for steering or adjusting vehicle direction.
-    - Buttons or gestures for acceleration, braking, and other vehicle functions emulate real-world driving mechanics.
-
-**Building and editing structures (in certain game modes):**
-
-- Interaction metaphor: Construction or architectural tools
-- Specifics:
-    - Players can use a building interface to select and place various structure components (e.g., walls, floors, stairs).
-    - Drag and drop gestures allow players to position and rotate structures.
-    - Editing options like resizing, upgrading, or removing structures can be accessed through contextual menus or gestures.
-
 **Health management and healing:**
 
-- Interaction metaphor: Medical supplies and treatments
+- Interaction metaphor: Healthbar similar to other games with some visual indicators and healing items.
 - Specifics:
     - Players can tap or use gestures to access their health management interface.
     - Drag and drop gestures can be used to consume healing items, such as bandages or medkits.
     - Visual indicators or progress bars can show the healing process.
 
-**Shooting modes and weapon customization:**
+![pubg-healt-metaphor](images/pubg-health-metaphor.png)
 
-- Interaction metaphor: Weapon selection and modification
-- Specifics:
-    - Players can use virtual buttons or gestures to switch between different shooting modes (e.g., single, burst, or auto-fire).
-    - Drag and drop gestures can be employed to attach or detach weapon attachments (e.g., scopes, grips).
-    - Menus or interfaces can provide options for customizing weapons, mimicking the process of modifying real-world firearms.
+## 2.7. Possibilities of UX Hindrances
 
+- **Visual Distractions:** Players with visual impairments succh as photosensitivity or color blindness may encounter difficulties due to visual distractions in the game. This can include excessive visual effects, such as explosions or smoke, that may obstruct their view or make it difficult to locate enemies. Similarly, players with color blindness may have difficulty distinguishing between different colors or color-coded elements in the game. 
+- **Auditory Distractions:** Players with hearing impairments may encounter difficulties due to auditory distractions in the game. This can include loud or sudden sounds, such as explosions or gunfire, that may be distracting or overwhelming for players with hearing impairments.
+- **Network Connectivity:** Players with poor network connectivity may experience lag or delays in gameplay, which can negatively impact their experience. This can include delays in movement, aiming, or shooting, which can hinder their ability to perform actions accurately and efficiently.
+- **Level Differences:** Players with different skill levels may encounter difficulties due to level differences in the game. This can include matchmaking issues, where players of different skill levels are matched together, resulting in unfair or unbalanced matches. Similarly, players with lower skill levels may find it difficult to compete against more experienced players, leading to frustration and dissatisfaction.
