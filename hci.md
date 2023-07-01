@@ -392,3 +392,14 @@ Satisfaction in the context of usability refers to the overall level of enjoymen
 - **Auditory Distractions:** Players with hearing impairments may encounter difficulties due to auditory distractions in the game. This can include loud or sudden sounds, such as explosions or gunfire, that may be distracting or overwhelming for players with hearing impairments.
 - **Network Connectivity:** Players with poor network connectivity may experience lag or delays in gameplay, which can negatively impact their experience. This can include delays in movement, aiming, or shooting, which can hinder their ability to perform actions accurately and efficiently.
 - **Level Differences:** Players with different skill levels may encounter difficulties due to level differences in the game. This can include matchmaking issues, where players of different skill levels are matched together, resulting in unfair or unbalanced matches. Similarly, players with lower skill levels may find it difficult to compete against more experienced players, leading to frustration and dissatisfaction.
+
+# References
+
+<!-- T de link thoi nha, chuyen qua APA nha -->
+
+<!-- PUBG Related -->
+- https://tournafest.com/blog/all-about-pubg-a-case-study/
+- https://uxdesign.cc/what-i-learned-about-ux-research-on-pubg-mobile-as-a-player-57a673d19fe1?gi=0013e3fefac9
+- https://www.invespcro.com/blog/usability-design-for-a-better-user-experience/#:~:text=As%20an%20essential%20element%20in,user%20to%20compelte%20the%20task.
+- https://www.cnet.com/pictures/pubg-mobile-might-be-the-best-version-of-the-game/12/
+- https://vi.wikipedia.org/wiki/PUBG_Mobile
