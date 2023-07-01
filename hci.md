@@ -249,22 +249,6 @@ To enhance the responsiveness of the game UI, it is recommended to play on a dev
 It's important to note that different devices and individual configurations may experience varying levels of UI responsiveness. It's always a good idea to keep your device updated with the latest software updates and optimizations provided by the game developers to ensure the best possible performance.
 
 
-**Performance Optimization:**
-Performance optimization is a crucial aspect of any mobile game, including PUBG MOBILE. The developers of PUBG MOBILE continually work to optimize the game's performance to ensure smooth gameplay and reduce lag or frame rate issues. Here are some common performance optimization techniques used in mobile games:
-
-- Graphics Settings: PUBG MOBILE allows players to adjust their graphics settings to match the capabilities of their device. Lowering the graphics quality and disabling features like shadows and anti-aliasing can improve performance on lower-end devices.
-
-- Frame Rate Optimization: The game strives to maintain a stable frame rate by optimizing rendering techniques and reducing unnecessary graphical effects. A higher frame rate provides smoother gameplay and a more responsive user interface.
-
-- Network Optimization: PUBG MOBILE employs network optimization techniques to minimize latency and ensure a stable online gaming experience. This includes efficient data transfer protocols and server optimizations.
-
-- Device Compatibility: The game developers optimize PUBG MOBILE for a wide range of mobile devices, ensuring compatibility and performance across various hardware configurations.
-
-- Regular Updates: Performance optimization is an ongoing process, and the developers release regular updates to address performance issues, fix bugs, and introduce optimizations for better gameplay.
-
-- Resource Management: PUBG MOBILE optimizes the usage of device resources such as CPU, GPU, and memory to minimize system load and improve performance.
-
-- Background Processes: It is recommended to close any unnecessary background processes or applications running on your device while playing PUBG MOBILE. This frees up system resources and can improve performance.
 
 ### 2.5.3. Memorability
 
@@ -298,10 +282,6 @@ Errors in usability refer to instances where users encounter difficulties or mak
 - Placing critical buttons, such as the fire button or grenade throw button, too close together, resulting in accidental taps or erroneous actions.
 - Buttons placed in non-intuitive locations, making it difficult for users to locate or access them quickly, leading to delays and errors in gameplay.
 
-**Overwhelming Information:**
-
-- Presenting a large amount of information on-screen simultaneously, without proper organization or prioritization, making it difficult for users to focus on relevant details and leading to errors or overlooked information.
-- Displaying complex statistics or data without clear visual representations or explanations, hindering users' ability to interpret and utilize the information effectively.
 
 
 ### 2.5.5. Satisfaction
