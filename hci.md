@@ -23,7 +23,7 @@ The report focuses on the analysis of user experience and experience perspective
 
 ## 1.1. Introduction
 
-Welcome to the world of ZIIIRO Watches, where boldness meets minimalism and everyday timekeeping becomes an art form. ZIIIRO is a renowned brand known for its unique and fashionable timepieces that effortlessly blend style and functionality. With their sleek designs and eye-catching colors, ZIIIRO watches are the perfect accessories to complement your outfit and make a bold statement.
+World of ZIIIRO Watches, where boldness meets minimalism and everyday timekeeping becomes an art form. ZIIIRO is a renowned brand known for its unique and fashionable timepieces that effortlessly blend style and functionality. With their sleek designs and eye-catching colors, ZIIIRO watches are the perfect accessories to complement your outfit and make a bold statement.
 
 ZIIIRO was founded by two individuals, Robert and Derick, who shared a passion for creating timepieces that challenge traditional norms. Their journey began on the internet, where Robert, based in Germany, showcased his watch designs, catching the attention of Derick from Hong Kong. With their shared vision of minimalism and a desire to create something extraordinary, ZIIIRO was born.
 
