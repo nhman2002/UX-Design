@@ -17,9 +17,7 @@ The report focuses on the analysis of user experience and experience perspective
 - Interaction metaphor
 - Usability
 
-
 # 1. ZIIIRO watch - CELESTE
-
 
 ## 1.1. Introduction
 
@@ -33,7 +31,6 @@ ZIIIRO was founded by two individuals, Robert and Derick, who shared a passion f
      The ZIIIRO watch, specially the CELESTE, is primarily intended for personal use as a stylish and innovative timepiece. The ZIIIRO watches are designed to appeal to individuals who appreciate unique designs, minimalistic aesthetics, and unconventional ways of displaying time. The watches are not only functional for timekeeping but also serve as fashion accessories, conversation starters, and collector's items for enthusiasts interested in distinctive and limited edition timepieces. 
      CELESTE is one of many collections from ZIIIRO branch, it displays time using two transparent gradient discs which make the clock face a halo of continuously changing color nuances. The Celeste comes with a 316L stainless steel casing and strap.
      ![celeste watch black mono](./images/ziiiro-celeste-watch-black-mono-front.jpg) 
-
 
 ## 1.3. Target Audience
    <p>The CELESTE is specifically designed to captivate the attention of individuals who have a discerning taste for unique and minimalist timepieces, as well as a deep appreciation for aesthetics. The watch stands out from conventional designs with its unconventional display and emphasis on graphical design, offering a truly distinctive and eye-catching appearance.
@@ -86,7 +83,6 @@ The CELESTE, offers several core use cases that cater to various contexts and si
   _Use case_: Sports and fitness enthusiasts who require precise timing for activities such as interval training, timing laps, or monitoring rest periods may find the abstract time representation of the CELESTE insufficient. The lack of minute and second markers makes it difficult to track time precisely, potentially impacting their performance or training routines
     ![eclipse-steel-black-red](images/ziiiro_celeste_mono_on_hand.jpg)
     
-
   - **Limited Functionality**: The CELESTE interface focuses solely on displaying the time. It lacks additional features commonly found in modern watches, such as date display, alarms, or timers. Users who require these functionalities may find the CELESTE limited in its capabilities.
   _Use case_: Travelers who rely on watches to not only tell time but also track multiple time zones or use alarms to manage their schedules may find the limited functionality of the CELESTE inconvenient. The absence of additional features like date display, world time, or alarms may hinder their ability to efficiently manage their travel plans or stay organized in different time zones.
    ![lunar-black](images/maxresdefault.jpg)
@@ -94,7 +90,6 @@ The CELESTE, offers several core use cases that cater to various contexts and si
   - **Accessibility**: The abstract representation of time on the CELESTE may pose challenges for individuals with visual impairments or certain cognitive disabilities. The lack of clear, standardized time indicators can hinder accessibility for a portion of the user population.
   _Use case_: Visually impaired users who heavily rely on tactile or audible feedback to interact with devices may find the abstract time representation of the CELESTE inaccessible. The lack of clear indicators or tactile markings makes it difficult for these users to independently read and interpret the time, potentially excluding them from using the watch effectively.
    ![lunar-black](images/CelesteBlackMono24.jpg)
-
 
 ## 1.6. Different types of users
 
@@ -124,25 +119,149 @@ PUBG Mobile is a free-to-play battle royale video game developed by LightSpeed &
 
 It was published by multiple publishers in different regions, including Krafton, Tencent, and VNG Games. By December 2022, PUBG Mobile had accumulated around 1.3 billion downloads while grossing over $9 billion, making it the third highest-grossing mobile game. It is also the second most-played mobile video game of all time. In 2021, the game spawned an Indian version, Battlegrounds Mobile India, and a separate game taking place in the PUBG Universe, called New State Mobile. 
 
+![pubg-cover](images/pubg-cover.jpg)
+
 ## 2.2. Target Audience
 
-PUBG Mobile is a game that is played by people of all ages. However, the game is rated 17+ by the ESRB, which means that the game is not suitable for children under the age of 17. The game is also rated 16+ by PEGI, which means that the game is not suitable for children under the age of 16.
+PUBG Mobile is a game that is played by people of all ages. However, the game is rated 17+ by the ESRB and 16+ by PEGI.
 
-<!-- ## 2.3. Some core use cases of the product
+## 2.3. Welcome Interface
 
-### 2.3.1. Use Case 1: Playing the game
+PUBG Mobile is very strict about the policy and also the restricted age. That is why the developers of the game have to make sure that the players are aware of the rules and regulations of the game. For newcomers, this is the first screen that they will see when they open the game.
 
-- Context: The user is playing the game on their mobile device.
-- User Situation: The user is sitting down and holding their mobile device in their hands.
-- Methods of Interaction: The user interacts with the game by using the touch screen on their mobile device. They can tap on the screen to move their character, shoot, and interact with objects in the game world. They can also use the device's gyroscope to aim and look around. 
+![pubg-welcome](images/pubg-welcome.jpg)
 
-### 2.3.2. Use Case 2: Customizing the game settings
+![pubg-user-agree](images/pubg-user-agree.jpg)
 
-- Context: The user is customizing the game settings on their mobile device.
-- User Situation: The user is sitting down and holding their mobile device in their hands.
-- Methods of Interaction: The user interacts with the game by using the touch screen on their mobile device. They can tap on the screen to select different options and adjust settings to best suit their preferences. -->
+The notice board is in the foreground and is centered on the screen for the player to read. The background is dimmed to a darker color so that it will not cause any distractions (this rule of designing applies to every notice board throughout the game). The buttons are highlighted with a bright color to attract the player's attention with well contrasted font for readability. The buttons are also placed in the bottom center of the screen so that the player can easily reach them with their thumbs.
 
-## 2.3. Analysis of UX in terms of Human Capabilities
+However, the content of the policy is not very well contrasted with respect to the background, plus the font they use here is not very readable. In addition, the font size is pretty small, and on mobile devices, this will be harder to read. The developers should consider using a different font and font size to make it easier for players to read.
+
+![pubg-age-confirm](images/pubg-age-confirm.jpg)
+
+The game is restricted to players under the age of 17. Therefore, the developers have to make a confirmation for the players age to modify the ingame content accordingly.
+
+## 2.4. Downloaded Content
+
+A good thing to note is that the game will not download all the content at once. When you first install the game from the store, it will only download the necessary data for the game to run. The rest of the content will be downloaded when you first access it. This is a good way to reduce first-time download time and also reduce the amount of data used.
+
+Not to mention, the game also let the players choose between the HD and SD graphics. This allows for more flexibility in the game's performance if players are using low-end devices.
+
+*(Unfortunately, the image was not taken for this interface)*
+
+## 2.5. Typing Interface
+
+The game is developed to be played horizontally, because of this reason, the keyboard is placed at the bottom of the screen for ease of reach. In addition, a special thing about the design of keyboard in this game is that it divides the keyboard into two parts, one for the left hand and one for the right hand. This is a good design choice because it allows the player to use their thumbs more conveniently to type, especially on larger screen devices where the keyboard is too wide for the player to reach the middle of the keyboard.
+
+![pubg-typing](images/pubg-text-typing.jpg)
+
+Here you can see the division part. In addition to this, the distance between the keys is also very well-spaced so that the player can easily tap on the keys without accidentally tapping on the wrong key. Although this might cause some inconvenience for players who are used to typing on a normal keyboard, it is still a good design choice and it will get easier to type once the player gets used to it.
+
+## 2.4. Login Interface
+
+![pubg-login](images/pubg-login.jpg)
+
+The login interface is very simple and straightforward. It provides two methods for players to log in, either by using their Facebook account or by using their Google account. This is a good design choice because it allows players to log in quickly without having to create a new account since these two platforms are very popular and most people already have an account on them.
+
+Plus, the login screen presents the game's logo and the splash screen in the background to catch the player's attention and to enhance the overall visual appeal of the interface.
+
+The screen also has a few buttons on the top-right corner like the "Help" button so that players can easily access the help center if they have any problems with the game, the "Language" button allows players to change the language of the game to fits their needs (the language is default to English because this is the main language spoken and used internationally).
+
+In addition, there is a reminder in the top-left corner which says "Play over 180 minutes a day is bad for your health". This banner will appear throughout the game to remind the players to take a break from the game to avoid any health problems. For some people, this might be annoying since it blocks a part of the screen. However, it will disapear in the main gameplay screen.
+
+## 2.5. Welcome to the Game
+
+![pubg-newbie-welcome](images/pubg-newbie-train.jpg)
+
+For newcomers to the game, it will prompt you to play the training mode to get used to all the controls and the game mechanics. This mode allows users to train their skills, experiment with different weapons and strategies, and gain familiarity with the game's mechanics in a controlled environment. Practice modes contribute to the iterative learning process, enabling players to refine their abilities gradually.
+
+However, the game does not force new players to go straight into training mode. Instead, it allows players to skip the training and play with others in a real battle game. By doing this, the game focuses on the main purpose of the game, a Battle Royale game, which is to survive and be the last one standing. It gives new players the sense of what the game is about and what they should expect throughout the gameplay right of the bat so that they can experience the gameplay as soon as possible, rather than having them to go through all the complex details of the non-essential features.
+
+## Main Lobby
+
+### Overview
+
+![pubg-lobby](images/pubg-lobby.jpg)
+
+The main lobby is the first screen that players see when they open the game. It is where players can access various features, such as the shop, inventory, settings, and social features. The lobby is designed to be visually appealing and intuitive, allowing players to navigate through the interface easily. It also serves as a hub for players to access other game modes, such as training, arcade, and classic matches.
+
+There are 3 main sections in the lobby:
+
+- **Top section**:
+  - In the top-left corner, we can see the player's avatar, username, rank, and level. This provides a quick overview of the player's progress and achievements.
+  - In the middle, we have the "Home" button (identified by the house icon), the PUBG brand name and the "Shop" button (identified by the shopping cart icon). The "Home" button allows players to return to the main lobby screen, while the "Shop" button allows players to access the in-game store. If there are any new items available for purchase, an exclamation mark will appear next to the "Shop" button to notify players. 
+  - In the top-right corner, we have the points and ingame top-ups. The points are used to purchase items in the shop, while the ingame top-ups are used to purchase items in the in-game store. The "Plus" button (identified by the plus icon) shows that players can purchase more top-ups if they want to.
+- **Middle section**: 
+  - This is the main area of the lobby. We can see the actual background of ingame environment here. Our character model will be in the center, giving us the highlight of the equipments and/or inventory that we're having. Besides, when there are new people join in the game with us, their model will appear next to ours. This allows players to see their teammates and interact with them (via microphone or ingame chat system) before the match starts. It also provides a sense of community and camaraderie, which can enhance the overall user experience.
+  - In addition, the game draws inspiration from real-world military tactics, weapons, and equipment. This allows players to leverage their existing knowledge and understanding of these concepts to improve their performance in the game. For example, players can apply real-world knowledge of weapon characteristics, such as recoil and bullet drop, to improve their aim and accuracy in PUBG Mobile.
+
+![image-pubg-2](images/pubg-realworld.png)
+
+- **Bottom section**:
+  - The first thing that hits our eyes is the big "Start" button, displayed in a bright yellow color. This aims to attract out attention and to encourage us to start the game (which is the intention of the developers).
+  - A special thing about the design of this section is that they don't put everything at once, since it will make the screen look crowded and overwhelming. Instead, they only show the buttons that are important and most relevant to the players. For example, if the player is in the lobby, they will only show the "Missions" button, "Inventory" button. Other options can be found when players click the "Arrow Up" button next to the side. This allows players to focus on the main features of the game without being distracted by unnecessary details.
+
+### Interaction
+
+The lobby is designed with the intention to be simple and intuitive. Most of the time, mobile devices would often have small screens, this would scale down the size of the buttons (for the sake of designing). Noticing this, the developers of the game implemented a feature that allows players to swipe, to the left or to the right, to switch between different screens of the lobby (like the Inventory or the Shop). There is also a transition animation to make the switch more smooth and visually appealing
+
+## Hints and Tips
+
+For new players, who will be unfamiliar with the layout and the functionality of the buttons, the game provides hints to guide them through the interface. 
+
+![pubg-hint](images/pubg-hint.jpg)
+
+For example, when players first open the game, a hint will appear on the "Start" button to encourage them to start the game, or in the picture below, there's a hint pointing at the "Newbie" button,
+
+![pubg-hint](images/pubg-newbie-hints.jpg)
+
+or various banners that appear throughout the game to notify players of new features or events.
+
+![pubg-banner](images/pubg-banner-1.jpg)
+
+These notifications will usually take up most of the screen to catch the player's attention, notifying them of new features or events. For instance, the shop will present latest items that are available for purchase as the main spotlight of the screen, while the background is dimmed so that it will not cause any distractions. Other items are also designed to be well contrasted and visually appealing to attract the player's attention, and potentially, to encourage them to purchase the items.
+
+![pubg-shop](images/pubg-shop.jpg)
+
+Moreover, the game also have popup notifications that appear when players complete a mission or an achievement. Or, when the players accidentally click on "dangerous" buttons, like the "Buy" button in the shop, or the "Upgrade" button in the inventory, or when the players want to exit the match, there will be a popup notification to confirm their action. This thoroughness is a good design to reduce the amount of errors that players might make.
+
+![pubg-exit-match](images/pubg-exit-match.jpg)
+
+
+## Visualization
+
+The game comes with visual effects to enhance the user experience. For instance, when players want to view the details of an item, there will be a 3D model next to the side to give the players a more realistic view of the item, how it looks like, how it fits to their character models, etc. The 3D model also has the ability to rotate, allowing players to view the item from different angles. This feature is another special thing about the game because they can view all the perks and details of the item right in the game itself, instead of having to go online for reference.
+
+![pubg-visualize](images/pubg-visualization.jpg)
+
+## Personalization
+
+The ingame settings are rich and diverse, allowing players to customize the game to their liking. For example, players can adjust the graphics quality, frame rate, and resolution to optimize performance. They can also customize the controls, button layout, sensitivity, crosshair, and other gameplay settings to suit their preferences. These personalization options allow players to tailor the game, and increases memorability as they can configure the game to match their individual playstyle and needs.
+
+![pubg-settings-1](/images/pubg-settings-1.jpg)
+
+![pubg-settings-2](/images/pubg-settings-2.jpg)
+
+There is one thing to consider, however, is that the personalization options cannot fit all the players' needs. The developers have tried their best to include the most common options that players would want to customize. Doing this will cause an absurd amount of options and it will be unnecessary. An example of this is the limited color options for the crosshair,
+
+![pubg-settings-3](images/pubg-settings-3.jpg)
+
+or the limited languages supported by the game.
+
+![pubg-settings-4](/images/pubg-settings-4.jpg)
+
+## Gameplay
+
+### Loading Screen
+
+![pubg-loading](images/pubg-loading-screen.jpg)
+
+The loading screen is well-thought-out and designed to be visually appealing, while also gives players some insights of the gameplay and the chosen map. For instance, the background is a screenshot of the map environment (dimmed) to give players a sense of the gameplay. In the foreground is a big splashscreen of important mechanics of the game, like the "Danger Zone" or the "Red Zone", visualized with images and text to give players a better ease of understanding. 
+
+Moreover, it also offers tooltips, prompts, and contextual information. These resources can aid players in refreshing their memory on specific features or mechanics when needed.
+
+There is also a loading bar at the bottom of the screen to show the progress of the loading.  
+
 
 ### 2.3.1. Perception
 
@@ -164,7 +283,7 @@ PUBG Mobile incorporates real-world references to enhance the user experience an
 
 PUBG Mobile also incorporates real-world references in its user interface. For example, the inventory system is designed to mimic a backpack, allowing players to organize and manage their items in a way that is familiar and intuitive. Similarly, the map interface resembles a paper map, providing a recognizable and intuitive way to navigate the game world.
 
-![image-pubg-2](images/pubg-realworld.png)
+
 
 ### 2.4.2. Familiarity with Battle Royale Genre and Gaming Conventions
 
@@ -173,8 +292,6 @@ PUBG Mobile is a battle royale game, and many players are already familiar with 
 ### 2.4.3. Gaming Conventions
 
 PUBG Mobile follows common gaming conventions to enhance the user experience and facilitate learning. For example, the game utilizes standard controls and button mappings that are familiar to most players. This allows players to leverage their existing knowledge of gaming conventions to quickly learn and adapt to PUBG Mobile.
-
-
 
 ## 2.5. Usability
 
@@ -206,7 +323,6 @@ Learnability plays a crucial role in the overall usability of a system, and PUBG
 
 **Language Barriers:** PUBG Mobile is played by a global audience, and language barriers can pose challenges for players who are not fluent in the game's default language. In some cases, translations may not be accurate or may be incomplete, leading to confusion and difficulty in understanding instructions and tooltips.
 
-![pubg-image-3](images/Language2.png)
 
 **Time Investment:** PUBG Mobile is a complex game that requires a significant time investment to become proficient. Some players may find it difficult to dedicate the necessary time to learn and improve their skills, which can impede their progress and enjoyment of the game.
 
@@ -224,16 +340,13 @@ Learnability plays a crucial role in the overall usability of a system, and PUBG
 
 Players can easily perform actions such as swapping items between their inventory and the ground, dropping items from their inventory, or picking up items from the ground with the auto-pickup feature. Players just need to tap on the item they want to pick up and the item will be automatically added to their inventory. The auto-pickup feature can be customized to prioritize certain items over others, allowing players to quickly collect the items they need.
 
-
 PUBG Mobile typically offers options to sort and filter the inventory based on different criteria such as item type, rarity, and quantity. This helps players quickly find and manage specific items. By selecting an item in the inventory, players can access additional information about that item, such as its stats, attachments compatibility, and any customization options available.
-
 
 ![pubg-inventory](images/image-pubg-2.png)
 
 #### Drawbacks and Hindrances
 
 The drawback lies in the space in which the user interacts with the game, and server connection speed will depend on many factors such as network speed, which device to use to play the game.
-
 
 **Overloaded Interaction Space:**
 
@@ -250,9 +363,7 @@ The time it takes to find a match in each map in PUBG MOBILE can vary depending 
 
 **Lag and Frame Rate Issues:**
 
-
 Lag and frame rate issues can occur in PUBG MOBILE due to a variety of factors, including network connectivity, device performance, and graphics settings. These issues can negatively impact the user experience by causing delays in gameplay, making it difficult to aim accurately, or resulting in crashes or disconnections.
-
 
 ### 2.5.3. Memorability
 
@@ -290,11 +401,7 @@ For example, there are three main situations that need direction control: the la
 - Placing critical buttons, such as the fire button or grenade throw button, too close together, resulting in accidental taps or erroneous actions.
 - Buttons placed in non-intuitive locations, making it difficult for users to locate or access them quickly, leading to delays and errors in gameplay.
 
-
 ![pubg-btn-layout](images/pubg-btn-layout.png)
-
-
-
 
 ### 2.5.5. Satisfaction
 
@@ -324,7 +431,6 @@ Satisfaction in the context of usability refers to the overall level of enjoymen
 
 - Events and Tournaments: Regularly hosting in-game events, tournaments, or challenges provides additional avenues for player engagement and satisfaction. These events can offer exclusive rewards, showcase player skills, and create a sense of community participation.
 
-
 ## 2.6. Interaction Metaphor
 
 **Shooting and aiming:**
@@ -334,8 +440,6 @@ Satisfaction in the context of usability refers to the overall level of enjoymen
     - On-screen controls mimic the actions of holding a weapon.
     - Players tap or hold buttons to aim and shoot.
     - Swiping or dragging gestures can simulate the movement of adjusting aim or firing.
-
-
 
 **Movement and navigation:**
 
@@ -371,7 +475,6 @@ Satisfaction in the context of usability refers to the overall level of enjoymen
     - Text messaging interfaces allow players to type and send messages to teammates.
     - Quick chat options or predefined phrases can be used for faster communication during gameplay.
 
-
 **Looting and item interaction:**
 
 - Interaction metaphor: Searching and handling objects
@@ -399,9 +502,6 @@ Satisfaction in the context of usability refers to the overall level of enjoymen
 
 # References
 
-<!-- T de link thoi nha, chuyen qua APA nha -->
-
-<!-- PUBG Related -->
 - https://tournafest.com/blog/all-about-pubg-a-case-study/
 - https://uxdesign.cc/what-i-learned-about-ux-research-on-pubg-mobile-as-a-player-57a673d19fe1?gi=0013e3fefac9
 - https://www.invespcro.com/blog/usability-design-for-a-better-user-experience/#:~:text=As%20an%20essential%20element%20in,user%20to%20compelte%20the%20task.
