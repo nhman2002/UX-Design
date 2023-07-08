@@ -4,12 +4,13 @@ title: "HCI: Analysis of the User Experience"
 ---
 
 # 1. Aim and Objectives
+
 The aim of this report is to evaluate and analyse the user experience of two products:
 
 1. [Ziiiro Watch](https://www.ziiiro.com/)
 2. [PUBG Mobile](https://www.pubgmobile.com/en-US/home.shtml)
 
-The report focuses on the analysis of user experience and experience perspectives based on the fundemental HCI concepts that we have learned in the HCI course, which includes:
+The report focuses on the analysis of user experience and experience perspectives based on the fundemental HCI concepts that have been covered in the HCI course, which includes:
 
 - Human capabilities
 - User mental model
@@ -17,88 +18,106 @@ The report focuses on the analysis of user experience and experience perspective
 - Usability
 
 
+# 1. ZIIIRO watch - CELESTE
+
+
 ## 1.1. Introduction
-Welcome to the world of ZIIIRO Watches, where boldness meets minimalism and everyday timekeeping becomes an art form. ZIIIRO is a renowned brand known for its unique and fashionable timepieces that effortlessly blend style and functionality. With their sleek designs and eye-catching colors, ZIIIRO watches are the perfect accessories to complement your outfit and make a bold statement.
+
+World of ZIIIRO Watches, where boldness meets minimalism and everyday timekeeping becomes an art form. ZIIIRO is a renowned brand known for its unique and fashionable timepieces that effortlessly blend style and functionality. With their sleek designs and eye-catching colors, ZIIIRO watches are the perfect accessories to complement your outfit and make a bold statement.
 
 ZIIIRO was founded by two individuals, Robert and Derick, who shared a passion for creating timepieces that challenge traditional norms. Their journey began on the internet, where Robert, based in Germany, showcased his watch designs, catching the attention of Derick from Hong Kong. With their shared vision of minimalism and a desire to create something extraordinary, ZIIIRO was born.
 
-## 1.2. Research Questions
-1. Name and domain of the product.
-   - **Name:** The ZIIIRO watch's
+## 1.2. Name and domain 
+   - **Name:** The ZIIIRO watch - the CELESTE
    - **Domain:**
-     This product is primarily intended for personal use as a stylish and innovative timepiece. The ZIIIRO watches are designed to appeal to individuals who appreciate unique designs, minimalistic aesthetics, and unconventional ways of displaying time. The watches are not only functional for timekeeping but also serve as fashion accessories, conversation starters, and collector's items for enthusiasts interested in distinctive and limited edition timepieces. The ZIIIRO watches are known for their bold and colorful designs that allow users to mix and match colors that pop. They offer a range of unique everyday watches with a focus on simplicity and sleekness, keeping the design minimal and stylish.
+     The ZIIIRO watch, specially the CELESTE, is primarily intended for personal use as a stylish and innovative timepiece. The ZIIIRO watches are designed to appeal to individuals who appreciate unique designs, minimalistic aesthetics, and unconventional ways of displaying time. The watches are not only functional for timekeeping but also serve as fashion accessories, conversation starters, and collector's items for enthusiasts interested in distinctive and limited edition timepieces. 
+     CELESTE is one of many collections from ZIIIRO branch, it displays time using two transparent gradient discs which make the clock face a halo of continuously changing color nuances. The Celeste comes with a 316L stainless steel casing and strap.
+     ![celeste watch black mono](./images/ziiiro-celeste-watch-black-mono-front.jpg) 
 
-2. What is the target audience of the product?
-   <p>The ZIIIRO watch is specifically designed to captivate the attention of individuals who have a discerning taste for unique and minimalist timepieces, as well as a deep appreciation for aesthetics. The watch stands out from conventional designs with its unconventional display and emphasis on graphical design, offering a truly distinctive and eye-catching appearance.
 
-   One of the key factors that appeal to the target audience is the watch's minimalist approach. The ZIIIRO watch does away with conventional hands, markings, and even clasps, embracing a philosophy of minimalism where no distracting elements are included in the designs. This design choice ensures that the focus remains on the essential function of timekeeping while creating a visually striking experience.
+## 1.3. Target Audience
+   <p>The CELESTE is specifically designed to captivate the attention of individuals who have a discerning taste for unique and minimalist timepieces, as well as a deep appreciation for aesthetics. The watch stands out from conventional designs with its unconventional display and emphasis on graphical design, offering a truly distinctive and eye-catching appearance.
 
-   The ZIIIRO watch's emphasis on graphical design is another aspect that appeals to the target audience. The watch utilizes a constant change in patterns to indicate the passage of time, relying on moving gradients and rotating discs. This unique approach not only offers a fresh and dynamic way of reading the time but also serves as an artistic expression that complements the wearer's sense of style.</p>
+   One of the key factors that appeal to the target audience is the watch's minimalist approach. The CELESTE does away with conventional hands, markings, and even clasps, embracing a philosophy of minimalism where no distracting elements are included in the designs. This design choice ensures that the focus remains on the essential function of timekeeping while creating a visually striking experience.
 
-3. Some core use cases of the product (describe in detail the context of each use case such as where, when, situations of users (sitting, standing, lying, running, etc.), methods of user interaction with the product via its interface).
+   The CELESTE emphasis on graphical design is another aspect that appeals to the target audience. The watch utilizes a constant change in patterns to indicate the passage of time, relying on moving gradients and rotating discs. This unique approach not only offers a fresh and dynamic way of reading the time but also serves as an artistic expression that complements the wearer's sense of style.</p>
 
-   The ZIIIRO watch offers several core use cases that cater to various contexts and situations, providing users with a unique and engaging timekeeping experience. Let's explore these use cases in detail, including the context, user situations, and methods of interaction with the watch's interface:
+## 1.4. Some core use cases of the product
 
-	- **Everyday Timekeeping:**
-		- **Context:** This use case encompasses the daily routine of users, whether at home, work, or during leisure activities.
-		- **User Situations:** Users can be in a variety of positions such as sitting, standing, or walking, and engaged in various tasks or activities.
-		- **Interaction:** Users interact with the ZIIIRO watch by simply glancing at its unconventional display, which may feature moving gradients, rotating discs, or other graphical elements. The watch's interface provides a visually striking representation of the time, allowing users to effortlessly read the hours and minutes. The absence of traditional hands and markings does not hinder its readability; instead, the design focuses on simplicity and minimalism. The watch's interface serves as a constant visual reminder of the time, ensuring that users can stay on schedule and manage their tasks efficiently. Whether sitting at a desk, running on a treadmill, or engaging in any other activity, users can quickly glance at the watch to stay informed without the need for distracting or intrusive notifications. It seamlessly integrates into their daily lives, providing a unique and intuitive timekeeping experience.
+The CELESTE, offers several core use cases that cater to various contexts and situations, providing users with a unique and engaging timekeeping experience. Let's explore these use cases in detail, including the context, user situations, and methods of interaction with the watch's interface:
+
+- **Everyday Timekeeping**:
+
+	- **Context:** This use case encompasses the daily routine of users, whether at home, work, or during leisure activities.
+
+	- **User Situations:** Users can be in a variety of positions such as sitting, standing, or walking, and engaged in various tasks or activities.
+
+	- **Interaction:** Users interact with the CELESTE by simply glancing at its unconventional display, which may feature moving gradients, rotating discs, or other graphical elements. The watch's interface provides a visually striking representation of the time, allowing users to effortlessly read the hours and minutes. The absence of traditional hands and markings does not hinder its readability; instead, the design focuses on simplicity and minimalism. The watch's interface serves as a constant visual reminder of the time, ensuring that users can stay on schedule and manage their tasks efficiently. Whether sitting at a desk, running on a treadmill, or engaging in any other activity, users can quickly glance at the watch to stay informed without the need for distracting or intrusive notifications. It seamlessly integrates into their daily lives, providing a unique and intuitive timekeeping experience.
 		
-	- **Fashion and Style:**
-		- **Context:** This use case revolves around users who appreciate the ZIIIRO watch as a fashionable accessory, allowing them to express their personal style and make a statement.
-		- **User Situations:** Users can wear the watch while attending social events, parties, or gatherings, or as part of their daily attire to enhance their overall look.
-		- **Interaction:** The watch's interface serves as a captivating centerpiece, drawing attention with its distinctive and eye-catching design. Users have the freedom to mix and match colors, choosing from a range of options, to create personalized combinations that perfectly complement their outfits. The ZIIIRO watch becomes an integral part of their fashion ensemble, adding a touch of creativity and individuality. Its seamless integration with their style allows users to showcase their fashion-forward mindset and appreciation for unique accessories.
+- **Fashion and Style**:
+	- **Context:** This use case revolves around users who appreciate the CELESTE as a fashionable accessory, allowing them to express their personal style and make a statement.
 
-	<p>In all of these use cases, the ZIIIRO watch offers a seamless and intuitive user experience. The unconventional display and emphasis on graphical design allow users to interact with the watch effortlessly, relying on visual cues rather than traditional timekeeping elements. This makes it suitable for various contexts and user situations, enhancing both functionality and style.</p>
-![Alt text](https://www.ziiiro.com/wp-content/uploads/2023/03/XS-celeste-rose-pink-side-247x296.jpg "a title") 
+	- **User Situations:** Users can wear the watch while attending social events, parties, or gatherings, or as part of their daily attire to enhance their overall look.
 
-4. Analysis of benefits and drawbacks of the product's interface based on the fundamental HCI concepts.
-- **Benefits**:
-  - **Simplicity**: The ZIIIRO watch's interface embraces simplicity by utilizing a minimalistic design approach. It eliminates complex buttons, dials, and markings commonly found on traditional watches, resulting in a clean and sleek appearance. This simplicity enhances the user experience by reducing cognitive load and making it easy to read and interpret the time.
-    _Use case_: Busy professionals who are constantly on the go can benefit from the ZIIIRO watch's simplicity. Its minimalist design allows them to quickly glance at the time without being distracted by unnecessary details. Whether they are in a meeting, attending an event, or managing their schedule, the simplicity of the watch's interface helps them prioritize their time and stay focused.
+	- **Interaction:** The watch's interface serves as a captivating centerpiece, drawing attention with its distinctive and eye-catching design. Users have the freedom to mix and match colors, choosing from a range of options, to create personalized combinations that perfectly complement their outfits. The CELESTE becomes an integral part of their fashion ensemble, adding a touch of creativity and individuality. Its seamless integration with their style allows users to showcase their fashion-forward mindset and appreciation for unique accessories.
 
-  - **Visual Clarity**: The watch employs a combination of colors, shapes, and patterns to represent the time. This visual clarity allows users to quickly understand the current time at a glance. By removing unnecessary elements, the ZIIIRO watch provides a focused and unambiguous display.
-    _Use case_: In a diverse professional setting, the ZIIIRO watch's visual clarity proves valuable. Professionals such as engineers, designers, and architects can easily glance at the watch during meetings without being distracted by unnecessary details. This allows them to maintain focus, adhere to schedules, and seamlessly transition between tasks. The minimalist design adds sophistication to their attire, making it a subtle fashion statement.
+	<p>In all of these use cases, the CELESTE offers a seamless and intuitive user experience. The unconventional display and emphasis on graphical design allow users to interact with the watch effortlessly, relying on visual cues rather than traditional timekeeping elements. This makes it suitable for various contexts and user situations, enhancing both functionality and style.</p>
+  
+  ![celeste watch black mono](./images/s-l1600.jpg) 
 
-  - **Aesthetic Appeal**: The unique design of the ZIIIRO watch's interface appeals to users who appreciate unconventional and modern aesthetics. The watch serves as a fashion statement and conversation starter, appealing to those who value style and individuality.
-  _Use case_: Fashion-forward individuals who seek to express their individuality through accessories can benefit from the ZIIIRO watch's aesthetic appeal. Whether they are attending parties, social events, or simply want to stand out in their day-to-day activities, the watch serves as a conversation starter and complements their personal style choices.
+## 1.5. Benefits and drawbacks of the product's interface
+### **Benefits**:
+  - **Simplicity**: The CELESTE interface embraces simplicity by utilizing a minimalistic design approach. It eliminates complex buttons, dials, and markings commonly found on traditional watches, resulting in a clean and sleek appearance. This simplicity enhances the user experience by reducing cognitive load and making it easy to read and interpret the time.
+  _Use case_: Busy professionals who are constantly on the go can benefit from the CELESTE simplicity. Its minimalist design allows them to quickly glance at the time without being distracted by unnecessary details. Whether they are in a meeting, attending an event, or managing their schedule, the simplicity of the watch's interface helps them prioritize their time and stay focused.
 
-- **Drawbacks**:
+  - **Visual Clarity**: The watch employs a combination of colors, shapes, and patterns to represent the time. This visual clarity allows users to quickly understand the current time at a glance. By removing unnecessary elements, the CELESTE provides a focused and unambiguous display.
+  _Use case_: In a diverse professional setting, the CELESTE visual clarity proves valuable. Professionals such as engineers, designers, and architects can easily glance at the watch during meetings without being distracted by unnecessary details. This allows them to maintain focus, adhere to schedules, and seamlessly transition between tasks. The minimalist design adds sophistication to their attire, making it a subtle fashion statement.
 
-  - **Learning Curve**: Due to its unconventional interface, users may initially find it challenging to understand how to read the time on the ZIIIRO watch. It deviates from the traditional watch face format, requiring users to learn a new time-telling method. This learning curve can be a drawback for users who prefer familiarity and ease of use.
-    _Use case_: Elderly users who are accustomed to traditional watch designs and may have difficulty adapting to new technologies could find the learning curve of the ZIIIRO watch challenging. Its unconventional interface might cause confusion and frustration for individuals who are used to reading time in a more traditional manner.
+  - **Aesthetic Appeal**: The unique design of the CELESTE interface appeals to users who appreciate unconventional and modern aesthetics. The watch serves as a fashion statement and conversation starter, appealing to those who value style and individuality.
+  _Use case_: Fashion-forward individuals who seek to express their individuality through accessories can benefit from the CELESTE aesthetic appeal. Whether they are attending parties, social events, or simply want to stand out in their day-to-day activities, the watch serves as a conversation starter and complements their personal style choices.
 
-  - **Precision and Accuracy**: The abstract representation of time on the ZIIIRO watch sacrifices precise timekeeping. The absence of minute and second markers makes it difficult to determine time with high accuracy. While the watch may suffice for general timekeeping, it may not be suitable for situations that require precise timing.
-    _Use case_: Sports and fitness enthusiasts who require precise timing for activities such as interval training, timing laps, or monitoring rest periods may find the abstract time representation of the ZIIIRO watch insufficient. The lack of minute and second markers makes it difficult to track time precisely, potentially impacting their performance or training routines
+### **Drawbacks**:
 
-  - **Limited Functionality**: The ZIIIRO watch's interface focuses solely on displaying the time. It lacks additional features commonly found in modern watches, such as date display, alarms, or timers. Users who require these functionalities may find the ZIIIRO watch limited in its capabilities.
-    _Use case_: Travelers who rely on watches to not only tell time but also track multiple time zones or use alarms to manage their schedules may find the limited functionality of the ZIIIRO watch inconvenient. The absence of additional features like date display, world time, or alarms may hinder their ability to efficiently manage their travel plans or stay organized in different time zones.
+  - **Learning Curve**: Due to its unconventional interface, users may initially find it challenging to understand how to read the time on the CELESTE. It deviates from the traditional watch face format, requiring users to learn a new time-telling method. This learning curve can be a drawback for users who prefer familiarity and ease of use.
+  _Use case_: Elderly users who are accustomed to traditional watch designs and may have difficulty adapting to new technologies could find the learning curve of the CELESTE challenging. Its unconventional interface might cause confusion and frustration for individuals who are used to reading time in a more traditional manner.
+    ![Howto_Celeste](images/Howto_Celeste.jpg)
 
-  - **Accessibility**: The abstract representation of time on the ZIIIRO watch may pose challenges for individuals with visual impairments or certain cognitive disabilities. The lack of clear, standardized time indicators can hinder accessibility for a portion of the user population.
-  _Use case_: Visually impaired users who heavily rely on tactile or audible feedback to interact with devices may find the abstract time representation of the ZIIIRO watch inaccessible. The lack of clear indicators or tactile markings makes it difficult for these users to independently read and interpret the time, potentially excluding them from using the watch effectively.
+  - **Precision and Accuracy**: The abstract representation of time on the CELESTE sacrifices precise timekeeping. The absence of minute and second markers makes it difficult to determine time with high accuracy. While the watch may suffice for general timekeeping, it may not be suitable for situations that require precise timing.
+  _Use case_: Sports and fitness enthusiasts who require precise timing for activities such as interval training, timing laps, or monitoring rest periods may find the abstract time representation of the CELESTE insufficient. The lack of minute and second markers makes it difficult to track time precisely, potentially impacting their performance or training routines
+    ![eclipse-steel-black-red](images/ziiiro_celeste_mono_on_hand.jpg)
+    
 
-5. Different types of users who might use this application, possible contexts where difficulties and hinderances might occur with the given interfaces and interactions that the products current provide.
+  - **Limited Functionality**: The CELESTE interface focuses solely on displaying the time. It lacks additional features commonly found in modern watches, such as date display, alarms, or timers. Users who require these functionalities may find the CELESTE limited in its capabilities.
+  _Use case_: Travelers who rely on watches to not only tell time but also track multiple time zones or use alarms to manage their schedules may find the limited functionality of the CELESTE inconvenient. The absence of additional features like date display, world time, or alarms may hinder their ability to efficiently manage their travel plans or stay organized in different time zones.
+   ![lunar-black](images/maxresdefault.jpg)
+
+  - **Accessibility**: The abstract representation of time on the CELESTE may pose challenges for individuals with visual impairments or certain cognitive disabilities. The lack of clear, standardized time indicators can hinder accessibility for a portion of the user population.
+  _Use case_: Visually impaired users who heavily rely on tactile or audible feedback to interact with devices may find the abstract time representation of the CELESTE inaccessible. The lack of clear indicators or tactile markings makes it difficult for these users to independently read and interpret the time, potentially excluding them from using the watch effectively.
+   ![lunar-black](images/CelesteBlackMono24.jpg)
+
+
+## 1.6. Different types of users
 
 - **Tech Novices**:
-  Users who are not accustomed to modern technology or have limited experience with digital devices may face difficulties understanding and operating the ZIIIRO watch's unconventional interface. The abstract representation of time may be confusing, leading to a steep learning curve for these users.
+  Users who are not accustomed to modern technology or have limited experience with digital devices may face difficulties understanding and operating the CELESTE unconventional interface. The abstract representation of time may be confusing, leading to a steep learning curve for these users.
 
 - **Elderly Users**:
-  Elderly users who are more accustomed to traditional watches with standard time displays may find it challenging to adapt to the abstract time representation used in the ZIIIRO watch. The lack of clear minute and second markers could lead to confusion and difficulty accurately reading the time.
+  Elderly users who are more accustomed to traditional watches with standard time displays may find it challenging to adapt to the abstract time representation used in the CELESTE. The lack of clear minute and second markers could lead to confusion and difficulty accurately reading the time.
 
 - **Visually Impaired Users**:
-  Visually impaired users who rely on clear and tactile indicators to read time may encounter difficulties with the ZIIIRO watch's interface. The absence of standardized markings or tactile feedback could hinder their ability to independently interpret the time.
+  Visually impaired users who rely on clear and tactile indicators to read time may encounter difficulties with the CELESTE interface. The absence of standardized markings or tactile feedback could hinder their ability to independently interpret the time.
 
 - **Users in Time-Critical Situations**:
-  In time-critical situations where precise timing is crucial, such as sports events or professional settings with strict deadlines, the abstract representation of time on the ZIIIRO watch might not provide the accuracy and precision needed. The lack of minute and second markers could make it challenging for users to track time precisely.
+  In time-critical situations where precise timing is crucial, such as sports events or professional settings with strict deadlines, the abstract representation of time on the CELESTE might not provide the accuracy and precision needed. The lack of minute and second markers could make it challenging for users to track time precisely.
 
 - **Multitaskers**:
-  Users who frequently rely on additional functions, such as alarms, timers, or date displays, may find the limited functionality of the ZIIIRO watch restrictive. In contexts where managing multiple tasks and schedules is essential, the absence of these features may hinder their productivity and organizational abilities.
+  Users who frequently rely on additional functions, such as alarms, timers, or date displays, may find the limited functionality of the CELESTE restrictive. In contexts where managing multiple tasks and schedules is essential, the absence of these features may hinder their productivity and organizational abilities.
 
 - **Individuals with Cognitive Disabilities**:
-  Users with certain cognitive disabilities that affect their ability to interpret abstract representations or learn new interfaces may find it challenging to use the ZIIIRO watch. The unconventional time display might pose difficulties for these individuals, potentially limiting their ability to independently read and understand the time.
+  Users with certain cognitive disabilities that affect their ability to interpret abstract representations or learn new interfaces may find it challenging to use the CELESTE. The unconventional time display might pose difficulties for these individuals, potentially limiting their ability to independently read and understand the time.
 
 # 2. PUBG Mobile
-
+<!-- 
 ## 2.1. Introduction
 
 PUBG Mobile is a free-to-play battle royale video game developed by LightSpeed & Quantum Studio, a division of Tencent Games. It is a mobile game adaptation of PUBG: Battlegrounds. It was initially released for Android and iOS on 19 March 2018.
@@ -109,6 +128,20 @@ It was published by multiple publishers in different regions, including Krafton,
 
 PUBG Mobile is a game that is played by people of all ages. However, the game is rated 17+ by the ESRB, which means that the game is not suitable for children under the age of 17. The game is also rated 16+ by PEGI, which means that the game is not suitable for children under the age of 16.
 
+<!-- ## 2.3. Some core use cases of the product
+
+### 2.3.1. Use Case 1: Playing the game
+
+- Context: The user is playing the game on their mobile device.
+- User Situation: The user is sitting down and holding their mobile device in their hands.
+- Methods of Interaction: The user interacts with the game by using the touch screen on their mobile device. They can tap on the screen to move their character, shoot, and interact with objects in the game world. They can also use the device's gyroscope to aim and look around. 
+
+### 2.3.2. Use Case 2: Customizing the game settings
+
+- Context: The user is customizing the game settings on their mobile device.
+- User Situation: The user is sitting down and holding their mobile device in their hands.
+- Methods of Interaction: The user interacts with the game by using the touch screen on their mobile device. They can tap on the screen to select different options and adjust settings to best suit their preferences. -->
+<!-- 
 ## 2.3. Analysis of UX in terms of Human Capabilities
 
 ### 2.3.1. Perception
@@ -117,7 +150,7 @@ PUBG Mobile leverages players' perceptual abilities, including visual and audito
 
 ### 2.3.2. Cognition
 
-Minimize the user’s memory load by making objects, actions, and options visible. The user should not have to remember information from one part of the dialogue to another. Instructions for use of the system should be visible or easily retrievable whenever appropriate.
+PUBG minimize the user’s memory load by making objects, actions, and options visible. The user should not have to remember information from one part of the dialogue to another. Instructions for use of the system should be visible or easily retrievable whenever appropriate.
 
 The weapons and bullets have different types in the PUBG mobile and players feel difficult to figure out what they need at that time. The highlighted stuff is an automatic reminder for players to recognize the weapon they have and what bullets they should pick up.
 
@@ -139,283 +172,79 @@ PUBG Mobile is a battle royale game, and many players are already familiar with 
 
 ### 2.4.3. Gaming Conventions
 
-PUBG Mobile follows common gaming conventions to enhance the user experience and facilitate learning. For example, the game utilizes standard controls and button mappings that are familiar to most players. This allows players to leverage their existing knowledge of gaming conventions to quickly learn and adapt to PUBG Mobile.
+PUBG Mobile follows common gaming conventions to enhance the user experience and facilitate learning. For example, the game utilizes standard controls and button mappings that are familiar to most players. This allows players to leverage their existing knowledge of gaming conventions to quickly learn and adapt to PUBG Mobile. --> -->
 
-## 2.5. Usability
 
-### 2.5.1. Learnability
 
-Learnability plays a crucial role in the overall usability of a system, and PUBG Mobile incorporates several features to ensure that new players can quickly grasp the game mechanics and navigate the interface. Here is a more detailed analysis of learnability in PUBG Mobile:
+## In-game Experience
+### In-game waiting lobby
 
-#### Good Points
+Firstly, the game will start when there is 100 players available (ready to connect). You can see when there is enough player by monitoring the top-left corner. It'll show how many player exist in the room.
 
-**Tutorial Mode:** PUBG Mobile offers a tutorial mode specifically designed to introduce new players to the game. It provides step-by-step instructions on basic controls, movement, aiming, shooting, and looting. The tutorial mode gradually introduces more advanced concepts, such as managing inventory, using vehicles, and employing different weapon attachments.
+Then when the game begins, it'll change to how many players still survive. And how many did you eliminated.
 
-**Tooltips and Hints:** Throughout the game, PUBG Mobile provides tooltips and hints that appear at relevant moments to guide players. These tooltips explain the purpose and functionality of various game elements, such as weapons, equipment, and consumables. Hints may also appear during gameplay to provide contextual information or suggest strategies.
+Why is it must be at the top-left corner. Well, as to many gaming convention, things that is important to the user or in another saying player need to know should be noticed by players are put at the top.
 
-**Interactive Elements:** PUBG Mobile incorporates interactive elements within the user interface to assist in the learning process. For example, players can tap on various icons, buttons, or menu options to access additional information, change settings, or perform specific actions. These interactive elements contribute to an exploratory learning experience, allowing users to experiment and discover functionalities on their own.
+Following that we'll have the map at the top-right corner, as well as the settings button, micro phone access, volume access,... And it can be more due to personal customization.
 
-**Practice Modes:** In addition to the tutorial, PUBG Mobile offers practice modes where players can engage in non-competitive matches or training sessions. These modes allow users to hone their skills, experiment with different weapons and strategies, and gain familiarity with the game's mechanics in a controlled environment. Practice modes contribute to the iterative learning process, enabling players to refine their abilities gradually.
+Then you will, have a minimize compass in the middle-top. This will help players navigate through the map whether they're heading in the right direction. By communiocating to each others, teammate can tell other what direction is the enemies by signify the number on the compass and which direction (Nord, South, West, East) just like in the real world. This will satisfied the `Human Capabilities` in both perception and cognition as well as the `User Mental Model`. In `usability`, user don't have to learn how to use it because it's base on an real-world object, the compass, so it will satisfied the `learnability` in `usability`
 
-**Visual Cues and Feedback:** PUBG Mobile utilizes visual cues and feedback to assist players in understanding the consequences of their actions. For example, when players take damage, the visual representation of health bars or character animations conveys the impact. Similarly, when players successfully eliminate opponents, visual and auditory cues provide feedback and reinforce the understanding of the game's objectives.
+Continue the left corner, we'll have 4 members of our team, to display these member info, we'll have you at the top (signify the person who playing), than the others as follow. They'll have their in-game spell together with a color tags to signal their teammate not to shoot at them. 
 
-![pubg-image-2](images/pubg-cues.jpg)
+By tagging each member as a color symbol, will help players don't have to remember teammates name but as a color tag (`Human Capabilities`).
 
-**Progression System:** PUBG Mobile incorporates a progression system that rewards players with experience points, achievements, and unlockable content as they play. This incentivizes continued engagement and provides a sense of accomplishment and progression. The progression system acts as an additional motivator for players to invest time and effort in learning and improving their skills.
+At the bottom-right corner, base on the default display, there're some button perform action like: `attack, jump, crawl, kneel`. For each button there will be a clear illustration for that specific action. However, the attack button will change depend on what type of weapon you're wielding: none - fist, guns - bullet, melee-weapons - knife. For experience gamer, this will signify them clearly what's that button will do if they press it. For new-gamer, the illustration is clear enough for them to know the usage of those buttons.
 
-**Community Support:** PUBG Mobile boasts a vibrant and active community of players who share tips, strategies, and tutorials through various online platforms. Players can access forums, social media groups, and video content created by the community to learn from experienced players, gain insights into advanced tactics, and discover new approaches to gameplay. The availability of community support enhances the overall learnability of the game.
+At the bottom-left corner, players have a joy-stick icon to control their charater. The concept of joy-stick is very old, back in 1960, so obviously every body know what is it and what's does. 
 
-By incorporating these learnability features, PUBG Mobile ensures that new players can gradually become proficient in the game's mechanics and gain a deeper understanding of its nuances. The combination of tutorial modes, tooltips, interactive elements, practice modes, visual cues, feedback, progression systems, and community support contributes to a comprehensive and accessible learning experience in PUBG Mobile.
+Next to it we will have another attack button. Why is it there because we already have an attack button on the right. Well, in case the player want to jump and shooting (attack) simultaneously, their right thump pressed the jump button and the other one pressed attack. To answer the question, in some cases, players want to perform two action at the same time, in case they run out of finger to press in one side, the game place the same button in the other side to assist players. This also can be change in the customization section where players can custom their personal action display which suit them best.
 
-#### Drawbacks and Hindrances
+Next up is the backpack icon. For it's called, you already know what is it.
+The icon also illustration its storage size, there a circle running around the button. It's signify the backpack capacity, is it full or not, how much storage space is left just like a loading icon in real-world context. However, players can't know the exact amount of storage in it. To be exact, it suppose to have a percentage info to demonstrate the amount of slot in have. But that is not the case of this game. In addition, the packback icon can show which tier it is (the rarity) by showing some yellow stripes next to it, more stripes it have, the better the quality (`User Mental Model`).
 
-PUBG Mobile presents a few challenges that may hinder the learning process for new players. Here are some of the challenges that may affect learnability in PUBG Mobile:
+At the bottom line you'll have 2 weapons slot, 2 equipment slots (on the left side is the slot for heal kit, on the right is for grenade, smoker,...) and your health bar in milky-white. The weapons slot will change the illustration base on what weapon you choose and next to it is the amount of ammunition you have left-hand side (ammunition left in a round / ammunition left in the backpack). This is quite clear for any person to use this info as their advantage. As for the equipment slot, every kind of heal kit or grenade is pack into a single slot. This mean if you're using grenade, only the grenade icon will be display, if you want to use another kind of equipment, let say a smoker, you have to choose the more option icon (as a up-arrow over the equipment slot) then it will display every equipment you have which has the same type, then you select the kit and pressed it again in order to use it. Well this is time consuming and ineffective to the players if they want to do a quick action. In addition, if user is using a smart phone to play, the size of it might effect the performance of its user. Althoughts, the size of display button can be improved by converting to a bigger screen (from phone to a tablet) or by customizing the button display.
+However it's still a drawback and a disadvantage of players who mainly play this game throught a their smart phone.
 
-**Complexity Overload:** PUBG Mobile offers a wide range of gameplay mechanics, features, and strategies, which can be overwhelming for new players. The complexity of the game may lead to a steep learning curve, making it challenging for beginners to grasp all the nuances quickly.
+If your teammate shoot at you or vice versa, there are still hit box effects but you and your teammate health bar won't decreases.
 
-**Lack of In-Depth Explanations:** While PUBG Mobile provides a tutorial and tooltips, some players may find that the explanations provided are not detailed enough. In-depth explanations about advanced tactics, weapon statistics, or complex game mechanics may be lacking, leaving players to seek information from external sources.
 
-**Language Barriers:** PUBG Mobile is played by a global audience, and language barriers can pose challenges for players who are not fluent in the game's default language. In some cases, translations may not be accurate or may be incomplete, leading to confusion and difficulty in understanding instructions and tooltips.
+### In-game flight
+Starting the game, we players are packed in an air plane which flight across the map that we choose, the flight direction is anonymous each round.
 
-![pubg-image-3](images/Language2.png)
+For the visual display, most of it's unchange but for the action display.
+In addition, now we have an extension on the player's team list on left-hand side as well as a jump button to exit the aircraft (with an illustration of a man free falling who wearing a backpack). The extension include a stearing wheel, a follow button, an invite button. The extension section is set to each teammate, each round. So it signify that those new section belongs to whom. The stearing show who is in charge of leaving the aircraft and landed their teammate at the predetermined target. By hovering a color icon over the stearing wheel, it telling who is the leader according to the color previously marked by the game. For exemple: if you assign the first person whose color is yellow to be the leader, your stearing wheel will have a yellow icon hovering over it.
 
-**Time Investment:** PUBG Mobile is a complex game that requires a significant time investment to become proficient. Some players may find it difficult to dedicate the necessary time to learn and improve their skills, which can impede their progress and enjoyment of the game.
+When we exit the teh action display change, we will have a joy stick to controll the character direction, a release button to pull out the parachute, a column monitor to give us info about our fall speed, throught a cursor we can know what is our altitude, the cursor will move downward as we falling. The column has 2 section: section where we can `free falling` is marked as transparent, `danger section`, marked as milky white, is where we must pull out the parachute to decrease our speed, if the players enter this danger area, the game automatically pull out the player parachute. This monitoring column perfectly exucute how the game inform the user on speed and altitude of their fall. The way the cursor move downward as we fall give the user a clear info and the usage of this specific component.
 
-**Lack of Adaptive Learning:** PUBG Mobile currently does not have a sophisticated adaptive learning system that tailors the learning experience to individual players' needs. While the tutorial and practice modes provide a general foundation, the game does not adapt its guidance based on players' specific strengths, weaknesses, or preferred learning styles.
+### Map
 
-### 2.5.2. Efficiency
+**Map** : What whe use to navigate through the game.
 
-#### Good Points
+**Ring** : a circle that keeps shrinking over time.
 
-**Navigation Speed:**: Players can quickly navigate through menus, settings, and in-game interfaces to access various features and options (such as where to start the match, friend list, shops, battle pass, ...). Everything is scattered around the edge of the screen to give your in-game character the highlight. Also,  there is always an Exit button on the top right to undo action and exit the dialogue.
+When opening the map we get the longitude and latitude, just like our real life map. If you don't feel like it, you can turn it off. You will get a less clearer map. However, the map cannot show the terrain altitude. That is a drawback cause user might wanted to have that info.
 
-![pubg-image-4](images/pubg-navigation.png)
+About the ring, when you are outside the ring you will be vulnerable and your health bar decreases over time. The smaller the ring, the worse it gets. To signify that the game using color blue to alert the vulnerable zone, and the color green to do the injured animation. These colors have a lower luminosity than the others even for colorblind people.
+It try to warn that something bad is happening.
 
-**Action Execution:** Action execution refers to the speed and responsiveness with which players can perform in-game actions in PUBG Mobile. It encompasses tasks such as shooting, looting, interacting with objects, and navigating the game world. To evaluate action execution in PUBG Mobile, you can consider the following aspects:
+The ring warning is still displayed when the map is minimize.
+Exemple:
 
-`Responsiveness, Animation Fluidity, Shooting Mechanics, Looting and Interactions, Movement Responsiveness, Network Performance, Aim Assist, Feedback and Visual Cues.`
+<!-- picture -->
 
-Elements such as Animation Fluidity, Network Performance, Movement Responsiveness, Shooting Mechanics, Looting and Interactions are all built-in according to user needs and the device capability ,such as:
+The of a person is running figure represent your character. The white strip mean you reach the end of this bar. You are in the safe zone. The blue section is the vulnerable zone. It will increase overtime as it get closer to you. This is a great feature for gamers, both on big and small map mode.
 
-**Display Modes:**
 
-- Standard
-- Smooth
-- Balanced
-- HD
-- HDR.
 
-**Audio Modes:**
 
-- Stereo
-- Mono
-- Surround
-- 3D Audio.
 
-**Inventory Management:**
+# References
 
-There are 2 kinds of inventory management: **Home screen inventory management** and **In-game inventory management**
+<!-- T de link thoi nha, chuyen qua APA nha -->
 
-
-- `Home screen inventory management`, there are 5 categories which include: Character skin, Weapons skin, Vehicle skin, ... Players can perform actions such as swapping items between their inventory and the equip slot. PUBG Mobile typically offers options to sort and filter the inventory based on different criteria such as item type, rarity, and quantity. This helps players quickly find and manage specific items. By selecting an item in the inventory, players can access additional information about that item, such as its stats, attachments compatibility, and any customization options available.
-
-- `In-game inventory management`, there are only 2 categories which include: Weapons and Equipment, Character items (cosmetics items). In the Weapons and Equipment section, you can see what type of weapon you are using and its Equipment, you can also see the ammunition and other Healing and Boost Items. The character items section shows the items the player's character is wearing, and they can only switch these items with items found on eliminated players' positions. Players can perform actions like swapping items between their inventory and the ground, dropping items from their inventory, or picking up items from the ground. There are also Sorting and Filtering section for the Players. By selecting an item in the inventory, players can access additional information about that item, including its stats, attachments compatibility, and any customization options available.
-
-
-![pubg-inventory](images/image-pubg-2.png)
-
-#### Drawbacks and Hindrances
-
-The drawback lies in the space in which the user interacts with the game, and server connection speed will depend on many factors such as network speed, which device to use to play the game.
-
-
-**Overloaded Interaction Space:**
-
-One of the main drawbacks is the crowded interaction space in PUBG Mobile. While players typically use only 2-4 fingers to interact with the game, there are more than 20 buttons available for interaction. This overload of buttons can overwhelm users and impede their ability to perform actions swiftly and accurately.
--	**Solution:** Customizable Controller Interface
-To enhance the user experience, a potential solution is to provide users with the ability to customize their controller interface. By allowing users to personalize the placement and number of buttons according to their preferences and gameplay style, the interaction space can be optimized. However, it should be noted that customization may result in the transfer of the problem to other aspects, as reducing buttons may limit certain movements or actions.
-
-![pubg-fingers](images/pubg-fingers.jpg)
-
-
-**Minimization of Redundant Steps:**
-
-Reducing redundant steps in the user interface (UI) is crucial for enhancing the user experience. PUBG Mobile incorporates several strategies to streamline gameplay and minimize unnecessary actions. Quick access menus, contextual controls, auto pick-up and loot, inventory management features, simplified vehicle controls, and customizable UI options all contribute to reducing redundancy.
-
--	**Solution:** Continuous Improvement and Refinement
-To further minimize redundant steps, PUBG Mobile developers should continue to analyze user feedback and conduct usability testing. This iterative process can help identify areas where additional streamlining and simplification can be achieved. By prioritizing user input and focusing on efficiency, the developers can enhance the overall user experience.
-
-**Load-time and Matchmaking:**
-
-The time it takes to find a match in each map in PUBG MOBILE can vary depending on several factors, including the region, time of day, and the player’s rank. On average, it typically takes around 30 seconds to a few minutes to find a match in popular maps such as Erangel, Miramar, Sanhok, and Vikendi. However, less popular or newer maps may take longer to find a match. Additionally, the time it takes to find a match can vary depending on the player’s rank. Higher-ranked players may experience longer matchmaking times due to the smaller pool of players available at their skill level.
-
-**Responsiveness to Feedback:**
-
-The game developers strive to optimize the UI to ensure quick and accurate response to player inputs. However, the actual responsiveness can be influenced by factors such as device performance, network latency, and any background processes running on the device.
-
-To enhance the responsiveness of the game UI, it is recommended to play on a device with sufficient processing power and memory, have a stable and fast internet connection, and close any unnecessary background applications that may consume system resources.
-
-It's important to note that different devices and individual configurations may experience varying levels of UI responsiveness. It's always a good idea to keep your device updated with the latest software updates and optimizations provided by the game developers to ensure the best possible performance.
-
-
-
-### 2.5.3. Memorability
-
-Memorability in usability refers to how easily users can remember how to interact with a system or user interface after a period of time. In the context of PUBG MOBILE, memorability plays a vital role in creating a positive user experience. Here are some aspects of memorability in the usability of PUBG MOBILE:
-
-- **Consistent Design Patterns:** PUBG MOBILE follows consistent design patterns throughout the user interface. This means that similar actions and interactions are represented in a uniform way across different screens and menus. For example, the placement of buttons, icons, and menu structures remain consistent, making it easier for users to remember how to navigate and interact within the game.
-- **Intuitive Controls:** The game utilizes intuitive controls that align with common gaming conventions. This helps players familiarize themselves with the controls quickly and easily. For example, movement controls, shooting mechanics, and other actions are designed to be intuitive and aligned with industry-standard gaming practices.
-
-
-
-- **Personalized Settings:** PUBG MOBILE allows users to customize their settings, including controls, sensitivity, and UI elements. By giving players the ability to tailor the game experience to their preferences, it increases memorability as they can configure the game to match their individual playstyle and needs.
-- **Visual Cues and Feedback:** PUBG MOBILE incorporates visual cues and feedback to reinforce actions and provide information to the player. This can include highlighting interactive elements, displaying status indicators, and providing visual and audio feedback when actions are performed successfully. These cues help users remember the effects of their actions and understand the outcome of their interactions.
-- **Iconography:** PUBG MOBILE utilizes clear and recognizable icons throughout its user interface. Consistent and well-designed icons help users remember the meaning and functionality associated with specific actions or features. Familiar and easily understood icons contribute to the memorability of the interface.
-
-
-- **Visual Hierarchy:** PUBG MOBILE applies visual hierarchy to highlight important elements and information. By using size, color, contrast, and spacing effectively, the interface guides users' attention to key elements, making them more memorable and easier to locate and interact with in the future.
-
-By focusing on consistent design patterns, intuitive controls, helpful onboarding, personalized settings, visual cues, and feedback, PUBG MOBILE aims to enhance the memorability of the user interface. This, in turn, improves the overall user experience by reducing the cognitive load on players and enabling them to quickly recall how to interact with the game even after periods of inactivity.
-
-### 2.5.4. Errors
-
-Errors in usability refer to instances where users encounter difficulties or make mistakes while interacting with the user interface. Identifying and addressing these usability errors is crucial for improving the overall user experience. Here are some common usability errors that can occur in PUBG MOBILE:
-
-**Inconsistent Controls:**
-
-- Changing control schemes or button mappings without clear indication or explanation, causing confusion and errors in gameplay.
-- Variation in control sensitivity or responsiveness across different sections of the game, leading to inconsistent user experiences and potential errors.
-
-For example, there are three main situations that need direction control: the landing, the walking, and the driving page. Players can figure out the direction control button on the left (the rocker pad). Pubg mobile provided the rocker pad to control directions in landing, walking status. But the directional pad of driving is directional pads with horizontal and vertical pads on two sides. The direction control is inconsistent with those three main situations. Thus, players need more effort to learn how to perform in the driving situation. As for the opportunity to improve, Pubg mobile can also provide more customized options on control layout of status.
-
-![pubg-layout-change](images/pubg-btn-layout-2.png)
-
-**Poor Button Placement:**
-
-- Placing critical buttons, such as the fire button or grenade throw button, too close together, resulting in accidental taps or erroneous actions.
-- Buttons placed in non-intuitive locations, making it difficult for users to locate or access them quickly, leading to delays and errors in gameplay.
-
-
-![pubg-btn-layout](images/pubg-btn-layout.png)
-
-<
-
-
-### 2.5.5. Satisfaction
-
-Satisfaction in the context of usability refers to the overall level of enjoyment, fulfillment, and positive user experience that PUBG MOBILE provides. Here are specific aspects related to satisfaction in PUBG MOBILE:
-
-**Gameplay Experience:**
-
-- Engaging Gameplay: The satisfaction of players depends on the game's ability to provide engaging and immersive gameplay. This includes exciting combat encounters, strategic decision-making, and a sense of achievement when accomplishing objectives or winning matches.
-
-- Fairness and Balance: Players' satisfaction is influenced by the game's fairness and balance. This includes factors such as matchmaking systems that create balanced matches, anti-cheat measures to ensure a level playing field, and the absence of game-breaking exploits or unfair advantages.
-
-**Performance and Stability:**
-
-- Smooth Performance: Satisfaction is higher when PUBG MOBILE offers smooth performance without significant lag, frame rate drops, or crashes. Consistent performance allows players to fully enjoy the game without interruptions or frustrations.
-
-- Reliable Connectivity: A stable and reliable network connection is crucial for a satisfying experience. When players can connect to matches consistently, experience minimal latency, and avoid disconnections or server issues, their satisfaction is increased.
-
-**Visual and Audio Design:**
-
-- High-Quality Graphics: Well-designed and visually appealing graphics contribute to player satisfaction. Detailed environments, realistic character models, and special effects enhance the immersive experience and provide visual enjoyment.
-
-- Engaging Sound Design: The game's audio effects, including background music, weapon sounds, and environmental audio, contribute to the satisfaction of players. High-quality and immersive sound design adds depth and enhances the overall gaming experience.
-
-**Reward System:**
-
-- Progression and Unlockables: A satisfying reward system that offers meaningful progression and unlockable content keeps players engaged. This can include character customization options, weapon skins, emotes, or in-game currency that can be earned through gameplay achievements.
-
-- Skill-Based Rewards: Recognizing and rewarding player skill and accomplishments can increase satisfaction. This can be through ranking systems, leaderboards, or exclusive rewards for high-performing players, fostering a sense of accomplishment and healthy competition.
-
-**Community and Social Features:**
-
-- Social Interaction: Satisfying experiences can be fostered through robust social features, such as chat systems, friend lists, and the ability to form teams or squads with friends or other players. Strong community engagement and social interaction contribute to player satisfaction.
-
-- Events and Tournaments: Regularly hosting in-game events, tournaments, or challenges provides additional avenues for player engagement and satisfaction. These events can offer exclusive rewards, showcase player skills, and create a sense of community participation.
-
-
-## 2.6. Interaction Metaphor
-
-**Shooting and aiming:**
-
-- Interaction metaphor: Virtual firearms
-- Specifics:
-    - On-screen controls mimic the actions of holding a weapon.
-    - Players tap or hold buttons to aim and shoot.
-    - Swiping or dragging gestures can simulate the movement of adjusting aim or firing.
-
-**Movement and navigation:**
-
-- Interaction metaphor: Physical movement
-- Specifics:
-    - Virtual joystick allows players to control movement, mimicking walking or running.
-    - Swipe gestures enable actions like turning or changing directions.
-    - Buttons or gestures for crouching, jumping, or climbing simulate real-world movements.
-
-**Inventory management:**
-
-- Interaction metaphor: Backpack or storage space
-- Specifics:
-    - Players can drag and drop items within their inventory to organize or equip them.
-    - Swiping or scrolling actions allow players to navigate through their inventory.
-    - Tap and hold gestures enable options like discarding or dropping items.
-
-**Map and location:**
-
-- Interaction metaphor: Paper map or GPS
-- Specifics:
-    - Pinch-to-zoom and panning gestures allow players to explore different parts of the map.
-    - Markers or icons can be placed on the map to indicate specific locations or objectives.
-    - Tapping on the map reveals additional details or options for navigation.
-
-**Communication and teamwork:**
-
-- Interaction metaphor: Real-world communication methods
-- Specifics:
-    - Voice chat functionality enables players to communicate verbally with teammates.
-    - Text messaging interfaces allow players to type and send messages to teammates.
-    - Quick chat options or predefined phrases can be used for faster communication during gameplay.
-
-
-**Looting and item interaction:**
-
-- Interaction metaphor: Searching and handling objects
-- Specifics:
-    - Players can tap or swipe on lootable objects to collect items, mimicking the action of picking up objects in the real world.
-    - Drag and drop gestures can be used to move items between inventory slots or interact with them (e.g., combining items or using consumables).
-    - Visual cues such as highlighting or tooltips provide feedback when interacting with items.
-
-**Vehicle controls:**
-
-- Interaction metaphor: Driving controls
-- Specifics:
-    - On-screen buttons or a virtual steering wheel can simulate the actions of driving a vehicle.
-    - Swipe gestures or tilt controls can be used for steering or adjusting vehicle direction.
-    - Buttons or gestures for acceleration, braking, and other vehicle functions emulate real-world driving mechanics.
-
-**Building and editing structures (in certain game modes):**
-
-- Interaction metaphor: Construction or architectural tools
-- Specifics:
-    - Players can use a building interface to select and place various structure components (e.g., walls, floors, stairs).
-    - Drag and drop gestures allow players to position and rotate structures.
-    - Editing options like resizing, upgrading, or removing structures can be accessed through contextual menus or gestures.
-
-**Health management and healing:**
-
-- Interaction metaphor: Medical supplies and treatments
-- Specifics:
-    - Players can tap or use gestures to access their health management interface.
-    - Drag and drop gestures can be used to consume healing items, such as bandages or medkits.
-    - Visual indicators or progress bars can show the healing process.
-
-**Shooting modes and weapon customization:**
-
-- Interaction metaphor: Weapon selection and modification
-- Specifics:
-    - Players can use virtual buttons or gestures to switch between different shooting modes (e.g., single, burst, or auto-fire).
-    - Drag and drop gestures can be employed to attach or detach weapon attachments (e.g., scopes, grips).
-    - Menus or interfaces can provide options for customizing weapons, mimicking the process of modifying real-world firearms.
-
+<!-- PUBG Related -->
+- https://tournafest.com/blog/all-about-pubg-a-case-study/
+- https://uxdesign.cc/what-i-learned-about-ux-research-on-pubg-mobile-as-a-player-57a673d19fe1?gi=0013e3fefac9
+- https://www.invespcro.com/blog/usability-design-for-a-better-user-experience/#:~:text=As%20an%20essential%20element%20in,user%20to%20compelte%20the%20task.
+- https://www.cnet.com/pictures/pubg-mobile-might-be-the-best-version-of-the-game/12/
+- https://vi.wikipedia.org/wiki/PUBG_Mobile
