@@ -19,8 +19,6 @@ The report focuses on the analysis of user experience and experience perspective
 
 # 1. ZIIIRO watch - CELESTE
 
-# 1. ZIIIRO watch
-
 
 ## 1.1. Introduction
 
@@ -385,21 +383,63 @@ Observe these 2 equipment slot. The health kit slot on left seems to be smaller 
 
 
 
-<!-- ## 2.3. Some core use cases of the product
+## Hints and Tips
 
-### 2.3.1. Use Case 1: Playing the game
+For new players, who will be unfamiliar with the layout and the functionality of the buttons, the game provides hints to guide them through the interface. 
 
-- Context: The user is playing the game on their mobile device.
-- User Situation: The user is sitting down and holding their mobile device in their hands.
-- Methods of Interaction: The user interacts with the game by using the touch screen on their mobile device. They can tap on the screen to move their character, shoot, and interact with objects in the game world. They can also use the device's gyroscope to aim and look around. 
+![pubg-hint](images/pubg-hint.jpg)
 
-### 2.3.2. Use Case 2: Customizing the game settings
+For example, when players first open the game, a hint will appear on the "Start" button to encourage them to start the game, or in the picture below, there's a hint pointing at the "Newbie" button,
 
-- Context: The user is customizing the game settings on their mobile device.
-- User Situation: The user is sitting down and holding their mobile device in their hands.
-- Methods of Interaction: The user interacts with the game by using the touch screen on their mobile device. They can tap on the screen to select different options and adjust settings to best suit their preferences. -->
+![pubg-hint](images/pubg-newbie-hints.jpg)
 
-## 2.3. Analysis of UX in terms of Human Capabilities
+or various banners that appear throughout the game to notify players of new features or events.
+
+![pubg-banner](images/pubg-banner-1.jpg)
+
+These notifications will usually take up most of the screen to catch the player's attention, notifying them of new features or events. For instance, the shop will present latest items that are available for purchase as the main spotlight of the screen, while the background is dimmed so that it will not cause any distractions. Other items are also designed to be well contrasted and visually appealing to attract the player's attention, and potentially, to encourage them to purchase the items.
+
+![pubg-shop](images/pubg-shop.jpg)
+
+Moreover, the game also have popup notifications that appear when players complete a mission or an achievement. Or, when the players accidentally click on "dangerous" buttons, like the "Buy" button in the shop, or the "Upgrade" button in the inventory, or when the players want to exit the match, there will be a popup notification to confirm their action. This thoroughness is a good design to reduce the amount of errors that players might make.
+
+![pubg-exit-match](images/pubg-exit-match.jpg)
+
+
+## Visualization
+
+The game comes with visual effects to enhance the user experience. For instance, when players want to view the details of an item, there will be a 3D model next to the side to give the players a more realistic view of the item, how it looks like, how it fits to their character models, etc. The 3D model also has the ability to rotate, allowing players to view the item from different angles. This feature is another special thing about the game because they can view all the perks and details of the item right in the game itself, instead of having to go online for reference.
+
+![pubg-visualize](images/pubg-visualization.jpg)
+
+## Personalization
+
+The ingame settings are rich and diverse, allowing players to customize the game to their liking. For example, players can adjust the graphics quality, frame rate, and resolution to optimize performance. They can also customize the controls, button layout, sensitivity, crosshair, and other gameplay settings to suit their preferences. These personalization options allow players to tailor the game, and increases memorability as they can configure the game to match their individual playstyle and needs.
+
+![pubg-settings-1](/images/pubg-settings-1.jpg)
+
+![pubg-settings-2](/images/pubg-settings-2.jpg)
+
+There is one thing to consider, however, is that the personalization options cannot fit all the players' needs. The developers have tried their best to include the most common options that players would want to customize. Doing this will cause an absurd amount of options and it will be unnecessary. An example of this is the limited color options for the crosshair,
+
+![pubg-settings-3](images/pubg-settings-3.jpg)
+
+or the limited languages supported by the game.
+
+![pubg-settings-4](/images/pubg-settings-4.jpg)
+
+## Gameplay
+
+### Loading Screen
+
+![pubg-loading](images/pubg-loading-screen.jpg)
+
+The loading screen is well-thought-out and designed to be visually appealing, while also gives players some insights of the gameplay and the chosen map. For instance, the background is a screenshot of the map environment (dimmed) to give players a sense of the gameplay. In the foreground is a big splashscreen of important mechanics of the game, like the "Danger Zone" or the "Red Zone", visualized with images and text to give players a better ease of understanding. 
+
+Moreover, it also offers tooltips, prompts, and contextual information. These resources can aid players in refreshing their memory on specific features or mechanics when needed.
+
+There is also a loading bar at the bottom of the screen to show the progress of the loading.  
+
 
 ### 2.3.1. Perception
 
@@ -430,8 +470,6 @@ PUBG Mobile is a battle royale game, and many players are already familiar with 
 ### 2.4.3. Gaming Conventions
 
 PUBG Mobile follows common gaming conventions to enhance the user experience and facilitate learning. For example, the game utilizes standard controls and button mappings that are familiar to most players. This allows players to leverage their existing knowledge of gaming conventions to quickly learn and adapt to PUBG Mobile.
-
-
 
 ## 2.5. Usability
 
@@ -480,9 +518,6 @@ Learnability plays a crucial role in the overall usability of a system, and PUBG
 
 Players can easily perform actions such as swapping items between their inventory and the ground, dropping items from their inventory, or picking up items from the ground with the auto-pickup feature. Players just need to tap on the item they want to pick up and the item will be automatically added to their inventory. The auto-pickup feature can be customized to prioritize certain items over others, allowing players to quickly collect the items they need.
 
-
-PUBG Mobile typically offers options to sort and filter the inventory based on different criteria such as item type, rarity, and quantity. This helps players quickly find and manage specific items. By selecting an item in the inventory, players can access additional information about that item, such as its stats, attachments compatibility, and any customization options available.
-
 PUBG Mobile typically offers options to sort and filter the inventory based on different criteria such as item type, rarity, and quantity. This helps players quickly find and manage specific items. By selecting an item in the inventory, players can access additional information about that item, such as its stats, attachments compatibility, and any customization options available.
 
 ![pubg-inventory](images/image-pubg-2.png)
@@ -506,10 +541,9 @@ The time it takes to find a match in each map in PUBG MOBILE can vary depending 
 
 **Lag and Frame Rate Issues:**
 
-
 Lag and frame rate issues can occur in PUBG MOBILE due to a variety of factors, including network connectivity, device performance, and graphics settings. These issues can negatively impact the user experience by causing delays in gameplay, making it difficult to aim accurately, or resulting in crashes or disconnections.
 
-Lag and frame rate issues can occur in PUBG MOBILE due to a variety of factors, including network connectivity, device performance, and graphics settings. These issues can negatively impact the user experience by causing delays in gameplay, making it difficult to aim accurately, or resulting in crashes or disconnections.
+
 
 ### 2.5.3. Memorability
 
@@ -549,9 +583,6 @@ For example, there are three main situations that need direction control: the la
 
 ![pubg-btn-layout](images/pubg-btn-layout.png)
 
-
-
-
 ### 2.5.5. Satisfaction
 
 Satisfaction in the context of usability refers to the overall level of enjoyment, fulfillment, and positive user experience that PUBG MOBILE provides. Here are specific aspects related to satisfaction in PUBG MOBILE:
@@ -589,8 +620,6 @@ Satisfaction in the context of usability refers to the overall level of enjoymen
     - On-screen controls mimic the actions of holding a weapon.
     - Players tap or hold buttons to aim and shoot.
     - Swiping or dragging gestures can simulate the movement of adjusting aim or firing.
-
-
 
 **Movement and navigation:**
 
@@ -653,9 +682,6 @@ Satisfaction in the context of usability refers to the overall level of enjoymen
 
 # References
 
-<!-- T de link thoi nha, chuyen qua APA nha -->
-
-<!-- PUBG Related -->
 - https://tournafest.com/blog/all-about-pubg-a-case-study/
 - https://uxdesign.cc/what-i-learned-about-ux-research-on-pubg-mobile-as-a-player-57a673d19fe1?gi=0013e3fefac9
 - https://www.invespcro.com/blog/usability-design-for-a-better-user-experience/#:~:text=As%20an%20essential%20element%20in,user%20to%20compelte%20the%20task.
