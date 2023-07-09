@@ -17,31 +17,34 @@ The report focuses on the analysis of user experience and experience perspective
 - Interaction metaphor
 - Usability
 
+# 1. ZIIIRO watch - CELESTE
 
 # 1. ZIIIRO watch
 
 
 ## 1.1. Introduction
 
-Welcome to the world of ZIIIRO Watches, where boldness meets minimalism and everyday timekeeping becomes an art form. ZIIIRO is a renowned brand known for its unique and fashionable timepieces that effortlessly blend style and functionality. With their sleek designs and eye-catching colors, ZIIIRO watches are the perfect accessories to complement your outfit and make a bold statement.
+World of ZIIIRO Watches, where boldness meets minimalism and everyday timekeeping becomes an art form. ZIIIRO is a renowned brand known for its unique and fashionable timepieces that effortlessly blend style and functionality. With their sleek designs and eye-catching colors, ZIIIRO watches are the perfect accessories to complement your outfit and make a bold statement.
 
 ZIIIRO was founded by two individuals, Robert and Derick, who shared a passion for creating timepieces that challenge traditional norms. Their journey began on the internet, where Robert, based in Germany, showcased his watch designs, catching the attention of Derick from Hong Kong. With their shared vision of minimalism and a desire to create something extraordinary, ZIIIRO was born.
 
 ## 1.2. Name and domain 
-   - **Name:** The ZIIIRO watch's
+   - **Name:** The ZIIIRO watch - the CELESTE
    - **Domain:**
-     This product is primarily intended for personal use as a stylish and innovative timepiece. The ZIIIRO watches are designed to appeal to individuals who appreciate unique designs, minimalistic aesthetics, and unconventional ways of displaying time. The watches are not only functional for timekeeping but also serve as fashion accessories, conversation starters, and collector's items for enthusiasts interested in distinctive and limited edition timepieces. The ZIIIRO watches are known for their bold and colorful designs that allow users to mix and match colors that pop. They offer a range of unique everyday watches with a focus on simplicity and sleekness, keeping the design minimal and stylish.
+     The ZIIIRO watch, specially the CELESTE, is primarily intended for personal use as a stylish and innovative timepiece. The ZIIIRO watches are designed to appeal to individuals who appreciate unique designs, minimalistic aesthetics, and unconventional ways of displaying time. The watches are not only functional for timekeeping but also serve as fashion accessories, conversation starters, and collector's items for enthusiasts interested in distinctive and limited edition timepieces. 
+     CELESTE is one of many collections from ZIIIRO branch, it displays time using two transparent gradient discs which make the clock face a halo of continuously changing color nuances. The Celeste comes with a 316L stainless steel casing and strap.
+     ![celeste watch black mono](./images/ziiiro-celeste-watch-black-mono-front.jpg) 
 
 ## 1.3. Target Audience
-   <p>The ZIIIRO watch is specifically designed to captivate the attention of individuals who have a discerning taste for unique and minimalist timepieces, as well as a deep appreciation for aesthetics. The watch stands out from conventional designs with its unconventional display and emphasis on graphical design, offering a truly distinctive and eye-catching appearance.
+   <p>The CELESTE is specifically designed to captivate the attention of individuals who have a discerning taste for unique and minimalist timepieces, as well as a deep appreciation for aesthetics. The watch stands out from conventional designs with its unconventional display and emphasis on graphical design, offering a truly distinctive and eye-catching appearance.
 
-   One of the key factors that appeal to the target audience is the watch's minimalist approach. The ZIIIRO watch does away with conventional hands, markings, and even clasps, embracing a philosophy of minimalism where no distracting elements are included in the designs. This design choice ensures that the focus remains on the essential function of timekeeping while creating a visually striking experience.
+   One of the key factors that appeal to the target audience is the watch's minimalist approach. The CELESTE does away with conventional hands, markings, and even clasps, embracing a philosophy of minimalism where no distracting elements are included in the designs. This design choice ensures that the focus remains on the essential function of timekeeping while creating a visually striking experience.
 
-   The ZIIIRO watch's emphasis on graphical design is another aspect that appeals to the target audience. The watch utilizes a constant change in patterns to indicate the passage of time, relying on moving gradients and rotating discs. This unique approach not only offers a fresh and dynamic way of reading the time but also serves as an artistic expression that complements the wearer's sense of style.</p>
+   The CELESTE emphasis on graphical design is another aspect that appeals to the target audience. The watch utilizes a constant change in patterns to indicate the passage of time, relying on moving gradients and rotating discs. This unique approach not only offers a fresh and dynamic way of reading the time but also serves as an artistic expression that complements the wearer's sense of style.</p>
 
 ## 1.4. Some core use cases of the product
 
-The ZIIIRO watch offers several core use cases that cater to various contexts and situations, providing users with a unique and engaging timekeeping experience. Let's explore these use cases in detail, including the context, user situations, and methods of interaction with the watch's interface:
+The CELESTE, offers several core use cases that cater to various contexts and situations, providing users with a unique and engaging timekeeping experience. Let's explore these use cases in detail, including the context, user situations, and methods of interaction with the watch's interface:
 
 - **Everyday Timekeeping**:
 
@@ -49,68 +52,67 @@ The ZIIIRO watch offers several core use cases that cater to various contexts an
 
 	- **User Situations:** Users can be in a variety of positions such as sitting, standing, or walking, and engaged in various tasks or activities.
 
-	- **Interaction:** Users interact with the ZIIIRO watch by simply glancing at its unconventional display, which may feature moving gradients, rotating discs, or other graphical elements. The watch's interface provides a visually striking representation of the time, allowing users to effortlessly read the hours and minutes. The absence of traditional hands and markings does not hinder its readability; instead, the design focuses on simplicity and minimalism. The watch's interface serves as a constant visual reminder of the time, ensuring that users can stay on schedule and manage their tasks efficiently. Whether sitting at a desk, running on a treadmill, or engaging in any other activity, users can quickly glance at the watch to stay informed without the need for distracting or intrusive notifications. It seamlessly integrates into their daily lives, providing a unique and intuitive timekeeping experience.
+	- **Interaction:** Users interact with the CELESTE by simply glancing at its unconventional display, which may feature moving gradients, rotating discs, or other graphical elements. The watch's interface provides a visually striking representation of the time, allowing users to effortlessly read the hours and minutes. The absence of traditional hands and markings does not hinder its readability; instead, the design focuses on simplicity and minimalism. The watch's interface serves as a constant visual reminder of the time, ensuring that users can stay on schedule and manage their tasks efficiently. Whether sitting at a desk, running on a treadmill, or engaging in any other activity, users can quickly glance at the watch to stay informed without the need for distracting or intrusive notifications. It seamlessly integrates into their daily lives, providing a unique and intuitive timekeeping experience.
 		
 - **Fashion and Style**:
-	- **Context:** This use case revolves around users who appreciate the ZIIIRO watch as a fashionable accessory, allowing them to express their personal style and make a statement.
+	- **Context:** This use case revolves around users who appreciate the CELESTE as a fashionable accessory, allowing them to express their personal style and make a statement.
 
 	- **User Situations:** Users can wear the watch while attending social events, parties, or gatherings, or as part of their daily attire to enhance their overall look.
 
-	- **Interaction:** The watch's interface serves as a captivating centerpiece, drawing attention with its distinctive and eye-catching design. Users have the freedom to mix and match colors, choosing from a range of options, to create personalized combinations that perfectly complement their outfits. The ZIIIRO watch becomes an integral part of their fashion ensemble, adding a touch of creativity and individuality. Its seamless integration with their style allows users to showcase their fashion-forward mindset and appreciation for unique accessories.
+	- **Interaction:** The watch's interface serves as a captivating centerpiece, drawing attention with its distinctive and eye-catching design. Users have the freedom to mix and match colors, choosing from a range of options, to create personalized combinations that perfectly complement their outfits. The CELESTE becomes an integral part of their fashion ensemble, adding a touch of creativity and individuality. Its seamless integration with their style allows users to showcase their fashion-forward mindset and appreciation for unique accessories.
 
-	<p>In all of these use cases, the ZIIIRO watch offers a seamless and intuitive user experience. The unconventional display and emphasis on graphical design allow users to interact with the watch effortlessly, relying on visual cues rather than traditional timekeeping elements. This makes it suitable for various contexts and user situations, enhancing both functionality and style.</p>
-![Alt text](https://www.ziiiro.com/wp-content/uploads/2023/03/XS-celeste-rose-pink-side-247x296.jpg "a title") 
+	<p>In all of these use cases, the CELESTE offers a seamless and intuitive user experience. The unconventional display and emphasis on graphical design allow users to interact with the watch effortlessly, relying on visual cues rather than traditional timekeeping elements. This makes it suitable for various contexts and user situations, enhancing both functionality and style.</p>
+  
+  ![celeste watch black mono](./images/s-l1600.jpg) 
 
 ## 1.5. Benefits and drawbacks of the product's interface
 ### **Benefits**:
-  - **Simplicity**: The ZIIIRO watch's interface embraces simplicity by utilizing a minimalistic design approach. It eliminates complex buttons, dials, and markings commonly found on traditional watches, resulting in a clean and sleek appearance. This simplicity enhances the user experience by reducing cognitive load and making it easy to read and interpret the time.
-    _Use case_: Busy professionals who are constantly on the go can benefit from the ZIIIRO watch's simplicity. Its minimalist design allows them to quickly glance at the time without being distracted by unnecessary details. Whether they are in a meeting, attending an event, or managing their schedule, the simplicity of the watch's interface helps them prioritize their time and stay focused.
+  - **Simplicity**: The CELESTE interface embraces simplicity by utilizing a minimalistic design approach. It eliminates complex buttons, dials, and markings commonly found on traditional watches, resulting in a clean and sleek appearance. This simplicity enhances the user experience by reducing cognitive load and making it easy to read and interpret the time.
+  _Use case_: Busy professionals who are constantly on the go can benefit from the CELESTE simplicity. Its minimalist design allows them to quickly glance at the time without being distracted by unnecessary details. Whether they are in a meeting, attending an event, or managing their schedule, the simplicity of the watch's interface helps them prioritize their time and stay focused.
 
-  - **Visual Clarity**: The watch employs a combination of colors, shapes, and patterns to represent the time. This visual clarity allows users to quickly understand the current time at a glance. By removing unnecessary elements, the ZIIIRO watch provides a focused and unambiguous display.
-    _Use case_: In a diverse professional setting, the ZIIIRO watch's visual clarity proves valuable. Professionals such as engineers, designers, and architects can easily glance at the watch during meetings without being distracted by unnecessary details. This allows them to maintain focus, adhere to schedules, and seamlessly transition between tasks. The minimalist design adds sophistication to their attire, making it a subtle fashion statement.
+  - **Visual Clarity**: The watch employs a combination of colors, shapes, and patterns to represent the time. This visual clarity allows users to quickly understand the current time at a glance. By removing unnecessary elements, the CELESTE provides a focused and unambiguous display.
+  _Use case_: In a diverse professional setting, the CELESTE visual clarity proves valuable. Professionals such as engineers, designers, and architects can easily glance at the watch during meetings without being distracted by unnecessary details. This allows them to maintain focus, adhere to schedules, and seamlessly transition between tasks. The minimalist design adds sophistication to their attire, making it a subtle fashion statement.
 
-  - **Aesthetic Appeal**: The unique design of the ZIIIRO watch's interface appeals to users who appreciate unconventional and modern aesthetics. The watch serves as a fashion statement and conversation starter, appealing to those who value style and individuality.
-  _Use case_: Fashion-forward individuals who seek to express their individuality through accessories can benefit from the ZIIIRO watch's aesthetic appeal. Whether they are attending parties, social events, or simply want to stand out in their day-to-day activities, the watch serves as a conversation starter and complements their personal style choices.
+  - **Aesthetic Appeal**: The unique design of the CELESTE interface appeals to users who appreciate unconventional and modern aesthetics. The watch serves as a fashion statement and conversation starter, appealing to those who value style and individuality.
+  _Use case_: Fashion-forward individuals who seek to express their individuality through accessories can benefit from the CELESTE aesthetic appeal. Whether they are attending parties, social events, or simply want to stand out in their day-to-day activities, the watch serves as a conversation starter and complements their personal style choices.
 
 ### **Drawbacks**:
 
-  - **Learning Curve**: Due to its unconventional interface, users may initially find it challenging to understand how to read the time on the ZIIIRO watch. It deviates from the traditional watch face format, requiring users to learn a new time-telling method. This learning curve can be a drawback for users who prefer familiarity and ease of use.
-    _Use case_: Elderly users who are accustomed to traditional watch designs and may have difficulty adapting to new technologies could find the learning curve of the ZIIIRO watch challenging. Its unconventional interface might cause confusion and frustration for individuals who are used to reading time in a more traditional manner.
-    ![horizon-black](images/horizon-black.jpg)
+  - **Learning Curve**: Due to its unconventional interface, users may initially find it challenging to understand how to read the time on the CELESTE. It deviates from the traditional watch face format, requiring users to learn a new time-telling method. This learning curve can be a drawback for users who prefer familiarity and ease of use.
+  _Use case_: Elderly users who are accustomed to traditional watch designs and may have difficulty adapting to new technologies could find the learning curve of the CELESTE challenging. Its unconventional interface might cause confusion and frustration for individuals who are used to reading time in a more traditional manner.
+    ![Howto_Celeste](images/Howto_Celeste.jpg)
 
-  - **Precision and Accuracy**: The abstract representation of time on the ZIIIRO watch sacrifices precise timekeeping. The absence of minute and second markers makes it difficult to determine time with high accuracy. While the watch may suffice for general timekeeping, it may not be suitable for situations that require precise timing.
-    _Use case_: Sports and fitness enthusiasts who require precise timing for activities such as interval training, timing laps, or monitoring rest periods may find the abstract time representation of the ZIIIRO watch insufficient. The lack of minute and second markers makes it difficult to track time precisely, potentially impacting their performance or training routines
-    ![eclipse-steel-black-red](images/eclipse-steel-black-red.jpg)
+  - **Precision and Accuracy**: The abstract representation of time on the CELESTE sacrifices precise timekeeping. The absence of minute and second markers makes it difficult to determine time with high accuracy. While the watch may suffice for general timekeeping, it may not be suitable for situations that require precise timing.
+  _Use case_: Sports and fitness enthusiasts who require precise timing for activities such as interval training, timing laps, or monitoring rest periods may find the abstract time representation of the CELESTE insufficient. The lack of minute and second markers makes it difficult to track time precisely, potentially impacting their performance or training routines
+    ![eclipse-steel-black-red](images/ziiiro_celeste_mono_on_hand.jpg)
     
+  - **Limited Functionality**: The CELESTE interface focuses solely on displaying the time. It lacks additional features commonly found in modern watches, such as date display, alarms, or timers. Users who require these functionalities may find the CELESTE limited in its capabilities.
+  _Use case_: Travelers who rely on watches to not only tell time but also track multiple time zones or use alarms to manage their schedules may find the limited functionality of the CELESTE inconvenient. The absence of additional features like date display, world time, or alarms may hinder their ability to efficiently manage their travel plans or stay organized in different time zones.
+   ![lunar-black](images/maxresdefault.jpg)
 
-  - **Limited Functionality**: The ZIIIRO watch's interface focuses solely on displaying the time. It lacks additional features commonly found in modern watches, such as date display, alarms, or timers. Users who require these functionalities may find the ZIIIRO watch limited in its capabilities.
-    _Use case_: Travelers who rely on watches to not only tell time but also track multiple time zones or use alarms to manage their schedules may find the limited functionality of the ZIIIRO watch inconvenient. The absence of additional features like date display, world time, or alarms may hinder their ability to efficiently manage their travel plans or stay organized in different time zones.
-   ![lunar-black](images/lunar-black.jpg)
-
-  - **Accessibility**: The abstract representation of time on the ZIIIRO watch may pose challenges for individuals with visual impairments or certain cognitive disabilities. The lack of clear, standardized time indicators can hinder accessibility for a portion of the user population.
-  _Use case_: Visually impaired users who heavily rely on tactile or audible feedback to interact with devices may find the abstract time representation of the ZIIIRO watch inaccessible. The lack of clear indicators or tactile markings makes it difficult for these users to independently read and interpret the time, potentially excluding them from using the watch effectively.
-   ![lunar-black](images/howto-lunar.jpg)
-
+  - **Accessibility**: The abstract representation of time on the CELESTE may pose challenges for individuals with visual impairments or certain cognitive disabilities. The lack of clear, standardized time indicators can hinder accessibility for a portion of the user population.
+  _Use case_: Visually impaired users who heavily rely on tactile or audible feedback to interact with devices may find the abstract time representation of the CELESTE inaccessible. The lack of clear indicators or tactile markings makes it difficult for these users to independently read and interpret the time, potentially excluding them from using the watch effectively.
+   ![lunar-black](images/CelesteBlackMono24.jpg)
 
 ## 1.6. Different types of users
 
 - **Tech Novices**:
-  Users who are not accustomed to modern technology or have limited experience with digital devices may face difficulties understanding and operating the ZIIIRO watch's unconventional interface. The abstract representation of time may be confusing, leading to a steep learning curve for these users.
+  Users who are not accustomed to modern technology or have limited experience with digital devices may face difficulties understanding and operating the CELESTE unconventional interface. The abstract representation of time may be confusing, leading to a steep learning curve for these users.
 
 - **Elderly Users**:
-  Elderly users who are more accustomed to traditional watches with standard time displays may find it challenging to adapt to the abstract time representation used in the ZIIIRO watch. The lack of clear minute and second markers could lead to confusion and difficulty accurately reading the time.
+  Elderly users who are more accustomed to traditional watches with standard time displays may find it challenging to adapt to the abstract time representation used in the CELESTE. The lack of clear minute and second markers could lead to confusion and difficulty accurately reading the time.
 
 - **Visually Impaired Users**:
-  Visually impaired users who rely on clear and tactile indicators to read time may encounter difficulties with the ZIIIRO watch's interface. The absence of standardized markings or tactile feedback could hinder their ability to independently interpret the time.
+  Visually impaired users who rely on clear and tactile indicators to read time may encounter difficulties with the CELESTE interface. The absence of standardized markings or tactile feedback could hinder their ability to independently interpret the time.
 
 - **Users in Time-Critical Situations**:
-  In time-critical situations where precise timing is crucial, such as sports events or professional settings with strict deadlines, the abstract representation of time on the ZIIIRO watch might not provide the accuracy and precision needed. The lack of minute and second markers could make it challenging for users to track time precisely.
+  In time-critical situations where precise timing is crucial, such as sports events or professional settings with strict deadlines, the abstract representation of time on the CELESTE might not provide the accuracy and precision needed. The lack of minute and second markers could make it challenging for users to track time precisely.
 
 - **Multitaskers**:
-  Users who frequently rely on additional functions, such as alarms, timers, or date displays, may find the limited functionality of the ZIIIRO watch restrictive. In contexts where managing multiple tasks and schedules is essential, the absence of these features may hinder their productivity and organizational abilities.
+  Users who frequently rely on additional functions, such as alarms, timers, or date displays, may find the limited functionality of the CELESTE restrictive. In contexts where managing multiple tasks and schedules is essential, the absence of these features may hinder their productivity and organizational abilities.
 
 - **Individuals with Cognitive Disabilities**:
-  Users with certain cognitive disabilities that affect their ability to interpret abstract representations or learn new interfaces may find it challenging to use the ZIIIRO watch. The unconventional time display might pose difficulties for these individuals, potentially limiting their ability to independently read and understand the time.
+  Users with certain cognitive disabilities that affect their ability to interpret abstract representations or learn new interfaces may find it challenging to use the CELESTE. The unconventional time display might pose difficulties for these individuals, potentially limiting their ability to independently read and understand the time.
 
 # 2. PUBG Mobile
 
@@ -120,9 +122,215 @@ PUBG Mobile is a free-to-play battle royale video game developed by LightSpeed &
 
 It was published by multiple publishers in different regions, including Krafton, Tencent, and VNG Games. By December 2022, PUBG Mobile had accumulated around 1.3 billion downloads while grossing over $9 billion, making it the third highest-grossing mobile game. It is also the second most-played mobile video game of all time. In 2021, the game spawned an Indian version, Battlegrounds Mobile India, and a separate game taking place in the PUBG Universe, called New State Mobile. 
 
+![pubg-cover](images/pubg-cover.jpg)
+
 ## 2.2. Target Audience
 
-PUBG Mobile is a game that is played by people of all ages. However, the game is rated 17+ by the ESRB, which means that the game is not suitable for children under the age of 17. The game is also rated 16+ by PEGI, which means that the game is not suitable for children under the age of 16.
+PUBG Mobile is a game that is played by people of all ages. However, the game is rated 17+ by the ESRB and 16+ by PEGI.
+
+## 2.3. Welcome Interface
+
+PUBG Mobile is very strict about the policy and also the restricted age. That is why the developers of the game have to make sure that the players are aware of the rules and regulations of the game. For newcomers, this is the first screen that they will see when they open the game.
+
+![pubg-welcome](images/pubg-welcome.jpg)
+
+![pubg-user-agree](images/pubg-user-agree.jpg)
+
+The notice board is in the foreground and is centered on the screen for the player to read. The background is dimmed to a darker color so that it will not cause any distractions (this rule of designing applies to every notice board throughout the game). The buttons are highlighted with a bright color to attract the player's attention with well contrasted font for readability. The buttons are also placed in the bottom center of the screen so that the player can easily reach them with their thumbs.
+
+However, the content of the policy is not very well contrasted with respect to the background, plus the font they use here is not very readable. In addition, the font size is pretty small, and on mobile devices, this will be harder to read. The developers should consider using a different font and font size to make it easier for players to read.
+
+![pubg-age-confirm](images/pubg-age-confirm.jpg)
+
+The game is restricted to players under the age of 17. Therefore, the developers have to make a confirmation for the players age to modify the ingame content accordingly.
+
+## 2.4. Downloaded Content
+
+A good thing to note is that the game will not download all the content at once. When you first install the game from the store, it will only download the necessary data for the game to run. The rest of the content will be downloaded when you first access it. This is a good way to reduce first-time download time and also reduce the amount of data used.
+
+Not to mention, the game also let the players choose between the HD and SD graphics. This allows for more flexibility in the game's performance if players are using low-end devices.
+
+*(Unfortunately, the image was not taken for this interface)*
+
+## 2.5. Typing Interface
+
+The game is developed to be played horizontally, because of this reason, the keyboard is placed at the bottom of the screen for ease of reach. In addition, a special thing about the design of keyboard in this game is that it divides the keyboard into two parts, one for the left hand and one for the right hand. This is a good design choice because it allows the player to use their thumbs more conveniently to type, especially on larger screen devices where the keyboard is too wide for the player to reach the middle of the keyboard.
+
+![pubg-typing](images/pubg-text-typing.jpg)
+
+Here you can see the division part. In addition to this, the distance between the keys is also very well-spaced so that the player can easily tap on the keys without accidentally tapping on the wrong key. Although this might cause some inconvenience for players who are used to typing on a normal keyboard, it is still a good design choice and it will get easier to type once the player gets used to it.
+
+## 2.4. Login Interface
+
+![pubg-login](images/pubg-login.jpg)
+
+The login interface is very simple and straightforward. It provides two methods for players to log in, either by using their Facebook account or by using their Google account. This is a good design choice because it allows players to log in quickly without having to create a new account since these two platforms are very popular and most people already have an account on them.
+
+Plus, the login screen presents the game's logo and the splash screen in the background to catch the player's attention and to enhance the overall visual appeal of the interface.
+
+The screen also has a few buttons on the top-right corner like the "Help" button so that players can easily access the help center if they have any problems with the game, the "Language" button allows players to change the language of the game to fits their needs (the language is default to English because this is the main language spoken and used internationally).
+
+In addition, there is a reminder in the top-left corner which says "Play over 180 minutes a day is bad for your health". This banner will appear throughout the game to remind the players to take a break from the game to avoid any health problems. For some people, this might be annoying since it blocks a part of the screen. However, it will disapear in the main gameplay screen.
+
+## 2.5. Welcome to the Game
+
+![pubg-newbie-welcome](images/pubg-newbie-train.jpg)
+
+For newcomers to the game, it will prompt you to play the training mode to get used to all the controls and the game mechanics. This mode allows users to train their skills, experiment with different weapons and strategies, and gain familiarity with the game's mechanics in a controlled environment. Practice modes contribute to the iterative learning process, enabling players to refine their abilities gradually.
+
+However, the game does not force new players to go straight into training mode. Instead, it allows players to skip the training and play with others in a real battle game. By doing this, the game focuses on the main purpose of the game, a Battle Royale game, which is to survive and be the last one standing. It gives new players the sense of what the game is about and what they should expect throughout the gameplay right of the bat so that they can experience the gameplay as soon as possible, rather than having them to go through all the complex details of the non-essential features.
+
+## Main Lobby
+
+### Overview
+
+![pubg-lobby](images/pubg-lobby.jpg)
+
+The main lobby is the first screen that players see when they open the game. It is where players can access various features, such as the shop, inventory, settings, and social features. The lobby is designed to be visually appealing and intuitive, allowing players to navigate through the interface easily. It also serves as a hub for players to access other game modes, such as training, arcade, and classic matches.
+
+There are 3 main sections in the lobby:
+
+- **Top section**:
+  - In the top-left corner, we can see the player's avatar, username, rank, and level. This provides a quick overview of the player's progress and achievements.
+  - In the middle, we have the "Home" button (identified by the house icon), the PUBG brand name and the "Shop" button (identified by the shopping cart icon). The "Home" button allows players to return to the main lobby screen, while the "Shop" button allows players to access the in-game store. If there are any new items available for purchase, an exclamation mark will appear next to the "Shop" button to notify players. 
+  - In the top-right corner, we have the points and ingame top-ups. The points are used to purchase items in the shop, while the ingame top-ups are used to purchase items in the in-game store. The "Plus" button (identified by the plus icon) shows that players can purchase more top-ups if they want to.
+- **Middle section**: 
+  - This is the main area of the lobby. We can see the actual background of ingame environment here. Our character model will be in the center, giving us the highlight of the equipments and/or inventory that we're having. Besides, when there are new people join in the game with us, their model will appear next to ours. This allows players to see their teammates and interact with them (via microphone or ingame chat system) before the match starts. It also provides a sense of community and camaraderie, which can enhance the overall user experience.
+  - In addition, the game draws inspiration from real-world military tactics, weapons, and equipment. This allows players to leverage their existing knowledge and understanding of these concepts to improve their performance in the game. For example, players can apply real-world knowledge of weapon characteristics, such as recoil and bullet drop, to improve their aim and accuracy in PUBG Mobile.
+
+![image-pubg-2](images/pubg-realworld.png)
+
+- **Bottom section**:
+  - The first thing that hits our eyes is the big "Start" button, displayed in a bright yellow color. This aims to attract out attention and to encourage us to start the game (which is the intention of the developers).
+  - A special thing about the design of this section is that they don't put everything at once, since it will make the screen look crowded and overwhelming. Instead, they only show the buttons that are important and most relevant to the players. For example, if the player is in the lobby, they will only show the "Missions" button, "Inventory" button. Other options can be found when players click the "Arrow Up" button next to the side. This allows players to focus on the main features of the game without being distracted by unnecessary details.
+
+### Interaction
+
+The lobby is designed with the intention to be simple and intuitive. Most of the time, mobile devices would often have small screens, this would scale down the size of the buttons (for the sake of designing). Noticing this, the developers of the game implemented a feature that allows players to swipe, to the left or to the right, to switch between different screens of the lobby (like the Inventory or the Shop). There is also a transition animation to make the switch more smooth and visually appealing
+
+## Hints and Tips
+
+For new players, who will be unfamiliar with the layout and the functionality of the buttons, the game provides hints to guide them through the interface. 
+
+![pubg-hint](images/pubg-hint.jpg)
+
+For example, when players first open the game, a hint will appear on the "Start" button to encourage them to start the game, or in the picture below, there's a hint pointing at the "Newbie" button,
+
+![pubg-hint](images/pubg-newbie-hints.jpg)
+
+or various banners that appear throughout the game to notify players of new features or events.
+
+![pubg-banner](images/pubg-banner-1.jpg)
+
+These notifications will usually take up most of the screen to catch the player's attention, notifying them of new features or events. For instance, the shop will present latest items that are available for purchase as the main spotlight of the screen, while the background is dimmed so that it will not cause any distractions. Other items are also designed to be well contrasted and visually appealing to attract the player's attention, and potentially, to encourage them to purchase the items.
+
+![pubg-shop](images/pubg-shop.jpg)
+
+Moreover, the game also have popup notifications that appear when players complete a mission or an achievement. Or, when the players accidentally click on "dangerous" buttons, like the "Buy" button in the shop, or the "Upgrade" button in the inventory, or when the players want to exit the match, there will be a popup notification to confirm their action. This thoroughness is a good design to reduce the amount of errors that players might make.
+
+![pubg-exit-match](images/pubg-exit-match.jpg)
+
+
+## Visualization
+
+The game comes with visual effects to enhance the user experience. For instance, when players want to view the details of an item, there will be a 3D model next to the side to give the players a more realistic view of the item, how it looks like, how it fits to their character models, etc. The 3D model also has the ability to rotate, allowing players to view the item from different angles. This feature is another special thing about the game because they can view all the perks and details of the item right in the game itself, instead of having to go online for reference.
+
+![pubg-visualize](images/pubg-visualization.jpg)
+
+## Personalization
+
+The ingame settings are rich and diverse, allowing players to customize the game to their liking. For example, players can adjust the graphics quality, frame rate, and resolution to optimize performance. They can also customize the controls, button layout, sensitivity, crosshair, and other gameplay settings to suit their preferences. These personalization options allow players to tailor the game, and increases memorability as they can configure the game to match their individual playstyle and needs.
+
+![pubg-settings-1](/images/pubg-settings-1.jpg)
+
+![pubg-settings-2](/images/pubg-settings-2.jpg)
+
+There is one thing to consider, however, is that the personalization options cannot fit all the players' needs. The developers have tried their best to include the most common options that players would want to customize. Doing this will cause an absurd amount of options and it will be unnecessary. An example of this is the limited color options for the crosshair,
+
+![pubg-settings-3](images/pubg-settings-3.jpg)
+
+or the limited languages supported by the game.
+
+![pubg-settings-4](/images/pubg-settings-4.jpg)
+
+## Gameplay
+
+### Loading Screen
+
+![pubg-loading](images/pubg-loading-screen.jpg)
+
+The loading screen is well-thought-out and designed to be visually appealing, while also gives players some insights of the gameplay and the chosen map. For instance, the background is a screenshot of the map environment (dimmed) to give players a sense of the gameplay. In the foreground is a big splashscreen of important mechanics of the game, like the "Danger Zone" or the "Red Zone", visualized with images and text to give players a better ease of understanding. 
+
+Moreover, it also offers tooltips, prompts, and contextual information. These resources can aid players in refreshing their memory on specific features or mechanics when needed.
+
+There is also a loading bar at the bottom of the screen to show the progress of the loading.  
+
+
+
+## In-game Experience
+### In-game waiting lobby
+
+Firstly, the game will start when there is 100 players available (ready to connect). You can see when there is enough player by monitoring the top-left corner. It'll show how many player exist in the room.
+
+Then when the game begins, it'll change to how many players still survive. And how many did you eliminated.
+
+Why is it must be at the top-left corner. Well, as to many gaming convention, things that is important to the user or in another saying player need to know should be noticed by players are put at the top.
+
+Following that we'll have the map at the top-right corner, as well as the settings button, micro phone access, volume access,... And it can be more due to personal customization.
+
+Then you will, have a minimize compass in the middle-top. This will help players navigate through the map whether they're heading in the right direction. By communiocating to each others, teammate can tell other what direction is the enemies by signify the number on the compass and which direction (Nord, South, West, East) just like in the real world. This will satisfied the `Human Capabilities` in both perception and cognition as well as the `User Mental Model`. In `usability`, user don't have to learn how to use it because it's base on an real-world object, the compass, so it will satisfied the `learnability` in `usability`
+
+Continue the left corner, we'll have 4 members of our team, to display these member info, we'll have you at the top (signify the person who playing), than the others as follow. They'll have their in-game spell together with a color tags to signal their teammate not to shoot at them. 
+
+By tagging each member as a color symbol, will help players don't have to remember teammates name but as a color tag (`Human Capabilities`).
+
+At the bottom-right corner, base on the default display, there're some button perform action like: `attack, jump, crawl, kneel`. For each button there will be a clear illustration for that specific action. However, the attack button will change depend on what type of weapon you're wielding: none - fist, guns - bullet, melee-weapons - knife. For experience gamer, this will signify them clearly what's that button will do if they press it. For new-gamer, the illustration is clear enough for them to know the usage of those buttons.
+
+At the bottom-left corner, players have a joy-stick icon to control their charater. The concept of joy-stick is very old, back in 1960, so obviously every body know what is it and what's does. 
+
+Next to it we will have another attack button. Why is it there because we already have an attack button on the right. Well, in case the player want to jump and shooting (attack) simultaneously, their right thump pressed the jump button and the other one pressed attack. To answer the question, in some cases, players want to perform two action at the same time, in case they run out of finger to press in one side, the game place the same button in the other side to assist players. This also can be change in the customization section where players can custom their personal action display which suit them best.
+
+Next up is the backpack icon. For it's called, you already know what is it.
+The icon also illustration its storage size, there a circle running around the button. It's signify the backpack capacity, is it full or not, how much storage space is left just like a loading icon in real-world context. However, players can't know the exact amount of storage in it. To be exact, it suppose to have a percentage info to demonstrate the amount of slot in have. But that is not the case of this game. In addition, the packback icon can show which tier it is (the rarity) by showing some yellow stripes next to it, more stripes it have, the better the quality (`User Mental Model`).
+
+At the bottom line you'll have 2 weapons slot, 2 equipment slots (on the left side is the slot for heal kit, on the right is for grenade, smoker,...) and your health bar in milky-white. The weapons slot will change the illustration base on what weapon you choose and next to it is the amount of ammunition you have left-hand side (ammunition left in a round / ammunition left in the backpack). This is quite clear for any person to use this info as their advantage. As for the equipment slot, every kind of heal kit or grenade is pack into a single slot. This mean if you're using grenade, only the grenade icon will be display, if you want to use another kind of equipment, let say a smoker, you have to choose the more option icon (as a up-arrow over the equipment slot) then it will display every equipment you have which has the same type, then you select the kit and pressed it again in order to use it. Well this is time consuming and ineffective to the players if they want to do a quick action. In addition, if user is using a smart phone to play, the size of it might effect the performance of its user. Althoughts, the size of display button can be improved by converting to a bigger screen (from phone to a tablet) or by customizing the button display.
+However it's still a drawback and a disadvantage of players who mainly play this game throught a their smart phone.
+
+If your teammate shoot at you or vice versa, there are still hit box effects but you and your teammate health bar won't decreases.
+
+
+### In-game flight
+Starting the game, we players are packed in an air plane which flight across the map that we choose, the flight direction is anonymous each round.
+
+For the visual display, most of it's unchange but for the action display.
+In addition, now we have an extension on the player's team list on left-hand side as well as a jump button to exit the aircraft (with an illustration of a man free falling who wearing a backpack). The extension include a stearing wheel, a follow button, an invite button. The extension section is set to each teammate, each round. So it signify that those new section belongs to whom. The stearing show who is in charge of leaving the aircraft and landed their teammate at the predetermined target. By hovering a color icon over the stearing wheel, it telling who is the leader according to the color previously marked by the game. For exemple: if you assign the first person whose color is yellow to be the leader, your stearing wheel will have a yellow icon hovering over it.
+
+When we exit the teh action display change, we will have a joy stick to controll the character direction, a release button to pull out the parachute, a column monitor to give us info about our fall speed, throught a cursor we can know what is our altitude, the cursor will move downward as we falling. The column has 2 section: section where we can `free falling` is marked as transparent, `danger section`, marked as milky white, is where we must pull out the parachute to decrease our speed, if the players enter this danger area, the game automatically pull out the player parachute. This monitoring column perfectly exucute how the game inform the user on speed and altitude of their fall. The way the cursor move downward as we fall give the user a clear info and the usage of this specific component.
+
+### Map
+
+**Map** : What whe use to navigate through the game.
+
+**Ring** : a circle that keeps shrinking over time.
+
+When opening the map we get the longitude and latitude, just like our real life map. If you don't feel like it, you can turn it off. You will get a less clearer map. However, the map cannot show the terrain altitude. That is a drawback cause user might wanted to have that info.
+
+About the ring, when you are outside the ring you will be vulnerable and your health bar decreases over time. The smaller the ring, the worse it gets. To signify that the game using color blue to alert the vulnerable zone, and the color green to do the injured animation. These colors have a lower luminosity than the others even for colorblind people.
+It try to warn that something bad is happening.
+
+The ring warning is still displayed when the map is minimize.
+Exemple:
+
+<!-- picture -->
+
+The of a person is running figure represent your character. The white strip mean you reach the end of this bar. You are in the safe zone. The blue section is the vulnerable zone. It will increase overtime as it get closer to you. This is a great feature for gamers, both on big and small map mode.
+
+
+
+
+
+
+
 
 <!-- ## 2.3. Some core use cases of the product
 
@@ -160,7 +368,7 @@ PUBG Mobile incorporates real-world references to enhance the user experience an
 
 PUBG Mobile also incorporates real-world references in its user interface. For example, the inventory system is designed to mimic a backpack, allowing players to organize and manage their items in a way that is familiar and intuitive. Similarly, the map interface resembles a paper map, providing a recognizable and intuitive way to navigate the game world.
 
-![image-pubg-2](images/pubg-realworld.png)
+
 
 ### 2.4.2. Familiarity with Battle Royale Genre and Gaming Conventions
 
@@ -202,7 +410,6 @@ Learnability plays a crucial role in the overall usability of a system, and PUBG
 
 **Language Barriers:** PUBG Mobile is played by a global audience, and language barriers can pose challenges for players who are not fluent in the game's default language. In some cases, translations may not be accurate or may be incomplete, leading to confusion and difficulty in understanding instructions and tooltips.
 
-![pubg-image-3](images/Language2.png)
 
 **Time Investment:** PUBG Mobile is a complex game that requires a significant time investment to become proficient. Some players may find it difficult to dedicate the necessary time to learn and improve their skills, which can impede their progress and enjoyment of the game.
 
@@ -223,13 +430,13 @@ Players can easily perform actions such as swapping items between their inventor
 
 PUBG Mobile typically offers options to sort and filter the inventory based on different criteria such as item type, rarity, and quantity. This helps players quickly find and manage specific items. By selecting an item in the inventory, players can access additional information about that item, such as its stats, attachments compatibility, and any customization options available.
 
+PUBG Mobile typically offers options to sort and filter the inventory based on different criteria such as item type, rarity, and quantity. This helps players quickly find and manage specific items. By selecting an item in the inventory, players can access additional information about that item, such as its stats, attachments compatibility, and any customization options available.
 
 ![pubg-inventory](images/image-pubg-2.png)
 
 #### Drawbacks and Hindrances
 
 The drawback lies in the space in which the user interacts with the game, and server connection speed will depend on many factors such as network speed, which device to use to play the game.
-
 
 **Overloaded Interaction Space:**
 
@@ -249,6 +456,7 @@ The time it takes to find a match in each map in PUBG MOBILE can vary depending 
 
 Lag and frame rate issues can occur in PUBG MOBILE due to a variety of factors, including network connectivity, device performance, and graphics settings. These issues can negatively impact the user experience by causing delays in gameplay, making it difficult to aim accurately, or resulting in crashes or disconnections.
 
+Lag and frame rate issues can occur in PUBG MOBILE due to a variety of factors, including network connectivity, device performance, and graphics settings. These issues can negatively impact the user experience by causing delays in gameplay, making it difficult to aim accurately, or resulting in crashes or disconnections.
 
 ### 2.5.3. Memorability
 
@@ -286,7 +494,6 @@ For example, there are three main situations that need direction control: the la
 - Placing critical buttons, such as the fire button or grenade throw button, too close together, resulting in accidental taps or erroneous actions.
 - Buttons placed in non-intuitive locations, making it difficult for users to locate or access them quickly, leading to delays and errors in gameplay.
 
-
 ![pubg-btn-layout](images/pubg-btn-layout.png)
 
 
@@ -319,7 +526,6 @@ Satisfaction in the context of usability refers to the overall level of enjoymen
 - Social Interaction: Satisfying experiences can be fostered through robust social features, such as chat systems, friend lists, and the ability to form teams or squads with friends or other players. Strong community engagement and social interaction contribute to player satisfaction.
 
 - Events and Tournaments: Regularly hosting in-game events, tournaments, or challenges provides additional avenues for player engagement and satisfaction. These events can offer exclusive rewards, showcase player skills, and create a sense of community participation.
-
 
 ## 2.6. Interaction Metaphor
 
@@ -366,7 +572,6 @@ Satisfaction in the context of usability refers to the overall level of enjoymen
     - Voice chat functionality enables players to communicate verbally with teammates.
     - Text messaging interfaces allow players to type and send messages to teammates.
     - Quick chat options or predefined phrases can be used for faster communication during gameplay.
-
 
 **Looting and item interaction:**
 
