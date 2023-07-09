@@ -19,6 +19,7 @@ The report focuses on the analysis of user experience and experience perspective
 
 # 1. ZIIIRO watch - CELESTE
 
+
 ## 1.1. Introduction
 
 World of ZIIIRO Watches, where boldness meets minimalism and everyday timekeeping becomes an art form. ZIIIRO is a renowned brand known for its unique and fashionable timepieces that effortlessly blend style and functionality. With their sleek designs and eye-catching colors, ZIIIRO watches are the perfect accessories to complement your outfit and make a bold statement.
@@ -263,6 +264,183 @@ Moreover, it also offers tooltips, prompts, and contextual information. These re
 There is also a loading bar at the bottom of the screen to show the progress of the loading.  
 
 
+
+## In-game Experience
+### In-game waiting lobby
+
+Firstly, the game will start when there is 100 players available (ready to connect). You can see when there is enough player by monitoring the top-left corner. It'll show how many player exist in the room with a alert line inform when the game will start.
+
+![pubg-ingame-lobby](images/pubg-ingame-lobby.jpg)
+
+
+Then when the game begins, it'll change to how many players still survive. And how many did you eliminated.
+
+Why is it must be at the top-left corner. Well, as to many gaming convention, things that is important to the user or in another saying player need to know should be noticed by players are put at the top.
+
+Following that we'll have the map at the top-right corner, as well as the settings button, micro phone access, volume access,... And it can be more due to personal customization.
+
+Then you will, have a minimize compass in the middle-top. This will help players navigate through the map whether they're heading in the right direction. By communiocating to each others, teammate can tell other what direction is the enemies by signify the number on the compass and which direction (Nord, South, West, East) just like in the real world. This will satisfied the `Human Capabilities` in both perception and cognition as well as the `User Mental Model`. In `usability`, user don't have to learn how to use it because it's base on an real-world object, the compass, so it will satisfied the `learnability` in `usability`
+
+Continue the left corner, we'll have 4 members of our team, to display these member info, we'll have you at the top (signify the person who playing), than the others as follow. They'll have their in-game spell together with a color tags to signal their teammate not to shoot at them. 
+
+By tagging each member as a color symbol, will help players don't have to remember teammates name but as a color tag (`Human Capabilities`).
+
+At the bottom-right corner, base on the default display, there're some button perform action like: `attack, jump, crawl, kneel`. For each button there will be a clear illustration for that specific action. However, the attack button will change depend on what type of weapon you're wielding: none - fist, guns - bullet, melee-weapons - knife. For experience gamer, this will signify them clearly what's that button will do if they press it. For new-gamer, the illustration is clear enough for them to know the usage of those buttons.
+
+At the bottom-left corner, players have a joy-stick icon to control their charater. The concept of joy-stick is very old, back in 1960, so obviously every body know what is it and what's does. 
+
+Next to it we will have another attack button. Why is it there because we already have an attack button on the right. Well, in case the player want to jump and shooting (attack) simultaneously, their right thump pressed the jump button and the other one pressed attack. To answer the question, in some cases, players want to perform two action at the same time, in case they run out of finger to press in one side, the game place the same button in the other side to assist players. This also can be change in the customization section where players can custom their personal action display which suit them best.
+
+Next up is the backpack icon. For it's called, you already know what is it.
+The icon also illustration its storage size, there a circle running around the button. It's signify the backpack capacity, is it full or not, how much storage space is left just like a loading icon in real-world context. However, players can't know the exact amount of storage in it. To be exact, it suppose to have a percentage info to demonstrate the amount of slot in have. But that is not the case of this game. In addition, the packback icon can show which tier it is (the rarity) by showing some yellow stripes next to it, more stripes it have, the better the quality (`User Mental Model`).
+
+At the bottom line you'll have 2 weapons slot, 2 equipment slots (on the left side is the slot for heal kit, on the right is for grenade, smoker,...) and your health bar in milky-white. The weapons slot will change the illustration base on what weapon you choose and next to it is the amount of ammunition you have left-hand side (ammunition left in a round / ammunition left in the backpack). This is quite clear for any person to use this info as their advantage. As for the equipment slot, every kind of heal kit or grenade is pack into a single slot. This mean if you're using grenade, only the grenade icon will be display, if you want to use another kind of equipment, let say a smoker, you have to choose the more option icon (as a up-arrow over the equipment slot) then it will display every equipment you have which has the same type, then you select the kit and pressed it again in order to use it. Well this is time consuming and ineffective to the players if they want to do a quick action. In addition, if user is using a smart phone to play, the size of it might effect the performance of its user. Althoughts, the size of display button can be improved by converting to a bigger screen (from phone to a tablet) or by customizing the button display.
+However it's still a drawback and a disadvantage of players who mainly play this game throught a their smart phone.
+
+If your teammate shoot at you or vice versa, there are still hit box effects but you and your teammate health bar won't decreases.
+
+
+The reason why the center of the gun is positioned in the middle of the screen in PUBG Mobile is primarily for gameplay and user experience purposes. Placing the gun's center in the middle of the screen helps to ensure that players have a consistent and intuitive aim when engaging in combat.
+
+By aligning the gun's center with the center of the screen, it allows players to have better control over their aim and provides a more natural and familiar shooting experience. This design choice aims to make it easier for players to accurately target their enemies and engage in gunfights.
+
+Additionally, having the gun's center in the middle of the screen allows for easier adaptation across different screen sizes and aspect ratios of mobile devices. It provides a standardized aiming reference point regardless of the device being used, promoting fairness and equal gameplay opportunities for all players.
+
+It's important to note that the placement of the gun's center in the middle of the screen is a design decision made by the game developers to optimize gameplay and enhance the user experience.
+
+
+
+
+
+
+
+
+
+### In-game flight
+Starting the game, we players are packed in an air plane which flight across the map that we choose, the flight direction is anonymous each round.
+
+![pubg-flight](images/pubg-flight.jpg)
+
+
+For the visual display, most of it's unchange but for the action display.
+In addition, now we have an extension on the player's team list on left-hand side as well as a jump button to exit the aircraft (with an illustration of a man free falling who wearing a backpack). The extension include a stearing wheel, a follow button, an invite button. The extension section is set to each teammate, each round. So it signify that those new section belongs to whom. The stearing show who is in charge of leaving the aircraft and landed their teammate at the predetermined target. By hovering a color icon over the stearing wheel, it telling who is the leader according to the color previously marked by the game. For exemple: if you assign the first person whose color is yellow to be the leader, your stearing wheel will have a yellow icon hovering over it.
+
+When we exit, the action display change, we will have a joy stick to controll the character direction, a release button to pull out the parachute, a column monitor to give us info about our fall speed, throught a cursor we can know what is our altitude, the cursor will move downward as we falling. The column has 2 section: section where we can `free falling` is marked as transparent, `danger section`, marked as milky white, is where we must pull out the parachute to decrease our speed, if the players enter this danger area, the game automatically pull out the player parachute. This monitoring column perfectly exucute how the game inform the user on speed and altitude of their fall. The way the cursor move downward as we fall give the user a clear info and the usage of this specific component.
+
+![pubg-parachuting](images/pubg-parachuting.jpg)
+
+
+### Map
+
+**Map** : What whe use to navigate through the game.
+
+**Ring** : a circle that keeps shrinking over time.
+
+When opening the map we get the longitude and latitude, just like our real life map. If you don't feel like it, you can turn it off. You will get a less clearer map. However, the map cannot show the terrain altitude. That is a drawback cause user might wanted to have that info.
+
+![pubg-map-latitude-longitude](images/map-latitude-longitude.jpg)
+![pubg-map](images/map.jpg)
+
+
+About the ring, when you are outside the ring you will be vulnerable and your health bar decreases over time. The smaller the ring, the worse it gets. To signify that the game using color blue to alert the vulnerable zone, and the color green to do the injured animation. These colors have a lower luminosity than the others even for colorblind people.
+It try to warn that something bad is happening.
+
+The ring warning is still displayed when the map is minimize.
+Exemple:
+
+![pubg-map-ring](images/map-ring.jpg)
+![pubg-pubg-zone](images/pubg-zone.jpg)
+
+The of a person is running figure represent your character. The white strip mean you reach the end of this bar. You are in the safe zone. The blue section is the vulnerable zone. It will increase overtime as it get closer to you. This is a great feature for gamers, both on big and small map mode.
+
+
+### In-game Controller
+
+This is the full layout of PUBG controller on walking mode. It's a default controller running on mobile phone, this is the 1st layout that user can use to interact with the game right when the start. Obviously you can personalise the controller later on but let's see what the game give us to work with first
+![pubg-controller](images/controller.jpg)
+
+Everything is so chaotic.
+We'll have the map at the top-right corner, as well as the settings button, micro phone access, volume access,... And it can be more due to personal customization. And may be you can figure out what does rest of those button do.
+
+Move on to another aspect. Is the default layout optimize the players performance. When people usually play with their thumbs.
+
+In order to do a sprint, users have to drag the joystick toward the sprint button. See how far the gap is. So it would be inefficient for players to perform that action. The gap may cause thumb fatigue due to excessive and out of range movements. At the same time as the inaccuracy in later implementations.
+controller-attack-btn
+
+![pubg-controller-attack-btn](images/controller-attack-btn.jpg)
+
+
+Speakding of inaccuracy. The bullet icon on the left. It is the size of an average person thumbs when pressed on a surface. It is optimize for the game, not for the user. The more people play the game, they tend to increase the size of that button to 150% and even more to have a better action time than the rest. Well you can predict that's coming because this is a very competitive game. When the button get bigger, you will run out of vertical space. So you must found another way to manage that. People tend to convert their playing device to tablets. That would be unfair to those who stay on mobile phone. Cause tablets give you more space to work with, Which mean you can be faster in quick action, increase the rate that you spoted enemies, and so on.
+
+![pubg-controller-kit-slot](images/controller-kit-slot.jpg)
+![pubg-controller-grenade-slot](images/controller-grenade-slot.jpg)
+
+
+Observe these 2 equipment slot. The health kit slot on left seems to be smaller than the grenade slot on the right. This is quite easy to explain. Beacuse the weight of a specific kit can exceed the weight of a grenade, so there would be less slots than the right slot. However, the asymmetric layout tend to make people feel uncomfortable. In human perception, they tend to want everything to be perfect, to be whole. So they gonna lean toward something whole, something symmetric. I think that 2 of these slot need to be adjust to have the same side.
+
+
+
+
+
+
+## Hints and Tips
+
+For new players, who will be unfamiliar with the layout and the functionality of the buttons, the game provides hints to guide them through the interface. 
+
+![pubg-hint](images/pubg-hint.jpg)
+
+For example, when players first open the game, a hint will appear on the "Start" button to encourage them to start the game, or in the picture below, there's a hint pointing at the "Newbie" button,
+
+![pubg-hint](images/pubg-newbie-hints.jpg)
+
+or various banners that appear throughout the game to notify players of new features or events.
+
+![pubg-banner](images/pubg-banner-1.jpg)
+
+These notifications will usually take up most of the screen to catch the player's attention, notifying them of new features or events. For instance, the shop will present latest items that are available for purchase as the main spotlight of the screen, while the background is dimmed so that it will not cause any distractions. Other items are also designed to be well contrasted and visually appealing to attract the player's attention, and potentially, to encourage them to purchase the items.
+
+![pubg-shop](images/pubg-shop.jpg)
+
+Moreover, the game also have popup notifications that appear when players complete a mission or an achievement. Or, when the players accidentally click on "dangerous" buttons, like the "Buy" button in the shop, or the "Upgrade" button in the inventory, or when the players want to exit the match, there will be a popup notification to confirm their action. This thoroughness is a good design to reduce the amount of errors that players might make.
+
+![pubg-exit-match](images/pubg-exit-match.jpg)
+
+
+## Visualization
+
+The game comes with visual effects to enhance the user experience. For instance, when players want to view the details of an item, there will be a 3D model next to the side to give the players a more realistic view of the item, how it looks like, how it fits to their character models, etc. The 3D model also has the ability to rotate, allowing players to view the item from different angles. This feature is another special thing about the game because they can view all the perks and details of the item right in the game itself, instead of having to go online for reference.
+
+![pubg-visualize](images/pubg-visualization.jpg)
+
+## Personalization
+
+The ingame settings are rich and diverse, allowing players to customize the game to their liking. For example, players can adjust the graphics quality, frame rate, and resolution to optimize performance. They can also customize the controls, button layout, sensitivity, crosshair, and other gameplay settings to suit their preferences. These personalization options allow players to tailor the game, and increases memorability as they can configure the game to match their individual playstyle and needs.
+
+![pubg-settings-1](/images/pubg-settings-1.jpg)
+
+![pubg-settings-2](/images/pubg-settings-2.jpg)
+
+There is one thing to consider, however, is that the personalization options cannot fit all the players' needs. The developers have tried their best to include the most common options that players would want to customize. Doing this will cause an absurd amount of options and it will be unnecessary. An example of this is the limited color options for the crosshair,
+
+![pubg-settings-3](images/pubg-settings-3.jpg)
+
+or the limited languages supported by the game.
+
+![pubg-settings-4](/images/pubg-settings-4.jpg)
+
+## Gameplay
+
+### Loading Screen
+
+![pubg-loading](images/pubg-loading-screen.jpg)
+
+The loading screen is well-thought-out and designed to be visually appealing, while also gives players some insights of the gameplay and the chosen map. For instance, the background is a screenshot of the map environment (dimmed) to give players a sense of the gameplay. In the foreground is a big splashscreen of important mechanics of the game, like the "Danger Zone" or the "Red Zone", visualized with images and text to give players a better ease of understanding. 
+
+Moreover, it also offers tooltips, prompts, and contextual information. These resources can aid players in refreshing their memory on specific features or mechanics when needed.
+
+There is also a loading bar at the bottom of the screen to show the progress of the loading.  
+
+
 ### 2.3.1. Perception
 
 PUBG Mobile leverages players' perceptual abilities, including visual and auditory perception. Visual perception is crucial for spotting opponents, identifying resources, and navigating the game world. The game's graphics and visual cues provide important information about the environment, such as terrain, structures, and object interactions. Auditory perception allows players to locate opponents based on sound cues, such as footsteps, gunshots, or vehicle sounds. PUBG Mobile engages players' perceptual abilities to enhance situational awareness and decision-making.
@@ -364,6 +542,8 @@ The time it takes to find a match in each map in PUBG MOBILE can vary depending 
 **Lag and Frame Rate Issues:**
 
 Lag and frame rate issues can occur in PUBG MOBILE due to a variety of factors, including network connectivity, device performance, and graphics settings. These issues can negatively impact the user experience by causing delays in gameplay, making it difficult to aim accurately, or resulting in crashes or disconnections.
+
+
 
 ### 2.5.3. Memorability
 
