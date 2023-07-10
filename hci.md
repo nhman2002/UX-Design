@@ -268,48 +268,34 @@ There is also a loading bar at the bottom of the screen to show the progress of 
 ## In-game Experience
 ### In-game waiting lobby
 
-Firstly, the game will start when there is 100 players available (ready to connect). You can see when there is enough player by monitoring the top-left corner. It'll show how many player exist in the room with a alert line inform when the game will start.
+
+The game starts when there are 100 available players ready to connect. You can monitor the top-left corner to see the number of players in the room, indicated by an alert line that informs when the game will begin.
 
 ![pubg-ingame-lobby](images/pubg-ingame-lobby.jpg)
 
+Once the game starts, the display changes to show the number of players still alive and how many eliminations you have made.
 
-Then when the game begins, it'll change to how many players still survive. And how many did you eliminated.
+Placing important information in the top-left corner follows a common gaming convention, where crucial details for players to know are located at the top.
 
-Why is it must be at the top-left corner. Well, as to many gaming convention, things that is important to the user or in another saying player need to know should be noticed by players are put at the top.
+Moving to the top-right corner, we find the map along with buttons for settings, microphone access, volume control, and more, depending on personal customization options.
 
-Following that we'll have the map at the top-right corner, as well as the settings button, micro phone access, volume access,... And it can be more due to personal customization.
+In the middle-top section, there is a minimizable compass. This compass helps players navigate the map and determine the correct direction. Teammates can communicate enemy positions by indicating numbers and cardinal directions (North, South, West, East) using the compass. This feature satisfies `human capabilities` in `perception and cognition`, as well as the `user's mental model`. Furthermore, the usage of a compass, a real-world object, ensures learnability and usability for players.
 
-Then you will, have a minimize compass in the middle-top. This will help players navigate through the map whether they're heading in the right direction. By communiocating to each others, teammate can tell other what direction is the enemies by signify the number on the compass and which direction (Nord, South, West, East) just like in the real world. This will satisfied the `Human Capabilities` in both perception and cognition as well as the `User Mental Model`. In `usability`, user don't have to learn how to use it because it's base on an real-world object, the compass, so it will satisfied the `learnability` in `usability`
+In the top left corner, the team display shows the four members of our team. Your character is positioned at the top, distinguishing you as the active player, while the others follow below. Each member is tagged with a colored symbol, allowing teammates to be recognized without needing to remember their names. This tagging system takes advantage of `human capabilities`.
 
-Continue the left corner, we'll have 4 members of our team, to display these member info, we'll have you at the top (signify the person who playing), than the others as follow. They'll have their in-game spell together with a color tags to signal their teammate not to shoot at them. 
+At the bottom-right corner, according to the default display, various buttons perform actions such as attack, jump, crawl, and kneel. Each button is accompanied by a clear illustration depicting the specific action. The attack button's appearance changes depending on the type of weapon you are wielding: a fist for no weapon, a bullet for guns, and a knife for melee weapons. Experienced players can easily understand the button's function based on these illustrations, while new players can quickly grasp the usage of the buttons.
 
-By tagging each member as a color symbol, will help players don't have to remember teammates name but as a color tag (`Human Capabilities`).
+The bottom-left corner features a joystick icon for controlling the character. The concept of a joystick is well-known, dating back to the 1960s, making it a familiar control method.
 
-At the bottom-right corner, base on the default display, there're some button perform action like: `attack, jump, crawl, kneel`. For each button there will be a clear illustration for that specific action. However, the attack button will change depend on what type of weapon you're wielding: none - fist, guns - bullet, melee-weapons - knife. For experience gamer, this will signify them clearly what's that button will do if they press it. For new-gamer, the illustration is clear enough for them to know the usage of those buttons.
+Adjacent to the joystick, there is another attack button. This duplicate button exists for situations when players want to perform simultaneous actions such as jumping and shooting. By pressing the jump button with one thumb and the attack button with the other, players can execute these actions together. This placement of duplicate buttons assists players who may run out of fingers to press buttons on one side. Players have the flexibility to customize their personal action display to suit their preferences.
 
-At the bottom-left corner, players have a joy-stick icon to control their charater. The concept of joy-stick is very old, back in 1960, so obviously every body know what is it and what's does. 
+Next, we have the backpack icon, easily recognizable by its name. The icon also includes a circular loading-like animation, indicating the backpack's storage capacity and whether it is full or has available space. However, players cannot know the exact amount of storage remaining, as a percentage indicator is not provided. Additionally, the backpack icon can display yellow stripes to denote its rarity or tier, with more stripes indicating higher quality.
 
-Next to it we will have another attack button. Why is it there because we already have an attack button on the right. Well, in case the player want to jump and shooting (attack) simultaneously, their right thump pressed the jump button and the other one pressed attack. To answer the question, in some cases, players want to perform two action at the same time, in case they run out of finger to press in one side, the game place the same button in the other side to assist players. This also can be change in the customization section where players can custom their personal action display which suit them best.
+On the bottom line, there are two weapon slots, two equipment slots (the left slot for healing kits and the right slot for grenades and smokers), and a milky-white health bar. The weapon slot illustrations change based on the selected weapon, and next to it, the ammunition count is displayed (round ammunition left and ammunition left in the backpack). This information can be effectively used by players to their advantage. As for the equipment slots, each slot can accommodate various types of equipment, such as grenades or healing kits. Only the icon of the specific equipment being used is displayed. To use a different type of equipment, players must select the "more options" icon (depicted as an upward arrow above the equipment slot), which reveals all available equipment of the same type. Players can then choose the desired item by pressing it again. This process can be time-consuming and inefficient for quick actions, especially on smartphones, where screen size may impact performance. Although button size can be improved by switching to a larger screen, such as a tablet, or customizing the button display, it remains a drawback and disadvantage for players primarily using smartphones.
 
-Next up is the backpack icon. For it's called, you already know what is it.
-The icon also illustration its storage size, there a circle running around the button. It's signify the backpack capacity, is it full or not, how much storage space is left just like a loading icon in real-world context. However, players can't know the exact amount of storage in it. To be exact, it suppose to have a percentage info to demonstrate the amount of slot in have. But that is not the case of this game. In addition, the packback icon can show which tier it is (the rarity) by showing some yellow stripes next to it, more stripes it have, the better the quality (`User Mental Model`).
+If your teammate shoots at you, or vice versa, hitbox effects occur, but the health bar for both you and your teammate does not decrease.
 
-At the bottom line you'll have 2 weapons slot, 2 equipment slots (on the left side is the slot for heal kit, on the right is for grenade, smoker,...) and your health bar in milky-white. The weapons slot will change the illustration base on what weapon you choose and next to it is the amount of ammunition you have left-hand side (ammunition left in a round / ammunition left in the backpack). This is quite clear for any person to use this info as their advantage. As for the equipment slot, every kind of heal kit or grenade is pack into a single slot. This mean if you're using grenade, only the grenade icon will be display, if you want to use another kind of equipment, let say a smoker, you have to choose the more option icon (as a up-arrow over the equipment slot) then it will display every equipment you have which has the same type, then you select the kit and pressed it again in order to use it. Well this is time consuming and ineffective to the players if they want to do a quick action. In addition, if user is using a smart phone to play, the size of it might effect the performance of its user. Althoughts, the size of display button can be improved by converting to a bigger screen (from phone to a tablet) or by customizing the button display.
-However it's still a drawback and a disadvantage of players who mainly play this game throught a their smart phone.
-
-If your teammate shoot at you or vice versa, there are still hit box effects but you and your teammate health bar won't decreases.
-
-
-The reason why the center of the gun is positioned in the middle of the screen in PUBG Mobile is primarily for gameplay and user experience purposes. Placing the gun's center in the middle of the screen helps to ensure that players have a consistent and intuitive aim when engaging in combat.
-
-By aligning the gun's center with the center of the screen, it allows players to have better control over their aim and provides a more natural and familiar shooting experience. This design choice aims to make it easier for players to accurately target their enemies and engage in gunfights.
-
-Additionally, having the gun's center in the middle of the screen allows for easier adaptation across different screen sizes and aspect ratios of mobile devices. It provides a standardized aiming reference point regardless of the device being used, promoting fairness and equal gameplay opportunities for all players.
-
-It's important to note that the placement of the gun's center in the middle of the screen is a design decision made by the game developers to optimize gameplay and enhance the user experience.
-
-
-
+These design choices and elements in the game's interface, including player count display, map placement, compass, team list, action buttons, backpack icon, weapon and equipment slots, and health bar, contribute to the overall gameplay experience by providing vital information, ensuring learnability, and accommodating `human capabilities` and `user mental models`.
 
 
 
@@ -317,16 +303,18 @@ It's important to note that the placement of the gun's center in the middle of t
 
 
 ### In-game flight
-Starting the game, we players are packed in an air plane which flight across the map that we choose, the flight direction is anonymous each round.
+
+
+
+When we begin the game, players are grouped together inside an airplane that traverses the chosen map. The flight direction of the airplane varies in each round and remains anonymous.
 
 ![pubg-flight](images/pubg-flight.jpg)
 
+In terms of visual display, most elements remain unchanged except for the action display. Notably, there is now an extension on the player's team list located on the left-hand side, accompanied by a jump button that allows players to exit the aircraft. The jump button is represented by an illustration of a man wearing a backpack and `free-falling`. The team list extension includes a steering wheel, a follow button, and an invite button. This extension is specific to each teammate and round, indicating which section belongs to whom. The steering wheel signifies the player responsible for leading the team's exit from the aircraft and guiding their teammates to the predetermined target. By hovering a color icon over the steering wheel, the game designates the leader based on the color previously assigned. For example, if the first person assigned the color yellow is designated as the leader, a yellow icon will hover over their steering wheel.
 
-For the visual display, most of it's unchange but for the action display.
-In addition, now we have an extension on the player's team list on left-hand side as well as a jump button to exit the aircraft (with an illustration of a man free falling who wearing a backpack). The extension include a stearing wheel, a follow button, an invite button. The extension section is set to each teammate, each round. So it signify that those new section belongs to whom. The stearing show who is in charge of leaving the aircraft and landed their teammate at the predetermined target. By hovering a color icon over the stearing wheel, it telling who is the leader according to the color previously marked by the game. For exemple: if you assign the first person whose color is yellow to be the leader, your stearing wheel will have a yellow icon hovering over it.
+Upon exiting the aircraft, the action display undergoes a change. Players are provided with a joystick to control the character's direction, a release button to deploy the parachute, and a column monitor that provides information about the falling speed. Through a cursor, players can determine their altitude, with the cursor moving downward as they descend. The column is divided into two sections: the transparent `free-falling` section and the milky white `danger section`. The `danger section` indicates the point at which players must deploy their parachutes to reduce their speed. If players enter this `danger area`, the game automatically deploys their parachute. This monitoring column effectively communicates the speed and altitude of the fall to players. The downward movement of the cursor provides clear information, allowing players to make precise decisions based on this specific component.
 
-When we exit, the action display change, we will have a joy stick to controll the character direction, a release button to pull out the parachute, a column monitor to give us info about our fall speed, throught a cursor we can know what is our altitude, the cursor will move downward as we falling. The column has 2 section: section where we can `free falling` is marked as transparent, `danger section`, marked as milky white, is where we must pull out the parachute to decrease our speed, if the players enter this danger area, the game automatically pull out the player parachute. This monitoring column perfectly exucute how the game inform the user on speed and altitude of their fall. The way the cursor move downward as we fall give the user a clear info and the usage of this specific component.
-
+These updates in the game's action display, such as the team list extension and jump button, as well as the inclusion of the steering wheel and the monitoring column for falling speed and altitude, aim to enhance the gameplay experience and provide players with important information during their descent.
 ![pubg-parachuting](images/pubg-parachuting.jpg)
 
 
@@ -336,50 +324,74 @@ When we exit, the action display change, we will have a joy stick to controll th
 
 **Ring** : a circle that keeps shrinking over time.
 
-When opening the map we get the longitude and latitude, just like our real life map. If you don't feel like it, you can turn it off. You will get a less clearer map. However, the map cannot show the terrain altitude. That is a drawback cause user might wanted to have that info.
+When you open the map in the game, you are presented with longitude and latitude markers, just like a real-life map. If you prefer, you have the option to disable these markers, resulting in a less detailed map. However, one limitation is that the map does not display information about the terrain altitude, which could be useful to players who desire that information.
 
 ![pubg-map-latitude-longitude](images/map-latitude-longitude.jpg)
 ![pubg-map](images/map.jpg)
 
 
-About the ring, when you are outside the ring you will be vulnerable and your health bar decreases over time. The smaller the ring, the worse it gets. To signify that the game using color blue to alert the vulnerable zone, and the color green to do the injured animation. These colors have a lower luminosity than the others even for colorblind people.
-It try to warn that something bad is happening.
+Regarding the ring mechanic, being outside the ring leaves you vulnerable, causing your health bar to gradually decrease. The severity of this effect worsens as the ring becomes smaller. To signify this, the game uses the color blue to indicate the vulnerable zone and the color green for the injured animation. These colors are deliberately chosen to have lower luminosity, making them distinguishable even for players who are colorblind. These color choices aim to warn players that something unfavorable is occurring.
 
-The ring warning is still displayed when the map is minimize.
-Exemple:
+It's worth noting that the ring warning is still displayed even when the map is minimized. For instance, a running figure icon represents your character, while a white strip on the bar indicates that you are within the safe zone. The blue section of the bar represents the vulnerable zone, which expands over time as it gets closer to your location. This feature proves beneficial for gamers, whether they are playing in big or small map mode.
 
 ![pubg-map-ring](images/map-ring.jpg)
 ![pubg-pubg-zone](images/pubg-zone.jpg)
 
-The of a person is running figure represent your character. The white strip mean you reach the end of this bar. You are in the safe zone. The blue section is the vulnerable zone. It will increase overtime as it get closer to you. This is a great feature for gamers, both on big and small map mode.
+These design choices in the game, such as the display of longitude and latitude on the map, the use of blue and green to represent danger and injury, and the persistent ring warning even in minimized mode, aim to provide players with essential information and enhance their gaming experience. In addition, green is opposite to the color red, represent blood, the developer trying to reduced bloodshed but still kept the severity of the effect. 
 
 
 ### In-game Controller
 
-This is the full layout of PUBG controller on walking mode. It's a default controller running on mobile phone, this is the 1st layout that user can use to interact with the game right when the start. Obviously you can personalise the controller later on but let's see what the game give us to work with first
+This is the complete layout of the PUBG controller in walking mode, which serves as the default controller on mobile phones. This initial layout is what users first interact with when starting the game. Although customization options are available later on, let's examine the default layout provided by the game.
 ![pubg-controller](images/controller.jpg)
 
-Everything is so chaotic.
-We'll have the map at the top-right corner, as well as the settings button, micro phone access, volume access,... And it can be more due to personal customization. And may be you can figure out what does rest of those button do.
+At first glance, the layout appears quite chaotic. The top-right corner features the map, settings button, microphone access, volume control, and potentially more, depending on personal customization. The functions of the remaining buttons may require some exploration.
 
-Move on to another aspect. Is the default layout optimize the players performance. When people usually play with their thumbs.
+Let's consider the optimization of the default layout for players who typically use their thumbs while playing. One aspect that raises concerns is the sprint action. To sprint, users must drag the joystick towards the sprint button, which creates a considerable gap. This can be inefficient and lead to thumb fatigue due to excessive and out-of-range movements, as well as subsequent inaccuracies in execution.
 
-In order to do a sprint, users have to drag the joystick toward the sprint button. See how far the gap is. So it would be inefficient for players to perform that action. The gap may cause thumb fatigue due to excessive and out of range movements. At the same time as the inaccuracy in later implementations.
-controller-attack-btn
 
 ![pubg-controller-attack-btn](images/controller-attack-btn.jpg)
 
 
-Speakding of inaccuracy. The bullet icon on the left. It is the size of an average person thumbs when pressed on a surface. It is optimize for the game, not for the user. The more people play the game, they tend to increase the size of that button to 150% and even more to have a better action time than the rest. Well you can predict that's coming because this is a very competitive game. When the button get bigger, you will run out of vertical space. So you must found another way to manage that. People tend to convert their playing device to tablets. That would be unfair to those who stay on mobile phone. Cause tablets give you more space to work with, Which mean you can be faster in quick action, increase the rate that you spoted enemies, and so on.
+Speaking of inaccuracies, the bullet icon on the left is designed to be the size of an average person's thumb when pressed against a surface. It is optimized for the game rather than the user. As players spend more time in the game, they often increase the size of this button to 150% or more to enhance their response time compared to others. This tendency arises due to the highly competitive nature of the game. However, enlarging the button results in running out of vertical space on the screen, which prompts players to find alternative ways to manage it. Some players opt for using tablets instead of mobile phones, as tablets offer more screen space. This creates an imbalance for those who continue playing on mobile phones, as tablets provide advantages in terms of quick actions and improved enemy detection rates.
 
 ![pubg-controller-kit-slot](images/controller-kit-slot.jpg)
 ![pubg-controller-grenade-slot](images/controller-grenade-slot.jpg)
 
 
-Observe these 2 equipment slot. The health kit slot on left seems to be smaller than the grenade slot on the right. This is quite easy to explain. Beacuse the weight of a specific kit can exceed the weight of a grenade, so there would be less slots than the right slot. However, the asymmetric layout tend to make people feel uncomfortable. In human perception, they tend to want everything to be perfect, to be whole. So they gonna lean toward something whole, something symmetric. I think that 2 of these slot need to be adjust to have the same side.
+Let's examine the two equipment slots. The health kit slot on the left appears smaller than the grenade slot on the right. This can be explained by the fact that the weight of a specific health kit can exceed that of a grenade, resulting in fewer slots being available for health kits. However, the asymmetric layout can make users feel uncomfortable. Humans tend to prefer symmetry and perfection. Therefore, it might be beneficial to adjust these two slots to have an equal size and placement.
+
+### Game-play
+
+#### Looting
+When looting from an opponent or a teammate in PUBG, a scroll box appears on your screen. Typically, items are displayed with a white background, but if an item has a yellow background, it signifies that it is beneficial for you. 'Good' in this context means the item is either a weapon you don't have or the type of ammunition that is compatible with your current weapon.
+
+The choice of the color yellow is based on human psychology. When people see the color yellow, it often evokes feelings of warmth and positivity. Yellow is also associated with a gold medal, symbolizing achievement and excellence. By using the color yellow, the game indirectly encourages players to feel a sense of increased odds and success, boosting their confidence in winning.
+
+There is a game mechanism that enables quick looting. When this feature is turned on, you automatically collect all items beneficial to you from a nearby eliminated player until your backpack is full. However, if other players haven't activated this mode or are unaware of its existence, it can put them at a disadvantage, impacting their performance and the overall fairness of the game.
+
+Let's consider a scenario: I'm using a weapon that requires green ammunition, and I've collected a significant amount of it as the game progresses. When I engage in quick looting, the mechanism keeps picking up more green ammunition, causing my backpack to fill up. I then have to manually manage my inventory or disable the mechanism, which can be quite inconvenient. To address this, I propose implementing a maximum ammunition capacity. Although the chances of collecting a large amount of ammunition are low due to the presence of other consumable items like healing kits and boost items, the issue still arises, and we should enhance the user experience of the game by finding a solution.
+
+#### Response when you attack
+
+Well, the response from the game is pretty good, when turning on the scope to aim, or the recoil when shooting seems to be compatible with the real-world experience. Visually it seems real, similar to real life. Can we make it more realistic, phones or tablets both have vibration mode, why don't we take advantage of it. Agree with using vibration mode will consume more battery capacity but it should be an option for gamers to choose.
 
 
+### The center of the gun
 
+The center of the gun is placed in the middle of the screen in PUBG Mobile to provide a more intuitive and natural shooting experience for players. Placing the gun's center in the middle allows for easier aiming and better hand-eye coordination during combat. When the gun's center is aligned with the middle of the screen, it creates a consistent reference point for aiming. This means that players can develop muscle memory and a sense of aim without having to constantly adjust their aim based on the gun's position on the screen. Makes it easier to track and target enemies. Since most of the action and opponents are located in the center of the screen, having the gun's center aligned with it allows for quicker and more accurate targeting. PUBG Mobile is played on various mobile devices with different screen sizes and aspect ratios. Placing the gun's center in the middle ensures that the aiming reference point remains consistent across different devices, promoting fair and equal gameplay for all players. Pubg tend to hold tight to the gaming convention of placing the center of the gun is placed in the middle of the screen 
+
+By positioning the gun's center in the middle of the screen, PUBG Mobile aims to optimize the shooting mechanics, enhance the player's aiming capabilities, and provide a more user-friendly experience overall.
+
+
+<!-- 
+- Xem lại syntax, lỗi cú pháp, para lại câu
+
+- thiếu analyse về gameplay: loot đồ, cảm giác bắn súng (về mặt visual thì nó có vẻ như thật, tương tự như ngoài đời thực. Ta có thể làm nó thật hơn không, điện thoại hay tablet đều có chế độ rung, sao ta không tận dụng nó. Đồng ý với việc sử dụng chế độ rung sẽ tốn nhiều dung lượng pin hơn nhưng nó nên là một option để cho game thủ lựa chọn.) ,... những cảm giác gameplay khác.
+
+-
+
+ -->
 
 
 
