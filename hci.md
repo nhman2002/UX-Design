@@ -383,6 +383,9 @@ The center of the gun is placed in the middle of the screen in PUBG Mobile to pr
 
 By positioning the gun's center in the middle of the screen, PUBG Mobile aims to optimize the shooting mechanics, enhance the player's aiming capabilities, and provide a more user-friendly experience overall.
 
+### Limit on memory capacity
+
+On our screen, there are approximately nine components that require the user's attention: joystick, attack button, jump button, kneel button, crawl button, compass, map, health bar, and the number of bullets remaining in the round. It's worth noting that not all of these components require constant attention. For example, the health bar, map, and compass do not require continuous monitoring. By reducing the number of objects that demand our attention, the screen layout aligns well with the average person's limited capacity to memorize around seven different objects at a time.
 
 <!-- 
 - Xem lại syntax, lỗi cú pháp, para lại câu
