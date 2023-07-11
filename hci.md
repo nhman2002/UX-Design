@@ -338,11 +338,13 @@ When we exit, the action display changes, we will have a joy stick to control th
 
 When we open the map, we can view the longitude and the latitude, just like in real life maps. If players don't like this feature, they can turn it off.  We use the map to view our objectives, our teammates, our enemies, our location, etc. It is a very important feature in the game, and is also the most used feature .However, the map cannot show the terrain height, which is a drawback for players who want to know this information.
 
-<!-- ![pubg-map](images/map.jpg) -->
+![pubg-map](images/map.jpg)
 
 ![pubg-map-ring](images/map-ring.jpg)
 
-For the ring, it's a white circle that keeps shrinking over time. This is the *safe zone* that players must stay in to avoid being killed by the *blue zone* (which is the area outside the white circle). The blue zone will keep shrinking over time, and the damage it deals to the players will increase as it shrinks. If you're in this zone, you will be vulnerable and your health bar decreases over time. This is to prevent players from camping in one place for too long. The smaller the white ring, the bigger the damage that the blue zone has. There is also a red circle, which is the *danger zone* where bombs will be dropped. The color red is common for signifying dangers in real life, and the developers of the game also use this color to signify the danger.
+For the ring, it's a white circle that keeps shrinking over time. This is the **safe zone** that players must stay in to avoid being killed by the **blue zone** (which is the area outside the white circle). The blue zone will keep shrinking over time, and the damage it deals to the players will increase as it shrinks. If you're in this zone, you will be vulnerable and your health bar decreases over time. This is to prevent players from camping in one place for too long. The smaller the white ring, the bigger the damage that the blue zone has. There is also a red circle, which is the *danger zone* where bombs will be dropped. The color red is common for signifying dangers in real life, and the developers of the game also use this color to signify the danger. The bombed area Where the player takes damage when bombs are dropped. If the your character is out side of a man-made structure. Your health bar will gradually decrease when hit by a bomb, which may result in you being removed from the game. This area is marked as a **red zone** on your map. This area will appear randomly in the map so we can't predict it. This will make the game more unpredictable, make the player more interested and more competitive.
+
+
 
 To illustrate the concept more precisely, you can view the image below.
 
@@ -350,271 +352,128 @@ To illustrate the concept more precisely, you can view the image below.
 
 The position of your character is identified with the yellow icon. There is also a small arrow to show the direction that your character is facing for better navigation.
 
+
+![pubg-minimize-map](images/pubg-minimize-map.png)
+
+It's worth noting that the ring warning is still displayed even when the map is minimized. For instance, a running figure icon represents your character, while a white strip on the bar indicates that you are within the safe zone. The blue section of the bar represents the vulnerable zone, which expands over time as it gets closer to your location. This feature proves beneficial for gamers, whether they are playing in big or small map mode.
+
+The red warning icon signifies the start of the ring shrinking process. It initiates a countdown each time, indicating when the contraction will occur. The choice of red color for the icon is fitting, as red is often associated with danger and severity. This color selection effectively communicates the imminent threat posed by the shrinking ring. The triangle shape of the icon draws inspiration from real-world road signs used for conveying danger and warnings to road users. By incorporating this familiar shape, the game leverages a metaphor that aligns with the purpose of real-world signs. The use of the red warning icon in the game serves as a meaningful and effective metaphor, alerting players to the dangerous nature of the situation and prompting them to take appropriate action.
+
+
+Additionally, there are instances when you may encounter an orange bullet or footsteps with an arc shape. These visual cues indicate the direction from which the corresponding sound originates. The mechanism functions akin to a radar system, allowing players to quickly identify the source of noise and respond accordingly. The association with radar is intuitive for many individuals, as they are familiar with its operation and can easily understand how to interpret and utilize this information effectively.
+
+
+
+
+
 ### In-game Controller
 
-This is the full layout of PUBG controller on walking mode. It's the default controller on mobile phone, and is the 1st layout that players can use to interact with the game. You can also customize it in the settings.
 
+This is the complete layout of the PUBG controller in walking mode, which serves as the default controller on mobile phones. This initial layout is what users first interact with when starting the game. Although customization options are available later on, let's examine the default layout provided by the game.
 ![pubg-controller](images/controller.jpg)
 
-However, there are some drawbacks in this layout: **everything is so chaotic.**
+At first glance, the layout appears **quite chaotic**. The top-right corner features the map, settings button, microphone access, volume control, and potentially more, depending on personal customization. The functions of the remaining buttons may require some exploration.
 
-#### Crowded Interaction Space
+Let's consider the optimization of the default layout for players who typically use their thumbs while playing. One aspect that raises concerns is the sprint action. To sprint, users must drag the joystick towards the sprint button, which creates a considerable gap. This can be inefficient and lead to thumb fatigue due to excessive and out-of-range movements, as well as subsequent inaccuracies in execution.
 
-There are just too much buttons. We have the map at the top-right corner, as well as the settings button, micro phone access, volume access, etc. The information is too much for players to process at once, especially for new gamers who are still unfamiliar with the game. Moreover, due to having an excessive amount of buttons, the size of each button is reduced to fit the screen. This will cause the buttons to be smaller, and it will be harder for players to press on them. In some game scenarios where it requires players to perform quick actions, this will be a drawback for them. While players typically use only 2-4 fingers to interact with the game, there are more than 20 buttons available for interaction. This overload of buttons can overwhelm users and impede their ability to perform actions swiftly and accurately, not to mention the so-called *spider crawl* where players have to use all their fingers to press on the buttons. 
-
-![pubg-fingers](images/pubg-fingers.jpg)
-
-Luckily, it is customizable. The developers have thought of this issue and provided players with custom layouts. By allowing users to personalize the placement and number of buttons according to their preferences and gameplay style, the interaction space can be optimized. However, it should be noted that customization may result in the transfer of the problem to other aspects, as reducing buttons may limit certain movements or actions.
-
-<!-- #### Inefficient Default Layout
-
-The default layout is designed for players to play with their thumbs. However, there are still drawbacks:
-
-- In order to do a sprint, players have to drag the joystick further than normaly. This, in some cases, might be counter-intuitive to the players and also might cause context-switching inefficient. For instance, the borderline between *walking* and *sprinting* differs by the distance that the players drag the joystick. This is not a good design choice because it requires players to remember the distance that they have to drag the joystick to perform a specific action.
-So it would be inefficient for players to perform that action. The gap may cause thumb fatigue due to excessive and out of range movements.
 
 ![pubg-controller-attack-btn](images/controller-attack-btn.jpg)
 
-In terms of inaccuracy, the bullet icon on the left is the size of an average person thumbs when pressed on a surface. It is optimized and well for the game, not for the user. The more people play the game, they tend to increase the size of that button to 150% and even more to have a better action time than the rest. Well you can predict that's coming because this is a very competitive game. When the button get bigger, you will run out of vertical space. So you must found another way to manage that. People tend to convert their playing device to tablets. That would be unfair to those who stay on mobile phone. Cause tablets give you more space to work with, Which mean you can be faster in quick action, increase the rate that you spoted enemies, and so on.
+
+Speaking of inaccuracies, the bullet icon on the left is designed to be the size of an average person's thumb when pressed against a surface. It is optimized for the game rather than the user. As players spend more time in the game, they often increase the size of this button to 150% or more to enhance their response time compared to others. This tendency arises due to the highly competitive nature of the game. However, enlarging the button results in running out of vertical space on the screen, which prompts players to find alternative ways to manage it. Some players opt for using tablets instead of mobile phones, as tablets offer more screen space. This creates an imbalance for those who continue playing on mobile phones, as tablets provide advantages in terms of quick actions and improved enemy detection rates.
 
 ![pubg-controller-kit-slot](images/controller-kit-slot.jpg)
 ![pubg-controller-grenade-slot](images/controller-grenade-slot.jpg)
 
 
-Observe these 2 equipment slot. The health kit slot on left seems to be smaller than the grenade slot on the right. This is quite easy to explain. Beacuse the weight of a specific kit can exceed the weight of a grenade, so there would be less slots than the right slot. However, the asymmetric layout tend to make people feel uncomfortable. In human perception, they tend to want everything to be perfect, to be whole. So they gonna lean toward something whole, something symmetric. I think that 2 of these slot need to be adjust to have the same side. -->
+Let's examine the two equipment slots. The health kit slot on the left appears smaller than the grenade slot on the right. This can be explained by the fact that the weight of a specific health kit can exceed that of a grenade, resulting in fewer slots being available for health kits. However, the asymmetric layout can make users feel uncomfortable. Humans tend to prefer symmetry and perfection. Therefore, it might be beneficial to adjust these two slots to have an equal size and placement.
+#### Crowded Interaction Space
 
-<!-- M chưa phân tích cái gameplay như nào, mới chỉ là map rồi layout, chưa nhắc tới có gì trên màn hình, nhận diện địch với đồng đội như nào khi chơi, cách loot đồ như nào chưa nói, độ giật rồi âm thanh như nào, những cues với tín hiệu nào,... Ở phần dưới có một vài chỗ có nhắc tới cái này, phân tích thêm đi -->
+There are just too much buttons. We have the map at the top-right corner, as well as the settings button, micro phone access, volume access, etc. The information is too much for players to process at once, especially for new gamers who are still unfamiliar with the game. Moreover, due to having an excessive amount of buttons, the size of each button is reduced to fit the screen. This will cause the buttons to be smaller, and it will be harder for players to press on them. In some game scenarios where it requires players to perform quick actions, this will be a drawback for them. While players typically use only 2-4 fingers to interact with the game, there are more than 20 buttons available for interaction. This overload of buttons can overwhelm users and impede their ability to perform actions swiftly and accurately, not to mention the so-called ***spider crawl*** where players have to use all their fingers to press on the buttons. 
 
-### 2.3.1. Perception
+![pubg-fingers](images/pubg-fingers.jpg)
 
-PUBG Mobile leverages players' perceptual abilities, including visual and auditory perception. Visual perception is crucial for spotting opponents, identifying resources, and navigating the game world. The game's graphics and visual cues provide important information about the environment, such as terrain, structures, and object interactions. Auditory perception allows players to locate opponents based on sound cues, such as footsteps, gunshots, or vehicle sounds. PUBG Mobile engages players' perceptual abilities to enhance situational awareness and decision-making.
+Luckily, it is customizable. The developers have thought of this issue and provided players with custom layouts. By allowing users to personalize the placement and number of buttons according to their preferences and gameplay style, the interaction space can be optimized. However, it should be noted that customization may result in the transfer of the problem to other aspects, as reducing buttons may limit certain movements or actions.
 
-### 2.3.2. Cognition
+## Gameplay
 
-PUBG minimize the user’s memory load by making objects, actions, and options visible. The user should not have to remember information from one part of the dialogue to another. Instructions for use of the system should be visible or easily retrievable whenever appropriate.
+### Looting
 
-The weapons and bullets have different types in the PUBG mobile and players feel difficult to figure out what they need at that time. The highlighted stuff is an automatic reminder for players to recognize the weapon they have and what bullets they should pick up.
+When looting from an opponent or a teammate in PUBG, a scroll box appears on your screen. Typically, items are displayed with a white background, but if an item has a yellow background, it signifies that it is beneficial for you. 'Good' in this context means the item is either a weapon you don't have or the type of ammunition that is compatible with your current weapon.
 
 ![pubg-image-1](images/pubg-cognition.png)
 
-## 2.4. User Mental Model
+The choice of the color yellow is based on human psychology. When people see the color yellow, it often evokes feelings of warmth and positivity. Yellow is also associated with a gold medal, symbolizing achievement and excellence. By using the color yellow, the game indirectly encourages players to feel a sense of increased odds and success, boosting their confidence in winning.
 
-### 2.4.1. Real-world References
+There is a game mechanism that enables quick looting. When this feature is turned on, you automatically collect all items beneficial to you from a nearby eliminated player until your backpack is full. However, if players haven't activated this mode or are unaware of its existence, it can put them at a disadvantage, impacting their performance and the overall fairness of the game.
 
-PUBG Mobile incorporates real-world references to enhance the user experience and facilitate learning. The game draws inspiration from real-world military tactics, weapons, and equipment. This allows players to leverage their existing knowledge and understanding of these concepts to improve their performance in the game. For example, players can apply real-world knowledge of weapon characteristics, such as recoil and bullet drop, to improve their aim and accuracy in PUBG Mobile.
+Consider a scenario: I'm using a weapon that requires green ammunition, and I've collected a significant amount of it as the game progresses. When I engage in quick looting, the mechanism keeps picking up more green ammunition, causing my backpack to fill up. I then have to manually manage my inventory or disable the mechanism, which can be quite inconvenient. To address this, I propose implementing a maximum ammunition capacity. Although the chances of collecting a large amount of ammunition are low due to the presence of other consumable items like healing kits and boost items, the issue still arises, and we should enhance the user experience of the game by finding a solution.
 
-PUBG Mobile also incorporates real-world references in its user interface. For example, the inventory system is designed to mimic a backpack, allowing players to organize and manage their items in a way that is familiar and intuitive. Similarly, the map interface resembles a paper map, providing a recognizable and intuitive way to navigate the game world.
+### Responsive Feedback
 
-### 2.4.2. Familiarity with Battle Royale Genre and Gaming Conventions
-
-PUBG Mobile is a battle royale game, and many players are already familiar with the genre. Moreover, most players are familiar with the placing of crosshair in the middle of the screen and the shooting mechanics. PUBG Mobile leverages this familiarity to enhance the user experience and facilitate learning. For example, players can apply their existing knowledge of aiming and shooting mechanics to improve their performance in PUBG Mobile, or players who have played other battle royale games may already be familiar with concepts such as looting, inventory management, and combat tactics. This prior knowledge can be applied to PUBG Mobile, allowing players to quickly adapt to the game's mechanics and interface.
-
-### 2.4.3. Gaming Conventions
-
-PUBG Mobile follows common gaming conventions to enhance the user experience and facilitate learning. For example, the game utilizes standard controls and button mappings that are familiar to most players. This allows players to leverage their existing knowledge of gaming conventions to quickly learn and adapt to PUBG Mobile.
-
-## 2.5. Usability
-
-### 2.5.1. Learnability
-
-Learnability plays a crucial role in the overall usability of a system, and PUBG Mobile incorporates several features to ensure that new players can quickly grasp the game mechanics and navigate the interface. Here is a more detailed analysis of learnability in PUBG Mobile:
-
-#### Good Points
-
-**Tutorial Mode:** PUBG Mobile offers a tutorial mode specifically designed to introduce new players to the game. It provides step-by-step instructions on basic controls, movement, aiming, shooting, and looting. The tutorial mode gradually introduces more advanced concepts, such as managing inventory, using vehicles, and employing different weapon attachments.
-
-**Tooltips and Hints:** Throughout the game, PUBG Mobile provides tooltips and hints that appear at relevant moments to guide players. These tooltips explain the purpose and functionality of various game elements, such as weapons, equipment, and consumables. Hints may also appear during gameplay to provide contextual information or suggest strategies.
-
-**Interactive Elements:** PUBG Mobile incorporates interactive elements within the user interface to assist in the learning process. For example, players can tap on various icons, buttons, or menu options to access additional information, change settings, or perform specific actions. These interactive elements contribute to an exploratory learning experience, allowing users to experiment and discover functionalities on their own.
-
-**Practice Modes:** In addition to the tutorial, PUBG Mobile offers practice modes where players can engage in non-competitive matches or training sessions. These modes allow users to hone their skills, experiment with different weapons and strategies, and gain familiarity with the game's mechanics in a controlled environment. Practice modes contribute to the iterative learning process, enabling players to refine their abilities gradually.
-
-**Visual Cues and Feedback:** PUBG Mobile utilizes visual cues and feedback to assist players in understanding the consequences of their actions. For example, when players take damage, the visual representation of health bars or character animations conveys the impact. Similarly, when players successfully eliminate opponents, visual and auditory cues provide feedback and reinforce the understanding of the game's objectives.
+The game's response and realism in terms of aiming through scopes and weapon recoil contribute to an immersive gameplay experience. To further enhance the realism, incorporating the vibration mode feature available on phones and tablets could be a viable option. Utilizing vibration feedback when firing weapons or engaging in certain actions can provide players with a tactile sensation, closely mimicking the real-world experience. While it is true that enabling vibration mode may result in increased battery consumption, offering it as an optional feature allows gamers to choose whether they prioritize the added realism or battery life. This way, players can customize their gaming experience based on their preferences and device capabilities.
 
 ![pubg-image-2](images/pubg-cues.jpg)
 
-**Community Support:** PUBG Mobile boasts a vibrant and active community of players who share tips, strategies, and tutorials through various online platforms. Players can access forums, social media groups, and video content created by the community to learn from experienced players, gain insights into advanced tactics, and discover new approaches to gameplay. The availability of community support enhances the overall learnability of the game.
+### Win screen
 
-#### Drawbacks and Hindrances
+What happen if we win, the screen start to darken and a logo in the middle said **Winner Winner Chicken Dinner**. Its the slogan of the game. What does it means, just a catchy phrase, another meaning is you are the best and everyone else is bad as a chiken. 
 
-**Complexity Overload:** PUBG Mobile offers a wide range of gameplay mechanics, features, and strategies, which can be overwhelming for new players. The complexity of the game may lead to a steep learning curve, making it challenging for beginners to grasp all the nuances quickly.
+![pubg-win-screen](images/pubg-win-screen.jpg)
+Next, we'll have another screen coming right up. Its your personal feat, include your rank in this round, your kill, your reward. Base on your feat, which include your total kill, total damage, how long did you survive in the game, how you support your team,... You will have an achievement as a dog tag on the bottom-left side.
+If you have more than a achievement, so does your dog tag. The representation of your achievement as a dog tag Very similar to the etiquette in the US military when a soldier enlists they will be given a tag dog when their personal information. Even after finishing their military service, some people still wear it as a pride, to remember their glory days. This representation is tend to make people proud of themselves and the achievements they have achieved in the game. (`interaction metaphor`)
+![pubg-win-stat](images/pubg-win-stat.jpg)
 
-**Lack of In-Depth Explanations:** While PUBG Mobile provides a tutorial and tooltips, some players may find that the explanations provided are not detailed enough. In-depth explanations about advanced tactics, weapon statistics, or complex game mechanics may be lacking, leaving players to seek information from external sources.
+Then your next step option is on the right hand side. We have: Lobby, Share Stats, Poster and an arrow button in the middle right. Lobby means return to the lobby, i guess you know what share stats button will do, Poster button will capture your screen and display it as a poster which you can share it later on throught social media channels. 
+The arrow button on the right side of the win screen in PUBG Mobile serves as a navigation tool to proceed to the next screen or stage after achieving victory in a match. By tapping or clicking on the arrow button, players can progress to the subsequent screen, which typically includes rewards, statistics, or options to return to the lobby or continue playing. It allows players to smoothly transition to the next phase of their gameplay experience after emerging victorious in the game.
 
-**Language Barriers:** PUBG Mobile is played by a global audience, and language barriers can pose challenges for players who are not fluent in the game's default language. In some cases, translations may not be accurate or may be incomplete, leading to confusion and difficulty in understanding instructions and tooltips.
 
 
-**Time Investment:** PUBG Mobile is a complex game that requires a significant time investment to become proficient. Some players may find it difficult to dedicate the necessary time to learn and improve their skills, which can impede their progress and enjoyment of the game.
+![pubg-win-sub-screen](images/pubg-win-sub-screen.jpg)
 
-**Lack of Adaptive Learning:** PUBG Mobile currently does not have a sophisticated adaptive learning system that tailors the learning experience to individual players' needs. While the tutorial and practice modes provide a general foundation, the game does not adapt its guidance based on players' specific strengths, weaknesses, or preferred learning styles.
 
-### 2.5.2. Efficiency
+The eye icon located at the end of each row is designed to open up a person's information table. However, the choice of using an eye icon for this action can sometimes lead to confusion among users. While the eye symbol generally conveys the idea of "seeing" something, it may not immediately indicate what specific information is being referred to.
 
-#### Good Points
+To address this potential confusion, an alternative approach could be implemented. Rather than relying solely on the eye icon, the mechanism could be modified to allow users to click anywhere within the row to access the person's information. This approach offers a more intuitive and straightforward interaction, eliminating the need for users to search for a specific icon to perform the action.
 
-**Navigation Speed:**: Players can quickly navigate through menus, settings, and in-game interfaces to access various features and options (such as where to start the match, friend list, shops, battle pass, ...). Everything is scattered around the edge of the screen to give your in-game character the highlight. Also,  there is always an Exit button on the top right to undo action and exit the dialogue.
+By simplifying the process and providing a clearer indication of how to access the desired information, the user experience can be enhanced. This revised mechanism would ensure that users can easily and efficiently access the person's details without any uncertainty or confusion.
 
-![pubg-image-4](images/pubg-navigation.png)
+<!-- The majority of players have the intention to collect the info of first 3 column and the last column. Why do we need redundant information? -->
+<!-- Hiếu viết cái dùm t ii, T bí cái screen này vcl hong biết phân tích sao -->
 
-**Effective Looting and Inventory Management:**
+To gain a comprehensive and contrasting perspective among players and determine who contributes the most within a team, it can be said that optimizing the comparison of stats between teammates is crucial. By adopting this approach, we can efficiently assess and compare various important factors such as kill count, revives, distance traveled, survival time, energy consumption, and many other aspects. By considering these metrics, we can evaluate each player's contribution within the team and identify the individuals with the best performance.
 
-Players can easily perform actions such as swapping items between their inventory and the ground, dropping items from their inventory, or picking up items from the ground with the auto-pickup feature. Players just need to tap on the item they want to pick up and the item will be automatically added to their inventory. The auto-pickup feature can be customized to prioritize certain items over others, allowing players to quickly collect the items they need.
+Comparing stats between teammates helps establish an evaluation and classification system, enabling us to uncover and maximize the potential of each team member. It also provides a basis for strategizing and assigning roles during matches. By leveraging this information, we can achieve better coordination and teamwork, ultimately enhancing combat capabilities and achieving success in the game.
 
-PUBG Mobile typically offers options to sort and filter the inventory based on different criteria such as item type, rarity, and quantity. This helps players quickly find and manage specific items. By selecting an item in the inventory, players can access additional information about that item, such as its stats, attachments compatibility, and any customization options available.
+By optimizing the comparison process through the examination of stats between teammates, we can ensure fairness and transparency in determining the player with the most significant contribution. This fosters a level playing field and motivates each player to strive for excellence and achieve their best performance in PUBG.
 
-![pubg-inventory](images/image-pubg-2.png)
+### Distinguish between enemies and teammates
 
-#### Drawbacks and Hindrances
+![pubg-image-2](images/pubg-cues.jpg)
 
-The drawback lies in the space in which the user interacts with the game, and server connection speed will depend on many factors such as network speed, which device to use to play the game.
 
-**Overloaded Interaction Space:**
+The color tag serves as a crucial visual marker to identify and distinguish your teammates from other players. It is prominently displayed over the character model of each teammate, as well as on the map and compass sections. This color-coded system provides a quick and efficient means of recognizing your teammates' positions and movements amidst the chaos of battle. By instantly identifying the color tag associated with your teammates, you can effectively coordinate strategies, communicate vital information, and avoid accidental friendly fire.
 
+Moreover, apart from the visual cues, the sound of your teammate's footsteps plays a significant role in distinguishing them from enemy players. The audio design in PUBG ensures that the sound generated by your teammates' movements is distinctly different from that of enemies. This intentional distinction allows you to focus on and accurately locate potential threats in the vicinity. By recognizing and distinguishing the audio cues of your teammates' footsteps, you can maintain situational awareness and respond promptly to enemy encounters, enhancing your team's chances of success.
 
-**Load-time and Matchmaking:**
+In combination, the color tag system and differentiated sound effects for teammate footsteps create a cohesive and immersive gameplay experience. These features not only facilitate effective teamwork and coordination but also contribute to the overall realism and strategic depth of PUBG. By leveraging these visual and auditory cues, players can form cohesive units, adapt to dynamic situations, and forge a competitive advantage on the battleground.
 
-The time it takes to find a match in each map in PUBG MOBILE can vary depending on several factors, including the region, time of day, and the player’s rank. On average, it typically takes around 30 seconds to a few minutes to find a match in popular maps such as Erangel, Miramar, Sanhok, and Vikendi. However, less popular or newer maps may take longer to find a match. Additionally, the time it takes to find a match can vary depending on the player’s rank. Higher-ranked players may experience longer matchmaking times due to the smaller pool of players available at their skill level.
 
-**Lag and Frame Rate Issues:**
 
-Lag and frame rate issues can occur in PUBG MOBILE due to a variety of factors, including network connectivity, device performance, and graphics settings. These issues can negatively impact the user experience by causing delays in gameplay, making it difficult to aim accurately, or resulting in crashes or disconnections.
 
 
 
-### 2.5.3. Memorability
 
-Memorability in usability refers to how easily users can remember how to interact with a system or user interface after a period of time. In the context of PUBG MOBILE, memorability plays a vital role in creating a positive user experience. Here are some aspects of memorability in the usability of PUBG MOBILE:
 
-- **Consistent Design Patterns:** PUBG MOBILE follows consistent design patterns throughout the user interface. This means that similar actions and interactions are represented in a uniform way across different screens and menus. For example, the placement of buttons, icons, and menu structures remain consistent, making it easier for users to remember how to navigate and interact within the game.
+<!-- 
+### Driving experience 
 
-- **Help and Support:** The game offers in-game help and support features, including tooltips, prompts, and contextual information. These resources can aid players in refreshing their memory on specific features or mechanics when needed.
 
-- **Personalized Settings:** PUBG MOBILE allows users to customize their settings, including controls, sensitivity, and UI elements. By giving players the ability to tailor the game experience to their preferences, it increases memorability as they can configure the game to match their individual playstyle and needs.
+bỏ khúc này đi tại nó có nhiều mode điều khiển quá. Hồi đó thì có lái moto, xe oto, xe tăng, h có thêm khủng rồi bay bủm này nọ.
+t thấy tốn công lắm nên bỏ đi ko kịp đâu
+-->
 
-![pubg-settings](images/pubg-settings.png)
 
-- **Visual Cues and Feedback:** PUBG MOBILE incorporates visual cues and feedback to reinforce actions and provide information to the player. This can include highlighting interactive elements, displaying status indicators, and providing visual and audio feedback when actions are performed successfully. These cues help users remember the effects of their actions and understand the outcome of their interactions.
-
-- **Visual Hierarchy:** PUBG MOBILE applies visual hierarchy to highlight important elements and information. By using size, color, contrast, and spacing effectively, the interface guides users' attention to key elements, making them more memorable and easier to locate and interact with in the future.
-
-By focusing on consistent design patterns, intuitive controls, helpful onboarding, personalized settings, visual cues, and feedback, PUBG MOBILE aims to enhance the memorability of the user interface. This, in turn, improves the overall user experience by reducing the cognitive load on players and enabling them to quickly recall how to interact with the game even after periods of inactivity.
-
-### 2.5.4. Errors
-
-Errors in usability refer to instances where users encounter difficulties or make mistakes while interacting with the user interface. Identifying and addressing these usability errors is crucial for improving the overall user experience. Here are some common usability errors that can occur in PUBG MOBILE:
-
-**Inconsistent Controls:**
-
-- Changing control schemes or button mappings without clear indication or explanation, causing confusion and errors in gameplay.
-- Variation in control sensitivity or responsiveness across different sections of the game, leading to inconsistent user experiences and potential errors.
-
-For example, there are three main situations that need direction control: the landing, the walking, and the driving page. Players can figure out the direction control button on the left (the rocker pad). Pubg mobile provided the rocker pad to control directions in landing, walking status. But the directional pad of driving is directional pads with horizontal and vertical pads on two sides. The direction control is inconsistent with those three main situations. Thus, players need more effort to learn how to perform in the driving situation. As for the opportunity to improve, Pubg mobile can also provide more customized options on control layout of status.
-
-![pubg-layout-change](images/pubg-btn-layout-2.png)
-
-**Poor Button Placement:**
-
-- Placing critical buttons, such as the fire button or grenade throw button, too close together, resulting in accidental taps or erroneous actions.
-- Buttons placed in non-intuitive locations, making it difficult for users to locate or access them quickly, leading to delays and errors in gameplay.
-
-![pubg-btn-layout](images/pubg-btn-layout.png)
-
-### 2.5.5. Satisfaction
-
-Satisfaction in the context of usability refers to the overall level of enjoyment, fulfillment, and positive user experience that PUBG MOBILE provides. Here are specific aspects related to satisfaction in PUBG MOBILE:
-
-**Gameplay Experience:**
-
-- Engaging Gameplay: The satisfaction of players depends on the game's ability to provide engaging and immersive gameplay. This includes exciting combat encounters, strategic decision-making, and a sense of achievement when accomplishing objectives or winning matches.
-
-- Fairness and Balance: Players' satisfaction is influenced by the game's fairness and balance. This includes factors such as matchmaking systems that create balanced matches, anti-cheat measures to ensure a level playing field, and the absence of game-breaking exploits or unfair advantages.
-
-**Visual and Audio Design:**
-
-- High-Quality Graphics: Well-designed and visually appealing graphics contribute to player satisfaction. Detailed environments, realistic character models, and special effects enhance the immersive experience and provide visual enjoyment.
-
-- Engaging Sound Design: The game's audio effects, including background music, weapon sounds, and environmental audio, contribute to the satisfaction of players. High-quality and immersive sound design adds depth and enhances the overall gaming experience.
-
-**Reward System:**
-
-- Progression and Unlockables: A satisfying reward system that offers meaningful progression and unlockable content keeps players engaged. This can include character customization options, weapon skins, emotes, or in-game currency that can be earned through gameplay achievements.
-
-- Skill-Based Rewards: Recognizing and rewarding player skill and accomplishments can increase satisfaction. This can be through ranking systems, leaderboards, or exclusive rewards for high-performing players, fostering a sense of accomplishment and healthy competition.
-
-**Community and Social Features:**
-
-- Social Interaction: Satisfying experiences can be fostered through robust social features, such as chat systems, friend lists, and the ability to form teams or squads with friends or other players. Strong community engagement and social interaction contribute to player satisfaction.
-
-- Events and Tournaments: Regularly hosting in-game events, tournaments, or challenges provides additional avenues for player engagement and satisfaction. These events can offer exclusive rewards, showcase player skills, and create a sense of community participation.
-
-## 2.6. Interaction Metaphor
-
-**Shooting and aiming:**
-
-- Interaction metaphor: Familiar virtual firearms from other games.
-- Specifics:
-    - On-screen controls mimic the actions of holding a weapon.
-    - Players tap or hold buttons to aim and shoot.
-    - Swiping or dragging gestures can simulate the movement of adjusting aim or firing.
-
-**Movement and navigation:**
-
-- Interaction metaphor: Physical movement and navigation similar to that of other games, with up/down/left/right controls.
-- Specifics:
-    - Virtual joystick allows players to control movement, mimicking walking or running.
-    - Swipe gestures enable actions like turning or changing directions.
-    - Buttons or gestures for crouching, jumping, or climbing simulate real-world movements.
-
-![pubg-movement-metaphor](images/pubg-movement-metaphor.jpg)
-
-**Inventory management:**
-
-- Interaction metaphor: Backpack or storage space
-- Specifics:
-    - Players can drag and drop items within their inventory to organize or equip them.
-    - Swiping or scrolling actions allow players to navigate through their inventory.
-    - Tap and hold gestures enable options like discarding or dropping items.
-
-**Map and location:**
-
-- Interaction metaphor: Paper map or GPS
-- Specifics:
-    - Pinch-to-zoom and panning gestures allow players to explore different parts of the map.
-    - Markers or icons can be placed on the map to indicate specific locations or objectives.
-    - Tapping on the map reveals additional details or options for navigation.
-
-**Communication and teamwork:**
-
-- Interaction metaphor: Real-world communication methods
-- Specifics:
-    - Voice chat functionality enables players to communicate verbally with teammates.
-    - Text messaging interfaces allow players to type and send messages to teammates.
-    - Quick chat options or predefined phrases can be used for faster communication during gameplay.
-
-**Looting and item interaction:**
-
-- Interaction metaphor: Searching and handling objects
-- Specifics:
-    - Players can tap or swipe on lootable objects to collect items, mimicking the action of picking up objects in the real world.
-    - Drag and drop gestures can be used to move items between inventory slots or interact with them (e.g., combining items or using consumables).
-    - Visual cues such as highlighting or tooltips provide feedback when interacting with items.
-
-**Health management and healing:**
-
-- Interaction metaphor: Healthbar similar to other games with some visual indicators and healing items.
-- Specifics:
-    - Players can tap or use gestures to access their health management interface.
-    - Drag and drop gestures can be used to consume healing items, such as bandages or medkits.
-    - Visual indicators or progress bars can show the healing process.
-
-![pubg-healt-metaphor](images/pubg-health-metaphor.png)
-
-## 2.7. Possibilities of UX Hindrances
-
-- **Visual Distractions:** Players with visual impairments succh as photosensitivity or color blindness may encounter difficulties due to visual distractions in the game. This can include excessive visual effects, such as explosions or smoke, that may obstruct their view or make it difficult to locate enemies. Similarly, players with color blindness may have difficulty distinguishing between different colors or color-coded elements in the game. 
-- **Auditory Distractions:** Players with hearing impairments may encounter difficulties due to auditory distractions in the game. This can include loud or sudden sounds, such as explosions or gunfire, that may be distracting or overwhelming for players with hearing impairments.
-- **Network Connectivity:** Players with poor network connectivity may experience lag or delays in gameplay, which can negatively impact their experience. This can include delays in movement, aiming, or shooting, which can hinder their ability to perform actions accurately and efficiently.
-- **Level Differences:** Players with different skill levels may encounter difficulties due to level differences in the game. This can include matchmaking issues, where players of different skill levels are matched together, resulting in unfair or unbalanced matches. Similarly, players with lower skill levels may find it difficult to compete against more experienced players, leading to frustration and dissatisfaction.
 
 # References
 
