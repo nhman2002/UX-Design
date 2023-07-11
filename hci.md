@@ -442,6 +442,8 @@ Moreover, apart from the visual cues, the sound of your teammate's footsteps pla
 
 In combination, the color tag system and differentiated sound effects for teammate footsteps create a cohesive and immersive gameplay experience. These features not only facilitate effective teamwork and coordination but also contribute to the overall realism and strategic depth of PUBG. By leveraging these visual and auditory cues, players can form cohesive units, adapt to dynamic situations, and forge a competitive advantage on the battleground.
 
+However, in the event that you accidentally shoot your teammate, such as when the enemy and your teammate are in close proximity and you unintentionally hit your teammate while aiming at the target, the game mechanism has implemented certain safeguards to prevent your teammate from taking actual damage. Fortunately, your teammate will be spared from the actual loss of health or any detrimental effects caused by friendly fire. Nonetheless, there will still be visible hit effects on your teammate, serving as a visual indicator of the interaction. This design choice ensures that you do not bear the full responsibility for the unintended mistake, and it prevents potential frustrations and conflicts among teammates that may arise from accidental friendly fire incidents. By incorporating such protective measures, PUBG promotes a more forgiving and cooperative gameplay environment, encouraging players to focus on tactical decision-making and team synergy rather than being overly burdened by accidental errors.
+
 # References
 
 - https://tournafest.com/blog/all-about-pubg-a-case-study/
