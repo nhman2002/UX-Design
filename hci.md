@@ -338,11 +338,13 @@ When we exit, the action display changes, we will have a joy stick to control th
 
 When we open the map, we can view the longitude and the latitude, just like in real life maps. If players don't like this feature, they can turn it off.  We use the map to view our objectives, our teammates, our enemies, our location, etc. It is a very important feature in the game, and is also the most used feature .However, the map cannot show the terrain height, which is a drawback for players who want to know this information.
 
-<!-- ![pubg-map](images/map.jpg) -->
+![pubg-map](images/map.jpg)
 
 ![pubg-map-ring](images/map-ring.jpg)
 
-For the ring, it's a white circle that keeps shrinking over time. This is the *safe zone* that players must stay in to avoid being killed by the *blue zone* (which is the area outside the white circle). The blue zone will keep shrinking over time, and the damage it deals to the players will increase as it shrinks. If you're in this zone, you will be vulnerable and your health bar decreases over time. This is to prevent players from camping in one place for too long. The smaller the white ring, the bigger the damage that the blue zone has. There is also a red circle, which is the *danger zone* where bombs will be dropped. The color red is common for signifying dangers in real life, and the developers of the game also use this color to signify the danger.
+For the ring, it's a white circle that keeps shrinking over time. This is the **safe zone** that players must stay in to avoid being killed by the **blue zone** (which is the area outside the white circle). The blue zone will keep shrinking over time, and the damage it deals to the players will increase as it shrinks. If you're in this zone, you will be vulnerable and your health bar decreases over time. This is to prevent players from camping in one place for too long. The smaller the white ring, the bigger the damage that the blue zone has. There is also a red circle, which is the *danger zone* where bombs will be dropped. The color red is common for signifying dangers in real life, and the developers of the game also use this color to signify the danger. The bombed area Where the player takes damage when bombs are dropped. If the your character is out side of a man-made structure. Your health bar will gradually decrease when hit by a bomb, which may result in you being removed from the game. This area is marked as a **red zone** on your map. This area will appear randomly in the map so we can't predict it. This will make the game more unpredictable, make the player more interested and more competitive.
+
+
 
 To illustrate the concept more precisely, you can view the image below.
 
@@ -350,17 +352,44 @@ To illustrate the concept more precisely, you can view the image below.
 
 The position of your character is identified with the yellow icon. There is also a small arrow to show the direction that your character is facing for better navigation.
 
+
+![pubg-minimize-map](images/pubg-minimize-map.png)
+
+It's worth noting that the ring warning is still displayed even when the map is minimized. For instance, a running figure icon represents your character, while a white strip on the bar indicates that you are within the safe zone. The blue section of the bar represents the vulnerable zone, which expands over time as it gets closer to your location. This feature proves beneficial for gamers, whether they are playing in big or small map mode.
+
+The red warning icon signifies the start of the ring shrinking process. It initiates a countdown each time, indicating when the contraction will occur. The choice of red color for the icon is fitting, as red is often associated with danger and severity. This color selection effectively communicates the imminent threat posed by the shrinking ring. The triangle shape of the icon draws inspiration from real-world road signs used for conveying danger and warnings to road users. By incorporating this familiar shape, the game leverages a metaphor that aligns with the purpose of real-world signs. The use of the red warning icon in the game serves as a meaningful and effective metaphor, alerting players to the dangerous nature of the situation and prompting them to take appropriate action.
+
+
+Additionally, there are instances when you may encounter an orange bullet or footsteps with an arc shape. These visual cues indicate the direction from which the corresponding sound originates. The mechanism functions akin to a radar system, allowing players to quickly identify the source of noise and respond accordingly. The association with radar is intuitive for many individuals, as they are familiar with its operation and can easily understand how to interpret and utilize this information effectively.
+
+
+
+
+
 ### In-game Controller
 
-This is the full layout of PUBG controller on walking mode. It's the default controller on mobile phone, and is the 1st layout that players can use to interact with the game. You can also customize it in the settings.
 
+This is the complete layout of the PUBG controller in walking mode, which serves as the default controller on mobile phones. This initial layout is what users first interact with when starting the game. Although customization options are available later on, let's examine the default layout provided by the game.
 ![pubg-controller](images/controller.jpg)
 
-However, there are some drawbacks in this layout: **everything is so chaotic.**
+At first glance, the layout appears **quite chaotic**. The top-right corner features the map, settings button, microphone access, volume control, and potentially more, depending on personal customization. The functions of the remaining buttons may require some exploration.
 
+Let's consider the optimization of the default layout for players who typically use their thumbs while playing. One aspect that raises concerns is the sprint action. To sprint, users must drag the joystick towards the sprint button, which creates a considerable gap. This can be inefficient and lead to thumb fatigue due to excessive and out-of-range movements, as well as subsequent inaccuracies in execution.
+
+
+![pubg-controller-attack-btn](images/controller-attack-btn.jpg)
+
+
+Speaking of inaccuracies, the bullet icon on the left is designed to be the size of an average person's thumb when pressed against a surface. It is optimized for the game rather than the user. As players spend more time in the game, they often increase the size of this button to 150% or more to enhance their response time compared to others. This tendency arises due to the highly competitive nature of the game. However, enlarging the button results in running out of vertical space on the screen, which prompts players to find alternative ways to manage it. Some players opt for using tablets instead of mobile phones, as tablets offer more screen space. This creates an imbalance for those who continue playing on mobile phones, as tablets provide advantages in terms of quick actions and improved enemy detection rates.
+
+![pubg-controller-kit-slot](images/controller-kit-slot.jpg)
+![pubg-controller-grenade-slot](images/controller-grenade-slot.jpg)
+
+
+Let's examine the two equipment slots. The health kit slot on the left appears smaller than the grenade slot on the right. This can be explained by the fact that the weight of a specific health kit can exceed that of a grenade, resulting in fewer slots being available for health kits. However, the asymmetric layout can make users feel uncomfortable. Humans tend to prefer symmetry and perfection. Therefore, it might be beneficial to adjust these two slots to have an equal size and placement.
 #### Crowded Interaction Space
 
-There are just too much buttons. We have the map at the top-right corner, as well as the settings button, micro phone access, volume access, etc. The information is too much for players to process at once, especially for new gamers who are still unfamiliar with the game. Moreover, due to having an excessive amount of buttons, the size of each button is reduced to fit the screen. This will cause the buttons to be smaller, and it will be harder for players to press on them. In some game scenarios where it requires players to perform quick actions, this will be a drawback for them. While players typically use only 2-4 fingers to interact with the game, there are more than 20 buttons available for interaction. This overload of buttons can overwhelm users and impede their ability to perform actions swiftly and accurately, not to mention the so-called *spider crawl* where players have to use all their fingers to press on the buttons. 
+There are just too much buttons. We have the map at the top-right corner, as well as the settings button, micro phone access, volume access, etc. The information is too much for players to process at once, especially for new gamers who are still unfamiliar with the game. Moreover, due to having an excessive amount of buttons, the size of each button is reduced to fit the screen. This will cause the buttons to be smaller, and it will be harder for players to press on them. In some game scenarios where it requires players to perform quick actions, this will be a drawback for them. While players typically use only 2-4 fingers to interact with the game, there are more than 20 buttons available for interaction. This overload of buttons can overwhelm users and impede their ability to perform actions swiftly and accurately, not to mention the so-called ***spider crawl*** where players have to use all their fingers to press on the buttons. 
 
 ![pubg-fingers](images/pubg-fingers.jpg)
 
@@ -385,6 +414,66 @@ Consider a scenario: I'm using a weapon that requires green ammunition, and I've
 The game's response and realism in terms of aiming through scopes and weapon recoil contribute to an immersive gameplay experience. To further enhance the realism, incorporating the vibration mode feature available on phones and tablets could be a viable option. Utilizing vibration feedback when firing weapons or engaging in certain actions can provide players with a tactile sensation, closely mimicking the real-world experience. While it is true that enabling vibration mode may result in increased battery consumption, offering it as an optional feature allows gamers to choose whether they prioritize the added realism or battery life. This way, players can customize their gaming experience based on their preferences and device capabilities.
 
 ![pubg-image-2](images/pubg-cues.jpg)
+
+### Win screen
+
+What happen if we win, the screen start to darken and a logo in the middle said **Winner Winner Chicken Dinner**. Its the slogan of the game. What does it means, just a catchy phrase, another meaning is you are the best and everyone else is bad as a chiken. 
+
+![pubg-win-screen](images/pubg-win-screen.jpg)
+Next, we'll have another screen coming right up. Its your personal feat, include your rank in this round, your kill, your reward. Base on your feat, which include your total kill, total damage, how long did you survive in the game, how you support your team,... You will have an achievement as a dog tag on the bottom-left side.
+If you have more than a achievement, so does your dog tag. The representation of your achievement as a dog tag Very similar to the etiquette in the US military when a soldier enlists they will be given a tag dog when their personal information. Even after finishing their military service, some people still wear it as a pride, to remember their glory days. This representation is tend to make people proud of themselves and the achievements they have achieved in the game. (`interaction metaphor`)
+![pubg-win-stat](images/pubg-win-stat.jpg)
+
+Then your next step option is on the right hand side. We have: Lobby, Share Stats, Poster and an arrow button in the middle right. Lobby means return to the lobby, i guess you know what share stats button will do, Poster button will capture your screen and display it as a poster which you can share it later on throught social media channels. 
+The arrow button on the right side of the win screen in PUBG Mobile serves as a navigation tool to proceed to the next screen or stage after achieving victory in a match. By tapping or clicking on the arrow button, players can progress to the subsequent screen, which typically includes rewards, statistics, or options to return to the lobby or continue playing. It allows players to smoothly transition to the next phase of their gameplay experience after emerging victorious in the game.
+
+
+
+![pubg-win-sub-screen](images/pubg-win-sub-screen.jpg)
+
+
+The eye icon located at the end of each row is designed to open up a person's information table. However, the choice of using an eye icon for this action can sometimes lead to confusion among users. While the eye symbol generally conveys the idea of "seeing" something, it may not immediately indicate what specific information is being referred to.
+
+To address this potential confusion, an alternative approach could be implemented. Rather than relying solely on the eye icon, the mechanism could be modified to allow users to click anywhere within the row to access the person's information. This approach offers a more intuitive and straightforward interaction, eliminating the need for users to search for a specific icon to perform the action.
+
+By simplifying the process and providing a clearer indication of how to access the desired information, the user experience can be enhanced. This revised mechanism would ensure that users can easily and efficiently access the person's details without any uncertainty or confusion.
+
+<!-- The majority of players have the intention to collect the info of first 3 column and the last column. Why do we need redundant information? -->
+<!-- Hiếu viết cái dùm t ii, T bí cái screen này vcl hong biết phân tích sao -->
+
+To gain a comprehensive and contrasting perspective among players and determine who contributes the most within a team, it can be said that optimizing the comparison of stats between teammates is crucial. By adopting this approach, we can efficiently assess and compare various important factors such as kill count, revives, distance traveled, survival time, energy consumption, and many other aspects. By considering these metrics, we can evaluate each player's contribution within the team and identify the individuals with the best performance.
+
+Comparing stats between teammates helps establish an evaluation and classification system, enabling us to uncover and maximize the potential of each team member. It also provides a basis for strategizing and assigning roles during matches. By leveraging this information, we can achieve better coordination and teamwork, ultimately enhancing combat capabilities and achieving success in the game.
+
+By optimizing the comparison process through the examination of stats between teammates, we can ensure fairness and transparency in determining the player with the most significant contribution. This fosters a level playing field and motivates each player to strive for excellence and achieve their best performance in PUBG.
+
+### Distinguish between enemies and teammates
+
+![pubg-image-2](images/pubg-cues.jpg)
+
+
+The color tag serves as a crucial visual marker to identify and distinguish your teammates from other players. It is prominently displayed over the character model of each teammate, as well as on the map and compass sections. This color-coded system provides a quick and efficient means of recognizing your teammates' positions and movements amidst the chaos of battle. By instantly identifying the color tag associated with your teammates, you can effectively coordinate strategies, communicate vital information, and avoid accidental friendly fire.
+
+Moreover, apart from the visual cues, the sound of your teammate's footsteps plays a significant role in distinguishing them from enemy players. The audio design in PUBG ensures that the sound generated by your teammates' movements is distinctly different from that of enemies. This intentional distinction allows you to focus on and accurately locate potential threats in the vicinity. By recognizing and distinguishing the audio cues of your teammates' footsteps, you can maintain situational awareness and respond promptly to enemy encounters, enhancing your team's chances of success.
+
+In combination, the color tag system and differentiated sound effects for teammate footsteps create a cohesive and immersive gameplay experience. These features not only facilitate effective teamwork and coordination but also contribute to the overall realism and strategic depth of PUBG. By leveraging these visual and auditory cues, players can form cohesive units, adapt to dynamic situations, and forge a competitive advantage on the battleground.
+
+
+
+
+
+
+
+
+<!-- 
+### Driving experience 
+
+
+bỏ khúc này đi tại nó có nhiều mode điều khiển quá. Hồi đó thì có lái moto, xe oto, xe tăng, h có thêm khủng rồi bay bủm này nọ.
+t thấy tốn công lắm nên bỏ đi ko kịp đâu
+-->
+
+
 
 # References
 
