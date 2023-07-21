@@ -34,10 +34,76 @@ The report details and analyzes a series of user research methods conducted for 
 <!-- more details after data came in -->
 
 # Key findings
+- **Lack of Members**: The primary concern expressed by users is the difficulty in finding enough members to participate in sports activities. Many respondents mentioned that they often face challenges in forming complete teams, leading to canceled or postponed games.
+
+- **Preference for Football**: Among the various sports activities, football emerged as the most popular choice among users. It is evident that a significant portion of potential participants is interested in football-related events.
+
+- **Time and Schedule Constraints**: Users often struggle to coordinate schedules and find suitable time slots that accommodate everyone's availability. Conflicting academic or work commitments frequently hinder their ability to participate in sports activities.
+
+- **Social Barriers:** Some users feel hesitant to join sports activities due to the fear of meeting new people or not knowing anyone in the group. Overcoming this social barrier is crucial to encouraging more individuals to participate.
+
+- **Communication**: Users emphasized the importance of efficient communication within the sports groups. An ideal solution should facilitate easy coordination, notifications, and updates to ensure smooth sports activity planning.
+
+- **Interest-based Matching**: Users expressed a desire for the application to match them with others who share similar interests in specific sports activities. Personalizing the matching process could lead to more enjoyable and fulfilling experiences.
 
 # Methods
+To obtain the above findings, the following research methods were employed:
+
+## 1. Online Survey: 
+An online survey was designed and conducted to gather quantitative data and gain an overall understanding of the users' perspectives on sports activities. The survey was distributed to a targeted group of university students who expressed an interest in sports. The survey consisted of structured questions covering the following key aspects:
+- *What sports do you like to play?*<br>
+This question aimed to identify the various sports activities that respondents were interested in engaging in. It allowed researchers to understand the diversity of sports preferences among the target audience.
+- *How many times a week do you play that sport?*<br>
+The frequency of sports participation provided insights into the level of interest and dedication of respondents towards their preferred sports activities. It helped gauge the enthusiasm for regular sports engagement.
+- *How many hours per game?*<br>
+This question sought to understand the typical duration of sports games or activities that respondents participated in. It helped assess the time commitment required for each sports session.
+- *What do you usually prepare before playing, and how do you plan for sports activities? (e.g., choosing a place, inviting friends, renting equipment)*<br>
+This open-ended question aimed to capture the pre-game preparations and planning strategies of respondents. It provided insights into the typical steps taken by participants to organize sports activities and gather necessary resources.
+- *Do you have any difficulties in preparing and planning for sports activities? If yes, please elaborate.* <br>
+This question focused on identifying the specific challenges faced by respondents when preparing for and planning sports activities. It allowed participants to express any obstacles they encountered in the process.
+
+- *What issues do you care about in the process of playing that sport? (e.g., safety, competitiveness, sportsmanship)*<br>
+The purpose of this question was to understand the concerns and priorities of respondents during the sports activity itself. It aimed to identify the aspects that participants valued and considered important while playing the sport.
+## 2. Semi-Structured Interviews: 
+To gain deeper insights into the users' experiences and to explore their motivations, challenges, and needs regarding sports activities, semi-structured interviews were conducted with selected survey participants. The participants for interviews were purposefully chosen to include individuals with diverse sports interests and varying levels of engagement.
+
+The interviews were conducted in a one-on-one format, allowing participants to express their thoughts and experiences openly. The interview questions were designed to be open-ended, encouraging participants to share their perspectives freely. The following topics were covered during the interviews:
+
+- **Motivations and Interests**: Participants were asked about their motivations for participating in sports activities and their specific interests in particular sports.
+
+- **Challenges Faced**: The interviews explored the challenges and barriers participants encountered in forming teams and organizing sports events.
+
+- **Suggestions for Improvement**: Participants were encouraged to provide suggestions and ideas for a potential solution to address the issue of finding members for sports activities.
+
+The semi-structured interviews provided rich qualitative data that complemented the quantitative findings from the online survey.
+
+## 3. Fly on the wall: 
+During these observations, the researchers took note of the following aspects:
+
+- **Group Dynamics**: Observing how participants interacted with each other, the formation of teams, and any challenges encountered during the process.
+
+- **Communication Patterns**: Noting how participants communicated and coordinated with each other to plan and execute sports activities.
+
+- **Social Barriers**: Identifying any social barriers or hesitations that hindered potential participants from joining the activities.
+
+The fly on the wall observations added contextual insights to the challenges identified through the survey and interviews, allowing for a more holistic understanding of the problem.
 
 # Recommendations
+Based on the key findings, the following recommendations are proposed for creating an effective supporting application:
+
+- **User-friendly Interface**: Develop a user-friendly and intuitive interface for the application to ensure easy navigation and a positive user experience. Emphasize simplicity and clarity in design to cater to a diverse user base.
+
+- **Activity-Specific Groups**: Implement activity-specific groups or channels within the app to cater to various sports interests. This allows users to find like-minded individuals for their preferred sports, including football, which appears to be the most popular choice.
+
+- **Smart Scheduling and Availability**: Integrate a smart scheduling system that considers users' availability and constraints to suggest suitable time slots for sports activities. This could minimize conflicts and improve participation rates.
+
+- **Icebreaker Features**: Include icebreaker features or introductory sections within the app to help users get to know each other before meeting for sports activities. This can alleviate social barriers and encourage more people to join.
+
+- **Real-time Communication**: Provide real-time communication tools such as instant messaging or push notifications to facilitate seamless coordination and updates within sports groups.
+
+- **Gamification and Incentives**: Consider implementing gamification elements, such as rewards or points systems, to motivate consistent participation and foster a sense of community among users.
+
+- **Feedback Mechanism**: Integrate a feedback mechanism within the app to collect user suggestions and improve the platform continually. Actively listen to users' input and adapt the application based on their needs.
 
 # Appendix A: Personas
 
