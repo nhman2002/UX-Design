@@ -23,33 +23,56 @@ The research will be conducted, mainly but not limited to, university students w
 
 With the above reasons, though restricted to university students, we believe that the research will be able to provide sufficient information and insights.
 
+# Limitations
+
+## Limitation 1: Sample size
+
+Our group interviewed X people. Our client’s user size ranges from Y-Z per day depending on the month (for example, holiday months are much busier than non-holiday months). Therefore, X people is most likely not an accurate representation of Collage.com’s users.
+
+## Limitation 2: Sample Selection
+
+Our interview participants were not randomly selected. We asked people we knew, such as classmates and friends, because they were easy to access. In order to be truly random, we could have generated a list of all our classmates, got rid of those not in our target demographic, and then randomly selected people from that list. However, this would have been time consuming and difficult to do.
+
+## Limitation 3: Problem Scope
+
+The problem we are analyzing is also limited. It was somewhat difficult to create interview questions that would help us understand more about this problem without asking our participants specific usability problems or showing them the appplication. Since this phase was not concerned about an applications specific usability issues, we asked more general questions but perhaps did not receive as much as insight to the problem as we would have liked. 
+
 # Summary
 
 The report details and analyzes a series of user research methods conducted for assessment of the problem domain. The research methods include:
 
 - Online survey: to gather an overall understanding of the data and to identify the problems that the users are facing.
-- Interview: specifically, semi-structured interview, to gain insights into more detailed information about the users on the problem.
+- Interview: specifically, semi-structured interview, to gain insights into more detaiSled information about the users on the problem.
 - Fly on the wall: observation real-life situations of some common sports activities to gain insights into the users' context and environment.
 
-<!-- more details after data came in -->
+## Key findings
 
-# Key findings
+### Key findings 1
+
 - **Lack of Members**: The primary concern expressed by users is the difficulty in finding enough members to participate in sports activities. Many respondents mentioned that they often face challenges in forming complete teams, leading to canceled or postponed games.
+- **Recommendation**: The application should focus on facilitating the process of finding members for sports activities. It should provide a platform for users to connect with like-minded individuals and form teams for their preferred sports.
 
-- **Preference for Football**: Among the various sports activities, football emerged as the most popular choice among users. It is evident that a significant portion of potential participants is interested in football-related events.
+### Key findings 2
 
-- **Time and Schedule Constraints**: Users often struggle to coordinate schedules and find suitable time slots that accommodate everyone's availability. Conflicting academic or work commitments frequently hinder their ability to participate in sports activities.
+- **Preference for Football**: Among the various sports activities, football emerged as the most popular choice among users. 
+- **Recommendation**: The application should prioritize football-related activities and provide features that cater to the needs of football enthusiasts. This could help attract more users and increase participation rates. It is evident that a significant portion of potential participants is interested in football-related events.
 
-- **Social Barriers:** Some users feel hesitant to join sports activities due to the fear of meeting new people or not knowing anyone in the group. Overcoming this social barrier is crucial to encouraging more individuals to participate.
+### Key findings 3
 
-- **Communication**: Users emphasized the importance of efficient communication within the sports groups. An ideal solution should facilitate easy coordination, notifications, and updates to ensure smooth sports activity planning.
+- **Time and Schedule Constraints**: Users often struggle to coordinate schedules and find suitable time slots that accommodate everyone's availability (Conflicting academic or work,...)
+- **Recommendation**: Schedule coordination is a critical aspect of sports activity planning. The application should provide a smart scheduling system that considers users' availability and constraints to suggest suitable time slots for sports activities. This could minimize conflicts and improve participation rates.
 
-- **Interest-based Matching**: Users expressed a desire for the application to match them with others who share similar interests in specific sports activities. Personalizing the matching process could lead to more enjoyable and fulfilling experiences.
+### Key findings 4
+
+- **Communication**: Users emphasized the importance of efficient communication within the sports groups. 
+- **Recommendation**: An ideal solution should facilitate easy coordination, notifications, and updates to ensure smooth sports activity planning.
 
 # Methods
+
 To obtain the above findings, the following research methods were employed:
 
 ## 1. Online Survey: 
+
 An online survey was designed and conducted to gather quantitative data and gain an overall understanding of the users' perspectives on sports activities. The survey was distributed to a targeted group of university students who expressed an interest in sports. The survey consisted of structured questions covering the following key aspects:
 - *What sports do you like to play?*<br>
 This question aimed to identify the various sports activities that respondents were interested in engaging in. It allowed researchers to understand the diversity of sports preferences among the target audience.
@@ -64,7 +87,11 @@ This question focused on identifying the specific challenges faced by respondent
 
 - *What issues do you care about in the process of playing that sport? (e.g., safety, competitiveness, sportsmanship)*<br>
 The purpose of this question was to understand the concerns and priorities of respondents during the sports activity itself. It aimed to identify the aspects that participants valued and considered important while playing the sport.
+
+# TODO: Survey link
+
 ## 2. Semi-Structured Interviews: 
+
 To gain deeper insights into the users' experiences and to explore their motivations, challenges, and needs regarding sports activities, semi-structured interviews were conducted with selected survey participants. The participants for interviews were purposefully chosen to include individuals with diverse sports interests and varying levels of engagement.
 
 The interviews were conducted in a one-on-one format, allowing participants to express their thoughts and experiences openly. The interview questions were designed to be open-ended, encouraging participants to share their perspectives freely. The following topics were covered during the interviews:
@@ -77,36 +104,40 @@ The interviews were conducted in a one-on-one format, allowing participants to e
 
 The semi-structured interviews provided rich qualitative data that complemented the quantitative findings from the online survey.
 
-## 3. Fly on the wall: 
-During these observations, the researchers took note of the following aspects:
+For the interview questions, please refer to [Appendix B](#appendix-b-interview-question-scripts).
 
-- **Group Dynamics**: Observing how participants interacted with each other, the formation of teams, and any challenges encountered during the process.
+## 3. Still-photo survey: 
 
-- **Communication Patterns**: Noting how participants communicated and coordinated with each other to plan and execute sports activities.
+We asked users to send their own photo of their preparation for sports activities. The purpose of this survey is to acquire more information about the users' preparation for sports activities.
 
-- **Social Barriers**: Identifying any social barriers or hesitations that hindered potential participants from joining the activities.
+![Alt text](/images-2/image-3.png)
 
-The fly on the wall observations added contextual insights to the challenges identified through the survey and interviews, allowing for a more holistic understanding of the problem.
+![Alt text](/images-2/image-5.png)
 
-# Recommendations
-Based on the key findings, the following recommendations are proposed for creating an effective supporting application:
+Above are some examples of the photos that we received from the users. From the photos, we can see that most of the users are preparing for football activities. This is consistent with the result from the online survey. We can also see that the problem most of the users are facing is the lack of members. This is also consistent with the result from the data we collected.
 
-- **User-friendly Interface**: Develop a user-friendly and intuitive interface for the application to ensure easy navigation and a positive user experience. Emphasize simplicity and clarity in design to cater to a diverse user base.
+# Appendices
 
-- **Activity-Specific Groups**: Implement activity-specific groups or channels within the app to cater to various sports interests. This allows users to find like-minded individuals for their preferred sports, including football, which appears to be the most popular choice.
+## Appendix A: Personas
 
-- **Smart Scheduling and Availability**: Integrate a smart scheduling system that considers users' availability and constraints to suggest suitable time slots for sports activities. This could minimize conflicts and improve participation rates.
+![personas](/images-2/image-2.png)
 
-- **Icebreaker Features**: Include icebreaker features or introductory sections within the app to help users get to know each other before meeting for sports activities. This can alleviate social barriers and encourage more people to join.
+## Appendix B: Interview Question Scripts
 
-- **Real-time Communication**: Provide real-time communication tools such as instant messaging or push notifications to facilitate seamless coordination and updates within sports groups.
+- Demographics:
+    - Age
+    - Gender
+    - Occupation
+    - Education
 
-- **Gamification and Incentives**: Consider implementing gamification elements, such as rewards or points systems, to motivate consistent participation and foster a sense of community among users.
+## Appendix C: User Research Data
 
-- **Feedback Mechanism**: Integrate a feedback mechanism within the app to collect user suggestions and improve the platform continually. Actively listen to users' input and adapt the application based on their needs.
+## Appendix D: Affinity diagram
 
-# Appendix A: Personas
+An overall diagram of brainstorming ideas from our group members.
 
-# Appendix B: Interview Questions
+![affinity diagram](./images-2/image-1.png)
 
-# Appendix C: User Research Data
+## Appendix E: Scenarios
+
+![affinity diagram](./images-2/scenarios.jpg)
