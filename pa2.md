@@ -27,7 +27,7 @@ With the above reasons, though restricted to university students, we believe tha
 
 ## Limitation 1: Sample size
 
-Our group interviewed X people. Our client’s user size ranges from Y-Z per day depending on the month (for example, holiday months are much busier than non-holiday months). Therefore, X people is most likely not an accurate representation of Collage.com’s users.
+Our group interviewed 5 people. Our client’s user size ranges from 50-100 per day depending on the month (for example, holiday months are much busier than non-holiday months). Therefore, 5 people is most likely not an accurate representation of Personas's users.
 
 ## Limitation 2: Sample Selection
 
@@ -88,7 +88,8 @@ This question focused on identifying the specific challenges faced by respondent
 - *What issues do you care about in the process of playing that sport? (e.g., safety, competitiveness, sportsmanship)*<br>
 The purpose of this question was to understand the concerns and priorities of respondents during the sports activity itself. It aimed to identify the aspects that participants valued and considered important while playing the sport.
 
-# TODO: Survey link
+- Link to the survey: ![Survey Link](https://docs.google.com/spreadsheets/d/1oon7S1mYUGAniEh28Wl2qBwsGBZHaEN6VFHq7teFMWo/edit?fbclid=IwAR3CHA2Ibxt3VEnhRM-85_Tj6eW1UWkzzXdoRaM8KZHyZeSNti7GLIs-E1w#gid=1357530249)
+
 
 ## 2. Semi-Structured Interviews: 
 
@@ -128,9 +129,137 @@ Above are some examples of the photos that we received from the users. From the 
     - Age
     - Gender
     - Occupation
-    - Education
+    - Hobbies
+
+- Sports:
+    - What sport do you like to play?
+    - What difficulties do you often face when preparing to play that sport (number of players, yard, equipment, ...)
+    - How often do you play sports a week?
+    - If the place to play is far from where you live, do you want to go or not?
+    - If the weather suddenly changes, how will you feel and decide (no more participation, change schedule,...)
+
+- Ingame:
+    - When you play a sport with your friends (or other people), do you want to play with people of the same level?
+    - If in the match there were people more qualified than you, how would you feel?
+    - Are you interested in sports accessories, or other things?
+    - When participating in team sports, do you want a team full of people or full players? Why?
+
+- App related:
+    - What format have you used to schedule and invite friends to participate in sports with?
+    - If there was an application that provides player search and appointment scheduling, would you want to use it? Why?
+
+- Open:
+    - Do you have any other comments or questions?
 
 ## Appendix C: User Research Data
+### User Interview 1:
+- Demographics:
+    - Age: 21
+    - Gender: Male
+    - Occupation: Undrgraduate Student
+    - Hobbies: Reading, Swimming, Sports, Traveling
+
+1. What sport do you like to play?
+    - I like to play football, basketball, badminton, and swimming.
+
+2. How often do you play sports a week?
+    - I play sports about 1-2 times a week (2-3h per time)
+
+3. What difficulties do you often face when preparing to play that sport (number of players, yard, equipment, ...)
+    - I often play badminton and often lack people because everyone is busy (same schedule, ...) or have unexpected problems (bad weather, unexpected work,...)
+
+4. When you play a sport with your friends (or other people), do you want to play with people of the same level?
+    - Yes, when playing sports with friends or others, I do prefer playing with people of a similar skill level. It creates a more balanced and enjoyable experience for everyone involved, and it allows us to have competitive but friendly games.
+
+5. What format have you used to schedule and invite friends to participate in sports with?
+    - To schedule and invite friends to participate in sports, we typically use group chats or messaging apps (Messenger, Zalo,...). We share available time slots and try to find a common time that works for everyone. Sometimes, we also use shared calendars to coordinate our schedules.
+    
+6. If there was an application that provides player search and appointment scheduling, would you want to use it? Why?
+    - Yes. Such an app would streamline the process of finding players for games and help to organize matches more efficiently. It would save time and eliminate the need for manual coordination, making it easier to connect with people who share the same passion for basketball or other sports. 
+
+### User Interview 2:
+- Demographics:
+    - Age: 22
+    - Gender: Female
+    - Occupation: Undrgraduate Student
+    - Hobbies: Sports, Listening to music, Shopping
+    
+1. What sport do you like to play?
+    - I like to play cricket, football and badminton.
+
+2. What difficulties do you often face when preparing to play that sport (number of players, yard, equipment, ...)  
+    - When preparing for cricket, I often face difficulties in finding enough players, securing a suitable court, and ensuring we have all the necessary equipment. Because this sport is not yet popular in Vietnam, it will be difficult to find people to play with. Moreover, the equipment is also quite expensive, so it is difficult to buy it all at once.
+
+3. If the place to play is far from where you live, do you want to go or not?   
+    - This is also quite difficult to answer. But I will try to come if I promised before.
+
+4. If in the match there were people more qualified than you, how would you feel?
+    - I will feel a little inferior, but I will try to learn from them.
+
+5. What format have you used to schedule and invite friends to participate in sports with?
+    - I often use Messenger or Zalo to schedule and invite friends to participate in sports with
+
+6. If there was an application that provides player search and appointment scheduling, would you want to use it? Why?
+    - Yes. It will be great because it will help me solve the rather annoying problem of lack of players and will save more time.
+
+
+### User Interview 3:
+- Demographics:
+    - Age: 19
+    - Gender: Male
+    - Occupation: Undrgraduate Student
+    - Hobbies: Sports, Traveling, Listening to music
+
+1. What sport do you like to play?
+
+2. What difficulties do you often face when preparing to play that sport (number of players, yard, equipment, ...)  
+
+3. If the place to play is far from where you live, do you want to go or not?
+
+4. If the weather suddenly changes, how will you feel and decide (no more participation, change schedule,...)
+
+5. What format have you used to schedule and invite friends to participate in sports with?
+
+6. If there was an application that provides player search and appointment scheduling, would you want to use it? Why?
+
+### User Interview 4:
+- Demographics:
+    - Age: 21
+    - Gender: Female
+    - Occupation: Undrgraduate Student
+    - Hobbies: Reading, Planting, Sports
+
+1. What sport do you like to play?
+
+2. What difficulties do you often face when preparing to play that sport (number of players, yard, equipment, ...)  
+
+3. Are you interested in sports accessories, or other things?
+
+4. When participating in team sports, do you want a team full of people or full players? Why?
+
+5. If there was an application that provides player search and appointment scheduling, would you want to use it? Why?
+
+6. Do you have any other comments or questions?
+
+### User Interview 5:
+- Demographics:
+    - Age: 20
+    - Gender: Male
+    - Occupation: Undrgraduate Student
+    - Hobbies: Traveling, Group activities, Sports
+
+1. What sport do you like to play?
+
+2. How often do you play sports a week?
+
+3. If in the match there were people more qualified than you, how would you feel?
+
+4. When participating in team sports, do you want a team full of people or full players? Why?
+
+5. If the weather suddenly changes, how will you feel and decide (no more participation, change schedule,...)
+
+6. If there was an application that provides player search and appointment scheduling, would you want to use it? Why?
+
 
 ## Appendix D: Affinity diagram
 
