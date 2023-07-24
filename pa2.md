@@ -5,23 +5,23 @@ title: "HCI: User Research & User Analysis"
 
 # 1. Abstract
 
-Sports have become an essential, such that everyone should be encouraged to do it because of the benefits it brings to the body. Team-oriented games are the options that people could take to enjoy sports activites. We cannot deny the fact that there are still people who are willing to come out and do sports in a group. However, for most of the time, people do not have enough members to conduct sports activities. This situation can lead to discouragement and stopping them from doing any more sports activities due to the insufficient number of members.
+Sports have become essential, such that everyone should be encouraged to do it because of the benefits it brings to the body. Team-oriented games are the options that people could take to enjoy sports activities. We cannot deny the fact that there are still people who are willing to come out and do sports in a group. However, for most of the time, people do not have enough members to conduct sports activities. This situation can lead to discouragement and stop them from doing any more sports activities due to the insufficient number of members.
 
 Therefore, we are proposing a mobile application that can facilitate the process of finding members to play sports together. This application will be able to match people with the same interests and sports activities. It will also be able to provide a platform for people to communicate and arrange the time and place to play sports together. We hope that by doing this, we can encourage more people to do sports and participate more in sports activities as well as to promote a healthy lifestyle.
 
 # 2. Purposes
 
-The purpose of this report is to understand and gain insights into the user's data such as their context, environment, goals, problems, needs, etc. with respect to the problem domain, in order to better understand the users as well as to evaluate and generate potential solution ideas to the problem. Moreover, these research information will help to assess the feasibility of the proposed solution and to indentify potential problems that may arise during the development of the solution. 
+The purpose of this report is to understand and gain insights into the user's data such as their context, environment, goals, problems, needs, etc. concerning the problem domain, in order to better understand the users as well as to evaluate and generate potential solution ideas to the problem. Moreover, this research information will help to assess the feasibility of the proposed solution and to identify potential problems that may arise during the development of the solution. 
 
 # 3. Scope
 
 The research will be conducted, mainly but not limited to, university students who are interested in sports activities. The scope is planned to be in such a way for the following factors:
 
 - We think that university students are more likely to be interested in sports activities as they are still young and energetic, though might suffer from the lack of members due to various reasons, for instance, they are new to the university and do not know many people yet, and/or some might have different schedules and are not able to play sports together.
-- We think that university students are more likely to be willing to try out new things, such as a new mobile application, and are more likely to provide feedbacks and suggestions for improvement.
+- We think that university students are more likely to be willing to try out new things, such as a new mobile application, and are more likely to provide feedback and suggestions for improvement.
 - Since we are also university students, we are more likely to understand the problems that university students are facing and are more likely to come up with solutions that are more suitable for university students.
 
-With the above reasons, though restricted to university students, we believe that the research will be able to provide sufficient information and insights.
+For the above reasons, though restricted to university students, we believe that the research will be able to provide sufficient information and insights.
 
 # 4. Limitations
 
@@ -31,19 +31,19 @@ Our group interviewed 5 people. Our client’s user size ranges from 50-100 per 
 
 ## 4.2. Limitation 2: Sample Selection
 
-Our interview participants were not randomly selected. We asked people we knew, such as classmates and friends, because they were easy to access. In order to be truly random, we could have generated a list of all our classmates, got rid of those not in our target demographic, and then randomly selected people from that list. However, this would have been time consuming and difficult to do.
+Our interview participants were not randomly selected. We asked people we knew, such as classmates and friends, because they were easy to access. In order to be truly random, we could have generated a list of all our classmates, gotten rid of those not in our target demographic, and then randomly selected people from that list. However, this would have been time-consuming and difficult to do.
 
 ## 4.3. Limitation 3: Problem Scope
 
-The problem we are analyzing is also limited. It was somewhat difficult to create interview questions that would help us understand more about this problem without asking our participants specific usability problems or showing them the appplication. Since this phase was not concerned about an applications specific usability issues, we asked more general questions but perhaps did not receive as much as insight to the problem as we would have liked. 
+The problem we are analyzing is also limited. It was somewhat difficult to create interview questions that would help us understand more about this problem without asking our participants about specific usability problems or showing them the application. Since this phase was not concerned about an application's specific usability issues, we asked more general questions but perhaps did not receive as much insight into the problem as we would have liked.
 
 # 5. Summary
 
 The report details and analyzes a series of user research methods conducted for assessment of the problem domain. The research methods include:
 
 - Online survey: to gather an overall understanding of the data and to identify the problems that the users are facing.
-- Interview: specifically, semi-structured interview, to gain insights into more detaiSled information about the users on the problem.
-- Fly on the wall: observation real-life situations of some common sports activities to gain insights into the users' context and environment.
+- Interview: specific, semi-structured interview, to gain insights into more detaiSled information about the users on the problem.
+- Static Photo: observation of real-life situations of some common sports activities to gain insights into the users' context and environment.
 
 ## 5.1. Key findings 1
 
@@ -79,7 +79,7 @@ This question aimed to identify the various sports activities that respondents w
 
 - *How many times a week do you play that sport?*
 
-The frequency of sports participation provided insights into the level of interest and dedication of respondents towards their preferred sports activities. It helped gauge the enthusiasm for regular sports engagement.
+The frequency of sports participation provided insights into the level of interest and dedication of respondents toward their preferred sports activities. It helped gauge the enthusiasm for regular sports engagement.
 
 - *How many hours per game?*
 
@@ -117,7 +117,7 @@ For the interview questions, please refer to [Appendix C](#appendix-c-interview-
 
 ## 6.3. Still-photo survey: 
 
-We asked users to send their own photo of their preparation for sports activities. The purpose of this method is to acquire more information about the users' preparation for sports activities.
+We asked users to send photos of their preparation for sports activities. The purpose of this method is to acquire more information about the users' preparation for sports activities.
 
 ![Alt text](/images-2/image-3.png)
 
@@ -151,7 +151,7 @@ Above are some examples of the photos that we received from the users. From the 
 - If in the match there were people more qualified than you, how would you feel?
 - Are you interested in sports accessories, or other things?
 - When participating in team sports, do you want a team with enough players or more players? Why?
-- What format have you used to schedule and invite friends to participate in sports with?
+- What format have you used to schedule and invite friends to participate in sports?
 - If there were an application that provides player search and appointment scheduling, would you want to use it? Why?
 - Do you have any other comments or questions?
 
@@ -161,24 +161,19 @@ Above are some examples of the photos that we received from the users. From the 
 - Demographics:
     - Age: 21
     - Gender: Male
-    - Occupation: Undrgraduate Student
+    - Occupation: Undergraduate Student
     - Hobbies: Reading, Swimming, Sports, Traveling
 
 1. What sport do you like to play?
     - I like to play football, basketball, badminton, and swimming.
-
 2. How often do you play sports a week?
     - I play sports about 1-2 times a week (2-3h per time)
-
 3. What difficulties do you often face when preparing to play that sport (number of players, yard, equipment, ...)
-    - I often play badminton and often lack people because everyone is busy (same schedule, ...) or have unexpected problems (bad weather, unexpected work,...)
-
+    - I often play badminton and often lack people because everyone is busy (same schedule, ...) or has unexpected problems (bad weather, unexpected work,...)
 4. When you play a sport with your friends (or other people), do you want to play with people of the same level?
     - When playing sports with friends or others, I do prefer playing with people of a similar skill level. It creates a more balanced and enjoyable experience for everyone involved, and it allows us to have competitive but friendly games.
-
-5. What format have you used to schedule and invite friends to participate in sports with?
+5. What format have you used to schedule and invite friends to participate in sports?
     - To schedule and invite friends to participate in sports, we typically use group chats or messaging apps (Messenger, Zalo,...). We share available time slots and try to find a common time that works for everyone. Sometimes, we also use shared calendars to coordinate our schedules.
-    
 6. If there were an application that provides player search and appointment scheduling, would you want to use it? Why?
     - Yes. Such an app would streamline the process of finding players for games and help to organize matches more efficiently. It would save time and eliminate the need for manual coordination, making it easier to connect with people who share the same passion for football or other sports. 
 
@@ -187,39 +182,34 @@ Above are some examples of the photos that we received from the users. From the 
 - Demographics:
   - Age: 22
   - Gender: Female
-  - Occupation: Undrgraduate Student
+  - Occupation: Undergraduate Student
   - Hobbies: Sports, Listening to music, Shopping
 
 1. What sport do you like to play?
     - I like to play cricket, football and badminton.
-
-2. What difficulties do you often face when preparing to play that sport (number of players, yard, equipment, ...)  
+2. What difficulties do you often face when preparing to play that sport (number of players, yard, equipment, ...) 
     - When preparing for cricket, I often face difficulties in finding enough players, securing a suitable court, and ensuring we have all the necessary equipment. Because this sport is not yet popular in Vietnam, it will be difficult to find people to play with. Moreover, the equipment is also quite expensive, so it is difficult to buy it all at once.
-
 3. If the place to play is far from where you live, do you want to go or not?   
-    - This is also quite difficult to answer. But I will try to come if I promised before.
-
+    - This is also quite difficult to answer. But I will try to come if I have promised before.
 4. If in the match there were people more qualified than you, how would you feel?
     - I will feel a little inferior, but I will try to learn from them.
-
-5. What format have you used to schedule and invite friends to participate in sports with?
-    - I often use Messenger or Zalo to schedule and invite friends to participate in sports with
-
+5. What format have you used to schedule and invite friends to participate in sports?
+    - I often use Messenger or Zalo to schedule and invite friends to participate in sports
 6. If there were an application that provides player search and appointment scheduling, would you want to use it? Why?
-    - Yes. It will be great because it will help me solve the rather annoying problem of lack of players and will save more time.
+    - Yes. It will be great because it will help me solve the rather annoying problem of a lack of players and will save more time.
 
 ### User Interview 3:
 
 - Demographics:
     - Age: 21
     - Gender: Male
-    - Occupation: Undrgraduate Student
+    - Occupation: Undergraduate Student
     - Hobbies: Football, Volleyball, Swimming, Hiking
 
 1. What sports do you like to play?
     - I love to play football, but sometimes I do enjoy playing volleyball
 2. What difficulties do you often face when preparing to play that sport (number of players, yard, equipment, ...)
-    - Usually when I want to play football, I have to make sure that my friends are free, and before this was easy but now everyone is busy with their study so it's hard to find a suitable time to play.
+    - Usually, when I want to play football, I have to make sure that my friends are free. Before this was easy but now everyone is busy with their studies so it's hard to find a suitable time to play.
 3. How often do you play sports a week?
     - Before, 1-2 matches a week, but now it's 1s and 0s
 4. If the place to play is far from where you live, do you want to go or not?
@@ -234,19 +224,19 @@ Above are some examples of the photos that we received from the users. From the 
    - Yes, I love football shoes and jerseys.
 9. When participating in team sports, do you want a team with enough players or more players? Why?
     - The more the merrier. It's more fun and we can substitute players when they're tired.
-10. What format have you used to schedule and invite friends to participate in sports with?
-    - Usually chatapp like Messenger to arrange the time and place. Sometimes it's not really convenient because we have to scroll up to find the time and place.
+10. What format have you used to schedule and invite friends to participate in sports?
+    - Usually chat apps like Messenger to arrange the time and place. Sometimes it's not convenient because we have to scroll up to find the time and place.
 11. If there was an application that provides player search and appointment scheduling, would you want to use it? Why?
     - Of course, if it can help me with the problems I mentioned above, I will definitely use it.
 12. Do you have any other comments or questions?
-    - It would be better if the app integrates features like map, weather forecast, and chat.
+    - It would be better if the app integrates features like maps, weather forecasts, and chat.
 
 ### User Interview 4:
 
 - Demographics:
     - Age: 19
     - Gender: Male
-    - Occupation: Undegraduate Student
+    - Occupation: Undergraduate Student
     - Hobbies: Basketball, Football
 
 1. What sports do you like to play?
@@ -276,7 +266,7 @@ Above are some examples of the photos that we received from the users. From the 
 9. When participating in team sports, do you want a team with enough players or more players? Why?
     - Having enough players for a team is crucial for fair play and to avoid putting too much pressure on individual players. However, having more players allows for substitutions and gives everyone a chance to rest during the game, which is beneficial for maintaining energy and performance.
 
-10. What format have you used to schedule and invite friends to participate in sports with?
+10. What format have you used to schedule and invite friends to participate in sports?
     - Usually, we create a Messenger group or use a group chat on social media to schedule and invite friends for basketball games. It's a convenient way to discuss the date, time, and location that works best for everyone.
 
 11. If there were an application that provides player search and appointment scheduling, would you want to use it? Why?
@@ -320,7 +310,7 @@ Above are some examples of the photos that we received from the users. From the 
 9. When participating in team sports, do you want a team with enough players or more players? Why?
     - Having enough players for a team is essential to play the game properly and ensure everyone has a position. However, having more players can be beneficial as it allows for substitutions and prevents players from becoming too fatigued during extended play sessions.
 
-10. What format have you used to schedule and invite friends to participate in sports with?
+10. What format have you used to schedule and invite friends to participate in sports?
     - Typically, for volleyball games with friends, we use a group chat on messaging apps or social media to schedule and invite everyone. It's a convenient way to discuss the best date, time, and location for everyone to participate.
 
 11. If there were an application that provides player search and appointment scheduling, would you want to use it? Why?
