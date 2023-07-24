@@ -1,5 +1,5 @@
 ---
-date: "2023-23-06"
+date: "2023-06-23"
 title: "HCI: Analysis of the User Experience"
 ---
 
