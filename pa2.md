@@ -113,7 +113,7 @@ The interviews were conducted in a one-on-one format, allowing participants to e
 
 The semi-structured interviews provided rich qualitative data that complemented the quantitative findings from the online survey.
 
-For the interview questions, please refer to [Appendix C](#appendix-c-interview-question-scripts). As we have mentioned in the sample size limitation, we have interviewed 5 people. For the interview data, please refer to [Appendix D](#appendix-d-user-research-data).
+For the interview questions, please refer to [Appendix C](#appendix-c-interview-question-scripts). As we have mentioned above, due to the sample size limitation, we only interviewed 5 people (for some people we didn't ask all of the questions from the scripts). For the interview data, please refer to [Appendix D](#appendix-d-user-research-data).
 
 ## 6.3. Still-photo survey: 
 
@@ -152,7 +152,7 @@ Above are some examples of the photos that we received from the users. From the 
 - Are you interested in sports accessories, or other things?
 - When participating in team sports, do you want a team with enough players or more players? Why?
 - What format have you used to schedule and invite friends to participate in sports with?
-- If there was an application that provides player search and appointment scheduling, would you want to use it? Why?
+- If there were an application that provides player search and appointment scheduling, would you want to use it? Why?
 - Do you have any other comments or questions?
 
 ## Appendix D: User Research Data
@@ -179,7 +179,7 @@ Above are some examples of the photos that we received from the users. From the 
 5. What format have you used to schedule and invite friends to participate in sports with?
     - To schedule and invite friends to participate in sports, we typically use group chats or messaging apps (Messenger, Zalo,...). We share available time slots and try to find a common time that works for everyone. Sometimes, we also use shared calendars to coordinate our schedules.
     
-6. If there was an application that provides player search and appointment scheduling, would you want to use it? Why?
+6. If there were an application that provides player search and appointment scheduling, would you want to use it? Why?
     - Yes. Such an app would streamline the process of finding players for games and help to organize matches more efficiently. It would save time and eliminate the need for manual coordination, making it easier to connect with people who share the same passion for football or other sports. 
 
 ### User Interview 2:
@@ -205,7 +205,7 @@ Above are some examples of the photos that we received from the users. From the 
 5. What format have you used to schedule and invite friends to participate in sports with?
     - I often use Messenger or Zalo to schedule and invite friends to participate in sports with
 
-6. If there was an application that provides player search and appointment scheduling, would you want to use it? Why?
+6. If there were an application that provides player search and appointment scheduling, would you want to use it? Why?
     - Yes. It will be great because it will help me solve the rather annoying problem of lack of players and will save more time.
 
 ### User Interview 3:
@@ -328,8 +328,6 @@ Above are some examples of the photos that we received from the users. From the 
 
 12. Do you have any other comments or questions?
     - Probably not...
-
-
 
 ## Appendix E: Affinity diagram
 
