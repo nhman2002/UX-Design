@@ -113,7 +113,7 @@ The interviews were conducted in a one-on-one format, allowing participants to e
 
 The semi-structured interviews provided rich qualitative data that complemented the quantitative findings from the online survey.
 
-For the interview questions, please refer to [Appendix C](#appendix-c-interview-question-scripts). As we have mentioned in the sample size limitation, we have interviewed 5 people. For the interview data, please refer to [Appendix D](#appendix-d-user-research-data).
+For the interview questions, please refer to [Appendix C](#appendix-c-interview-question-scripts). As we have mentioned above, due to the sample size limitation, we only interviewed 5 people (for some people we didn't ask all of the questions from the scripts). For the interview data, please refer to [Appendix D](#appendix-d-user-research-data).
 
 ## 6.3. Still-photo survey: 
 
@@ -152,7 +152,7 @@ Above are some examples of the photos that we received from the users. From the 
 - Are you interested in sports accessories, or other things?
 - When participating in team sports, do you want a team with enough players or more players? Why?
 - What format have you used to schedule and invite friends to participate in sports with?
-- If there was an application that provides player search and appointment scheduling, would you want to use it? Why?
+- If there were an application that provides player search and appointment scheduling, would you want to use it? Why?
 - Do you have any other comments or questions?
 
 ## Appendix D: User Research Data
@@ -179,7 +179,7 @@ Above are some examples of the photos that we received from the users. From the 
 5. What format have you used to schedule and invite friends to participate in sports with?
     - To schedule and invite friends to participate in sports, we typically use group chats or messaging apps (Messenger, Zalo,...). We share available time slots and try to find a common time that works for everyone. Sometimes, we also use shared calendars to coordinate our schedules.
     
-6. If there was an application that provides player search and appointment scheduling, would you want to use it? Why?
+6. If there were an application that provides player search and appointment scheduling, would you want to use it? Why?
     - Yes. Such an app would streamline the process of finding players for games and help to organize matches more efficiently. It would save time and eliminate the need for manual coordination, making it easier to connect with people who share the same passion for football or other sports. 
 
 ### User Interview 2:
@@ -205,7 +205,7 @@ Above are some examples of the photos that we received from the users. From the 
 5. What format have you used to schedule and invite friends to participate in sports with?
     - I often use Messenger or Zalo to schedule and invite friends to participate in sports with
 
-6. If there was an application that provides player search and appointment scheduling, would you want to use it? Why?
+6. If there were an application that provides player search and appointment scheduling, would you want to use it? Why?
     - Yes. It will be great because it will help me solve the rather annoying problem of lack of players and will save more time.
 
 ### User Interview 3:
@@ -240,6 +240,94 @@ Above are some examples of the photos that we received from the users. From the 
     - Of course, if it can help me with the problems I mentioned above, I will definitely use it.
 12. Do you have any other comments or questions?
     - It would be better if the app integrates features like map, weather forecast, and chat.
+
+### User Interview 4:
+
+- Demographics:
+    - Age: 19
+    - Gender: Male
+    - Occupation: Undegraduate Student
+    - Hobbies: Basketball, Football
+
+1. What sports do you like to play?
+    - I enjoy playing basketball the most. It's a great way to stay active, challenge myself, and have fun with friends.
+
+2. What difficulties do you often face when preparing to play that sport (number of players, yard, equipment, ...)?
+    - One of the common challenges I face is finding enough players to form a full team for a basketball game. Sometimes, it's hard to coordinate schedules with everyone. Additionally, finding a suitable basketball court nearby can be tricky, especially during peak hours. Also, ensuring that we have the right equipment, such as basketballs and proper footwear, is essential for a smooth game.
+
+3. How often do you play sports a week?
+    - I try to play basketball at least three times a week. It's a good balance between staying active and managing my other commitments.
+
+4. If the place to play is far from where you live, do you want to go or not?
+    - If the place to play basketball is quite far from where I live, I might hesitate a bit. It would depend on how much I enjoy playing with that particular group of people and how often they play at that location. Sometimes, if it's a special occasion or a tournament, I might be more willing to make the trip.
+
+5. If the weather suddenly changes, how will you feel and decide (no more participation, change schedule,...)
+    - If the weather suddenly changes and it's an outdoor game, I would feel disappointed if we can't play as planned. In such cases, we might have to adjust the schedule and try to find an indoor court if available. If it's not possible, then we'd probably have to cancel or reschedule the game.
+
+6. When you play a sport with your friends (or other people), do you want to play with people of the same level?
+    - I enjoy playing with friends and people of similar skill levels. It creates a balanced and competitive atmosphere, making the game more enjoyable for everyone involved.
+
+7. If in the match there were people more qualified than you, how would you feel?
+    - Playing against more qualified players can be both challenging and inspiring. I might feel a bit nervous, but it also motivates me to improve my skills and learn from their gameplay.
+
+8. Are you interested in sports accessories, or other things?
+    - I'm definitely interested in sports accessories that enhance my performance, like good-quality basketball shoes and comfortable apparel. Having the right gear can make a significant difference in how I play.
+
+9. When participating in team sports, do you want a team with enough players or more players? Why?
+    - Having enough players for a team is crucial for fair play and to avoid putting too much pressure on individual players. However, having more players allows for substitutions and gives everyone a chance to rest during the game, which is beneficial for maintaining energy and performance.
+
+10. What format have you used to schedule and invite friends to participate in sports with?
+    - Usually, we create a Messenger group or use a group chat on social media to schedule and invite friends for basketball games. It's a convenient way to discuss the date, time, and location that works best for everyone.
+
+11. If there were an application that provides player search and appointment scheduling, would you want to use it? Why?
+    - Absolutely! Such an application would be incredibly helpful in finding suitable players to join our basketball games, especially when we're short on players. It would save time and effort in coordinating schedules and ensure we have a good number of players for a fun and competitive game.
+
+12. Do you have any other comments or questions?
+    - Not at the moment, but if I think of anything, I'll be sure to ask. Thanks for the opportunity to share my thoughts!
+
+### User Interview 5:
+
+- Demographics:
+    - Age: 22
+    - Gender: Female
+    - Occupation: Undergraduate student
+    - Hobbies: Volleyball, badminton, swimming
+
+1. What sports do you like to play?
+    - I absolutely love playing volleyball! It's a fast-paced and dynamic sport that requires teamwork and coordination.
+
+2. What difficulties do you often face when preparing to play that sport (number of players, yard, equipment, ...)
+    - One of the challenges I often face is finding enough players to form two teams for a proper volleyball game. Sometimes, it can be tough to get everyone together due to conflicting schedules. Also, finding a suitable volleyball court with a good surface and proper net height can be challenging, especially when playing casually.
+
+3. How often do you play sports a week?
+    - I try to play volleyball at least twice a week. It's a great way to stay active and socialize with friends who share the same passion for the sport.
+
+4. If the place to play is far from where you live, do you want to go or not?
+    - If the volleyball court is quite far from my home, I would consider the distance and how much I enjoy playing with the group. If it's a regular gathering with friends, I'd be more inclined to make the trip, but for occasional games, it might be a bit less convenient.
+
+5. If the weather suddenly changes, how will you feel and decide (no more participation, change schedule,...)
+    - If the weather suddenly changes, especially if it's an outdoor game, I'd feel disappointed if we can't play as planned. We might have to consider rescheduling the game or look for an indoor court as an alternative.
+
+6. When you play a sport with your friends (or other people), do you want to play with people of the same level?
+    - When playing with friends, it's always enjoyable to play with people of similar skill levels. It ensures a fair and balanced match, and it's also a great opportunity to improve together and have friendly competitions.
+
+7. If in the match there were people more qualified than you, how would you feel?
+    - If there are more qualified players in the match, I might feel a bit intimidated at first, but I also see it as a chance to learn and grow as a volleyball player. It pushes me to give my best and pick up new skills from those more experienced.
+
+8. Are you interested in sports accessories, or other things?
+    - Definitely! Sports accessories can make a significant difference in performance and comfort. For volleyball, I'm always on the lookout for good knee pads, comfortable shoes with proper grip, and moisture-wicking apparel.
+
+9. When participating in team sports, do you want a team with enough players or more players? Why?
+    - Having enough players for a team is essential to play the game properly and ensure everyone has a position. However, having more players can be beneficial as it allows for substitutions and prevents players from becoming too fatigued during extended play sessions.
+
+10. What format have you used to schedule and invite friends to participate in sports with?
+    - Typically, for volleyball games with friends, we use a group chat on messaging apps or social media to schedule and invite everyone. It's a convenient way to discuss the best date, time, and location for everyone to participate.
+
+11. If there were an application that provides player search and appointment scheduling, would you want to use it? Why?
+    - Absolutely! Such an application would be incredibly useful for finding players to join our volleyball games, especially when we're short on players.
+
+12. Do you have any other comments or questions?
+    - Probably not...
 
 ## Appendix E: Affinity diagram
 
