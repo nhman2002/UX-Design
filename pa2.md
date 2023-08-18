@@ -1,8 +1,3 @@
----
-date: "2023-07-20"
-title: "HCI: User Research & User Analysis"
----
-
 # 1. Abstract
 
 Sports have become essential, such that everyone should be encouraged to do it because of the benefits it brings to the body. Team-oriented games are the options that people could take to enjoy sports activities. We cannot deny the fact that there are still people who are willing to come out and do sports in a group. However, for most of the time, people do not have enough members to conduct sports activities. This situation can lead to discouragement and stop them from doing any more sports activities due to the insufficient number of members.
