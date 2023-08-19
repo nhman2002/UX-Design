@@ -27,9 +27,9 @@ We have come up with the following potential solutions:
 | --- | ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
 | 1   | Traditional-style Mobile Application | A traditional-style mobile application that allows users to post their match information, including the sport type, date and time, location, and the number of members needed, etc. | Nam Hoai, Trung Thieu  |
 | 2   | Map-centric Application              | A map-centric application that utilize real-time location to search for matches with visualization of where the match takes place.                                                  | Hieu Nguyen, Man Huynh |
-| 3   | Renting Website                      | A website platform that allows users to rent a player of their preference for the match.                                                                                            | Hieu Nguyen            |
+| 3   | "Renting" Website                    | A website platform that allows users to rent a player of their preference for the match.                                                                                            | Hieu Nguyen            |
 
-## Traditional-style Mobile Application
+## Traditional-styled Mobile Application
 
 We notice that the method that users are currently using to find members for their match is to post on social media platforms such as Facebook, Zalo, etc. However, this method is not very effective for the following reasons:
 
@@ -170,7 +170,7 @@ Cons:
 
 # Evaluation
 
-## Evaluation Criteria
+## Criteria
 
 We aim for our solutions to incorporate the following criteria: **Practicality**, **Usability**, and **Accessibility**.
 
@@ -178,6 +178,108 @@ In more details:
 
 - Practicality: The practicality aspect entails an examination of the application's viability and feasibility in mitigating challenges associated with assembling a sufficient number of participants for sporting events. Additionally, the assessment aims to ascertain the economic viability, scalability, and necessity of the solution. A judicious evaluation of these factors is pivotal to inform subsequent developmental decisions pertaining to the complete product.
 - Usability: The usability evaluation revolves around the assessment of the application's user-friendliness and intuitive nature. The primary concern is to ascertain whether end-users can seamlessly interact with the solution. A user's ability to engage with the application without encountering impediments is of paramount importance to ensure an optimal user experience.
-- Accessibility: The accessibility evaluation seeks to determine the extent to which the solution is easily reachable to users across various devices, including mobile and web applications. The objective is to ensure that the application can be accessed conveniently, regardless of the user's chosen platform. This facet is integral to providing a frictionless user experience and widening the potential user base.
+- Effectiveness: The effectiveness evaluation aims to assess the application's ability to achieve its intended purpose. Systematic recording of task completion times with the application will furnish insights into its efficiency. These data points will be evaluated against predefined benchmarks, effectuating a comprehensive evaluation of the application's efficacy. Simultaneously, the quantification of steps or interactions required to fulfill tasks will illuminate the application's accessibility and effectiveness.
+
+The goal of our testing was to see how users interact with our interface. We really wanted to see if the interface was intuitive for users, if they understood what they needed to do to accomplish the tasks. We also used the user testing to find better and more intuitive ways to do things and to have the overall data to decide which of our prototypes was the best, and which one we should continue to develop and turn into a high-fidelity prototype.
 
 ## Participants
+
+We conducted the testing with 2 groups of participants, which are:
+
+- Youngsters, mid 20s, who mostly have experience with technology.
+- Middle-aged to seniors, from 35 to 50s, who have limited experience with technology.
+
+For each group, we planned to have 3 participants, each of whom will be given a list of tasks to complete. We will observe how they interact with the interface. We will also ask them to think aloud while they are performing the tasks, so that we can understand their thought process and the reasoning behind their actions. We took notes about every click on our interface so that we could easily find recurring problems between users. After the tasks were all completed we asked for the users thoughts to get more general feedback, which would accompany the specific feedback we got during the tests
+
+Due to the limit of time and resources, we limited the scope of participants to people who we know, and we also asked them to recommend their friends and family to participate in the testing. We also asked them to recommend people from different age groups, so that we can have a diverse range of participants.
+
+# Evaluation Methods
+
+We conducted the following methods to evaluate the effectiveness of the solutions:
+
+- General Evaluation: We created a Google Form to collect the general feedback from the users in order to evaluate and assess the overall effectiveness of the solutions.
+- Tasks-based Evaluation: We created a list of tasks for the users to complete, and we observed how they interact with the interface. We also asked them to think aloud while they are performing the tasks, so that we can understand their thought process and the reasoning behind their actions.
+- Questionnaire: We created a questionnaire to collect the feedback from the users after they have completed the tasks. The questionnaire consists of questions regarding the user's experience with the interface, the ease of use, etc.
+
+## General Evaluation
+
+The general evaluation serves as a general assessment of the solutions and a introductory survey before the detailed evaluation on each prototype. The form consists of these following important questions:
+
+1. Given the 3 solutions, which of the them you think best solves the mentioned problem?
+2. With your chosen option, do you believe that the prototype can be effectively implemented in real-world scenarios?
+3. Which of the given interfaces makes the most sense to you in terms of:
+   - Intuition.
+   - Ease of navigation.
+   - Amount of information displayed.
+   - You think you can easily "use" in the shortest amount of time.
+4. Did you find any features or interactions confusing or counterintuitive with your chosen interface?
+5. How likely are you to recommend this prototype to friends or colleagues who face the similar problem?
+
+We expected that by asking these questions, we could formulate a general idea and gather data to evaluate the solutions with respects to the aforementioned criteria:
+
+- Practicality: The probability of the solution to be implemented in real-world scenarios.
+- Usability: The ease of use of the interface, like navigation, amount of information displayed, etc.
+- Effectiveness: The effectiveness of the solution in solving the problem in terms of the user's perspective.
+
+The link to the form can be found [here](https://forms.gle/TcMpq39kzU6WjejU8).
+
+### Results
+
+- The majority of the participants chose the traditional-styled mobile application as the best solution to solve the problem.
+
+<!-- Image -->
+
+- With the chosen option, the majority of the participants believe that the prototype can be effectively implemented in real-world scenarios.
+
+<!-- Image -->
+
+- For the given interfaces, the majority of the participants votes for the traditional-styled mobile application as the most intuitive, easy to navigate, and easy to use.
+
+<!-- Image -->
+
+- For the confusing or counterintuitive features or interactions, the majority of the participants stated that they might find the information abundant or overwhelming on the screen.
+
+<!-- Image -->
+
+- The majority of the participants stated that they are likely to recommend the prototype to friends or colleagues who face the similar problem.
+
+<!-- Image -->
+
+## Tasks-based Evaluation
+
+We formulated the list of tasks for the users to complete to evaluate the following aspects:
+
+- Navigation: How easy it is for the users to navigate through the interface.
+- Information: How easy it is for the users to find the information they need.
+- Interaction: How easy it is for the users to interact with the interface.
+- Task completion and time measurement: How long it takes for the users to complete the tasks.
+
+The above aspects are common aspects that we tested with all 3 prototypes. We also tested the specific aspects that are unique to each prototype, which we will be discussed in the later sections.
+
+We conduct the test with 4 participants, each of whom will be given a list of tasks to complete. We will observe how they interact with the interface. We will also ask them to think aloud while they are performing the tasks, so that we can understand their thought process and the reasoning behind their actions. We took notes about every click on our interface so that we could easily find recurring problems between users. We also expect that each task will take the users no more than 1 minute to complete.  
+
+### Tasks
+
+Since the third prototype differs from the first 2 prototypes in terms of the purpose and the functionality, we formulated the tasks for the first 2 prototypes and the third prototype separately.
+
+The following tasks apply to the first 2 prototypes, which are the traditional-styled mobile application and the map-centric application:
+
+1. Find the match of your interest.
+2. Click on the match to view the details.
+3. Apply to join the match.
+4. Create a new match, fill in the necessary information.
+5. Change the information of the match that you created.
+
+The following tasks apply to the third prototype, which is the "renting" website:
+
+1. Find the player of your interest.
+2. Click on the player to view the details.
+3. Contact the player to invite them to join the match.
+4. Create a new profile, fill in the necessary information.
+5. Change your profile information.
+
+### Results
+
+#### Traditional-styled Mobile Application
+
+| Task | Success Rate | Average Time (s) | Notes
