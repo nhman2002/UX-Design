@@ -283,3 +283,14 @@ The following tasks apply to the third prototype, which is the "renting" website
 #### Traditional-styled Mobile Application
 
 | Task | Success Rate | Average Time (s) | Notes
+
+
+### Conclusion
+
+With the results from the tests that we conducted combined with our own observations and evaluations, we have come to the following conclusions:
+
+- The traditional-styled mobile application is the most effective solution to solve the problem. Most of the results tend to favor this solution, and the majority of the participants also chose this solution as the best solution to solve the problem.
+- The tasks-based results also show that the traditional-styled mobile application is the most effective solution to solve the problem. The success rate is the highest, and the average time to complete the tasks is also the lowest. In addition, the participants also stated that they find the interface intuitive and easy to use.
+- The other 2 solutions, although some participants find them interesting, are not as effective as the traditional-styled mobile application when evaluating the criteria.
+
+In conclusion, we chose the traditional-styled mobile application as the solution to solve the problem, and have made a high-fidelity prototype for the solution.
