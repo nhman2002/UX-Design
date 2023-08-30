@@ -117,3 +117,29 @@ We used a timer to record the time taken by the participants to complete the tas
 # Results
 
 <!-- in progress -->
+
+# Appendix
+
+## Task 1: Find a match missing 3 members and apply to that match 
+
+- How easy was it to find that match?
+- Observe "The match detail" screen, did you know how to view the author's information ?
+
+## Task 2: Create a match
+
+- How easy was it to find "Create" button?
+- Is the layout form convenient for your input?
+- Do you want to add any fields to make the form more complete?
+
+## Task 3: Find the candidates who applied to your match and approve them
+
+- How easy was it to find "My match" screen?
+- Is the position of "Candidate" button convenient? If not, where do you want to put that button? 
+- How do you feel about approving candidate having to go through multiple screens?
+- Do you have any solution about approving candidates?
+
+## Task 4: Find your contacts and chat with any 1 person
+
+- Do you think this function is necessary?
+- Do you think the position of the "search" button is reasonable?
+- Do you want to add any function for this screen?
