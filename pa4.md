@@ -21,6 +21,8 @@ Based on the goals of this study, we conducted the testing with 3 groups of part
 - Intermediate Users: People who are familiar with a wide range of digital tools and applications and may use technology regularly in their personal and professional lives, but do not have a background in technology or technology-related fields.
 - Novice Users: People with basic knowledge and skills in performing tasks on digital tools and applications.
 
+We had our questions and tests written in English, that is why we also made sure that the participants have the ability to understand and speak English, at least at a basic level, so that they can understand the instructions and provide feedback in English. 
+
 Due to the limit of time and resources, we limited the scope of participants to people who we know, and we also asked them to recommend their friends and family to participate in the testing. We also asked them to recommend people from different age groups, so that we can have a diverse range of participants.
 
 There were 3 participants in total, all were tested in person with the same testing protocol
@@ -66,7 +68,7 @@ Post-interview, we consolidate the data and catalog it within the report. This d
 
 ## Satisfaction Assessment
 
-- SUS (System Usability Scale): After each task, we asked participants to complete the SUS questionnaire.
+- SUS (System Usability Scale): Post-test, we administered the SUS questionnaire to participants to gauge their overall satisfaction with the prototype.
 
 ## Materials and Tools
 
