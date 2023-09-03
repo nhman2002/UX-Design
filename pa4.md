@@ -251,10 +251,19 @@ Participant Comments:
 
 ## Performance data analysis
 
-- Partipant 1 and 2 took a noticeably longer time to complete the tasks compared to participant 3. This might be due to the fact that participant 3 is an advanced user, while participant 1 and 2 are intermediate and novice users respectively.
-- Participant 1 was the only participant that needed the most assists and made the most errors.
-- All participants stated that the application is quite easy to use and intuitive, but there are some minor drawbacks that need to be addressed.
-- There should be a tutotial for new users to get used to the application.
+- 2/3 participants found that it was easy to find the specific match in the test. This shows us that the layout of the match screen is reasonable and intuitive enough for the users to find the match that they want. However, there should be a search function to find the desired match like the participants suggested. Moreover, we think that with the prototypes, the number of matches is relatively small, so it is easy for the participants to find the match that they want. However, in the real application, the number of matches will be much larger, so it is necessary to have a search function to find the desired match.
+
+![Alt text](./images-4/image-1.png)
+
+- 2/3 participants stated that it was convenient for them to navigate through multiple screens to find the candidates' information. However, as far as the test in concerned, we noticed that the participants did struggle a little bit to carry out this task. This shows us that the screen switching is quite a hassle and may not be necessary and will affect the user experience.
+
+![Alt text](./images-4/image-2.png)
+
+- All 3 participants found the placement of the search button is not convenient. We also think that the current position of the search button may cause some problems in the future, especially when the list gets longer, it may covers the list.
+
+![Alt text](./images-4/image-3.png)
+
+Overall, the tests went quite well, and the participants were able to complete the tasks with ease. They were noticed to be content with the interface and the overall experience. There are still some drawbacks that we need to address, but overall the application is quite intuitive and easy to use.
 
 ## SUS
 
@@ -271,9 +280,9 @@ The results are as follows:
 | Std. Dev.   | 5.77      |
 
 - Participant 1: The SUS score is 67.5, which is considered "OK" according to the SUS score interpretation. The participant commented that the application is quite easy to use, but there are some minor drawbacks that need to be addressed. Overall the participant is satisfied with the application.
-- Participant 2 and 3: The SUS score is 75 and 77.5, which is considered "Good" according to the SUS score interpretation. They commented that the application is quite easy to use, with the interface perceived as modern and intuitive. Overall, the participants are satisfied with the application.
+- Participant 2 and 3: The SUS score is 75 and 77.5, which is considered "Good". They commented that the application is quite easy to use, with the interface perceived as modern and intuitive. Overall, the participants are satisfied with the application.
 
-The average SUS score is 73.33, which is considered "Good" according to the SUS score interpretation. We can conclude that the participants are satisfied with the application. However these numbers are not 100% accurate for the following reasons:
+The average SUS score is 73.33, with which we can conclude that the participants are satisfied with the application. However these numbers may not be 100% accurate for the following reasons:
 
 - The total number of participants is too small (3 in total), which is not enough to represent the whole population.
 - The tests are conducted in a *not-so-professional* manner, which may affect the results.
@@ -329,6 +338,7 @@ Despite the drawbacks, we can still use the SUS score as a reference to evaluate
 - [Prototype Figma](https://www.figma.com/file/nbwo7zNp0pIKGvlejzNw8L/PA3?type=design&node-id=0-1&mode=design).
 - [Post-test Evaluation Questionnaire](https://docs.google.com/forms/d/e/1FAIpQLScnjuSQduXAjHtYuWBKiBL4llQeNnCmvb3qq1iKSHkf8sxK-w/viewform).
 - [SUS Questionnaire](https://docs.google.com/forms/d/e/1FAIpQLScPzmo9yHW6MHqhszgN6rfgzZnCh0_a-WKtWmZ_Koo4G1F6Tg/viewform).
+- [Result of post-task Questionnaire](https://docs.google.com/forms/d/1Yd-t1fsY_Ws6aU4Ac7MskPlGl87K0L6oxyLuzk313T0/edit?ts=64f41b26#responses).
 - [Result of SUS Questionnaire](https://docs.google.com/forms/d/1zb0ZrLV9v14e9AvwfqXeNWwJ1k2SzHdoNXGvcHlYr-w/edit?ts=64f2fefd#response=ACYDBNiOMA5yKKngOHgm103atJGi4QOsv5qXnTmqXxRMa8RaGb5YE1u64qBPnMLkAkpwzF8).
 
 # Reference
