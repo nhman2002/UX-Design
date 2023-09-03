@@ -323,7 +323,7 @@ Additionally, this allows for easier adaptation across different screen sizes an
 
 Starting the game, the players are packed in an airplane which flies across the map, the flight direction is random in each round.
 
-![Alt text](image.png)
+![Alt text](/images/pubg-flight-2.png)
 
 On the left there is a text line to display the number of players are in the plane, and a jump button to exit (with an illustration of a man free falling with a parachute). The extension section above includes a stearing wheel, a follow button, an invite button. The stearing wheel shows who is in charge of leaving the aircraft and guiding their teammate to land at the predetermined target. By hovering the color icon over the stearing wheel, it shows who is the leader according to the color previously marked by the game. For exemple: if you assign the first person whose color is yellow to be the leader, your stearing wheel will have a yellow icon.
 
